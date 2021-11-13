@@ -1,0 +1,84 @@
+{
+  "populate": {
+    "saltpeter": {
+      "enabled": "true",
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "railcraft:ore",
+          "metadata": 1
+        },
+        "material": "minecraft:sand",
+        "cluster-size": 16
+      },
+      "cluster-count": 3,
+      "min-height": 5,
+      "max-height": 255,
+      "retrogen": "true",
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "SANDY"
+          }
+        ]
+      },
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          -1,
+          1
+        ]
+      }
+    },
+    "sulfur": {
+        "enabled": "true",
+        "distribution": "uniform",
+        "generator": {
+          "block": {
+            "name": "railcraft:ore",
+            "metadata": 0
+          },
+          "material": "minecraft:stone",
+          "cluster-size": 4
+        },
+        "cluster-count": 4,
+        "min-height": 30,
+        "max-height": 70,
+        "retrogen": "true",
+        "biome": "all",
+        "dimension": {
+          "restriction": "blacklist",
+          "value": [
+            -1,
+            1
+          ]
+        }
+      },
+    "zinc": {
+        "enabled": "true",
+        "distribution": "uniform",
+        "generator": {
+          "block": {
+            "name": "railcraft:ore_metal",
+            "metadata": 5
+          },
+          "material": "minecraft:stone",
+          "cluster-size": 4
+        },
+        "cluster-count": 16,
+        "min-height": 5,
+        "max-height": 55,
+        "retrogen": "true",
+        "biome": "all",
+        "dimension": {
+          "restriction": "blacklist",
+          "value": [
+            -1,
+            1
+          ]
+        }
+      }
+  }
+}
