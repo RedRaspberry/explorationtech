@@ -1,0 +1,34 @@
+/.mixin.out
+/cache
+/crash-reports
+/downloads
+/dumps
+/llibrary
+/local
+/logs
+/mods
+/saves
+/screenshots
+/XaeroWaypoints
+/XaeroWaypoints_BACKUP032021
+/XaeroWorldMap
+
+.curseclient
+BotaniaVars.dat
+crafttweaker.log
+icon.png
+minecraftinstance.json
+OpenComputersMod-1.7.5.192-lua52-native.64.dll
+OpenComputersMod-1.7.5.192-lua53-native.64.dll
+usercache.json
+usernamecache.json
+
+/config/splash.properties
+/config/BiomeTweaker/output
+/config/jei/bookmarks.ini
+/config/jei/worldSettings.cfg
+/config/MouseTweaks.cfg
+/config/ichunutil_keybinds.cfg
+/config/randomtweaks/data.json
+/resourcepacks/Aether b1.7.3 Textures
+/resourcepacks/NTOV v1.zip
