@@ -27,9 +27,9 @@
 	"integrity": 1,
 	"decay": 0,
 
-	"filling": "",
+	"filling": "minecraft:cobblestone",
 	"fillingMetadata": 0,
 	"fillingType": "AIR",
 
-	"rarity": 100
+	"rarity": 15000
 }

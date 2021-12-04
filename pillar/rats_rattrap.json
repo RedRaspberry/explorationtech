@@ -16,7 +16,7 @@
 	"rotation": null,
 	"ignoreEntities": false,
 
-	"dimensionSpawns": [],
+	"dimensionSpawns": [0],
 	"biomeNameSpawns": [],
 	"biomeTagSpawns": [],
 	"isDimensionSpawnsBlacklist": false,
@@ -31,5 +31,5 @@
 	"fillingMetadata": 0,
 	"fillingType": "AIR",
 
-	"rarity": 120
+	"rarity": 1200
 }

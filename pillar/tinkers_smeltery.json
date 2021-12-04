@@ -16,7 +16,7 @@
 	"rotation": null,
 	"ignoreEntities": false,
 
-	"dimensionSpawns": [],
+	"dimensionSpawns": [0],
 	"biomeNameSpawns": [],
 	"biomeTagSpawns": [],
 	"isDimensionSpawnsBlacklist": false,
@@ -27,9 +27,9 @@
 	"integrity": 1,
 	"decay": 0,
 
-	"filling": "",
+	"filling": "minecraft:cobblestone",
 	"fillingMetadata": 0,
 	"fillingType": "AIR",
 
-	"rarity": 75
+	"rarity": 50000
 }

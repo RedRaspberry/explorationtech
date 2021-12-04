@@ -9,7 +9,7 @@
 	"minY": -1,
 	"maxY": -1,
 	"offsetX": 0,
-	"offsetY": -1,
+	"offsetY": 0,
 	"offsetZ": 0,
 
 	"mirrorType": "LEFT_RIGHT",
@@ -27,9 +27,9 @@
 	"integrity": 1,
 	"decay": 0,
 
-	"filling": "",
+	"filling": "minecraft:dirt",
 	"fillingMetadata": 0,
 	"fillingType": "AIR",
 
-	"rarity": 70
+	"rarity": 5000
 }
