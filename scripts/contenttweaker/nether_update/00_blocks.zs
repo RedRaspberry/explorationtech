@@ -14,8 +14,8 @@ blackstone.register();
 
 var gilded_blackstone = VanillaFactory.createBlock("gilded_blackstone", <blockmaterial:rock>);
 gilded_blackstone.setDropHandler(function(drops, world, position, state, fortune) {
-list.add(<item:minecraft:gold_nugget>);
-return;
+  drops.add(<item:minecraft:gold_nugget>);
+  return;
 });
 gilded_blackstone.setBlockHardness(6.0);
 gilded_blackstone.setBlockResistance(6.0);
@@ -24,9 +24,9 @@ gilded_blackstone.setBlockSoundType(<soundtype:stone>);
 gilded_blackstone.register();
 
 var nether_gold_ore = VanillaFactory.createBlock("nether_gold_ore", <blockmaterial:rock>);
-nether_gold.setDropHandler(function(drops, world, position, state, fortune) {
-list.add(<item:minecraft:gold_nugget>);
-return;
+nether_gold_ore.setDropHandler(function(drops, world, position, state, fortune) {
+  drops.add(<item:minecraft:gold_nugget>);
+  return;
 });
 nether_gold_ore.setBlockHardness(3.0);
 nether_gold_ore.setBlockResistance(3.0);
