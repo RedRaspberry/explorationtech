@@ -6,8 +6,8 @@ import mods.contenttweaker.DropHandler;
 import mods.contenttweaker.ItemList;
 
 var blackstone = VanillaFactory.createBlock("blackstone", <blockmaterial:rock>);
-blackstone.setBlockHardness(6.0);
-blackstone.setBlockResistance(6.0);
+blackstone.setBlockHardness(4.0);
+blackstone.setBlockResistance(4.0);
 blackstone.setToolClass("pickaxe");
 blackstone.setBlockSoundType(<soundtype:stone>);
 blackstone.register();
@@ -17,8 +17,8 @@ gilded_blackstone.setDropHandler(function(drops, world, position, state, fortune
   drops.add(<item:minecraft:gold_nugget>);
   return;
 });
-gilded_blackstone.setBlockHardness(6.0);
-gilded_blackstone.setBlockResistance(6.0);
+gilded_blackstone.setBlockHardness(4.0);
+gilded_blackstone.setBlockResistance(4.0);
 gilded_blackstone.setToolClass("pickaxe");
 gilded_blackstone.setBlockSoundType(<soundtype:stone>);
 gilded_blackstone.register();
@@ -35,7 +35,7 @@ nether_gold_ore.setBlockSoundType(<soundtype:stone>);
 nether_gold_ore.register();
 
 var shroomlight = VanillaFactory.createBlock("shroomlight", <blockmaterial:gourd>);
-shroomlight.setBlockHardness(6.0);
+shroomlight.setBlockHardness(5.0);
 shroomlight.setBlockResistance(4.0);
 shroomlight.setLightValue(1);
 shroomlight.setToolClass("axe");
