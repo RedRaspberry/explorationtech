@@ -1,6 +1,11 @@
 #loader contenttweaker
 
-var amethyst = VanillaFactory.createBlock("amethyst", <blockmaterial:rock>);
+import mods.contenttweaker.VanillaFactory;
+import mods.contenttweaker.Block;
+import mods.contenttweaker.DropHandler;
+import mods.contenttweaker.ItemList;
+
+var amethyst_block = VanillaFactory.createBlock("amethyst", <blockmaterial:rock>);
 
 amethyst.setBlockHardness(4.0);
 amethyst.setBlockResistance(4.0);
