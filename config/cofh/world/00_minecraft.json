@@ -211,7 +211,7 @@
 			"generator": {
 				"block": "diamond_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 8
+				"cluster-size": 7
 			},
 			"cluster-count": 3,
 			"min-height": 0,
