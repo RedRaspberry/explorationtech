@@ -1,0 +1,83 @@
+{
+  "populate": {
+
+    "iron_andersite": {
+      "enabled": "true",
+      "distribution": "uniform",
+      "type": "large-vein"
+      "generator": {
+        "block": [
+        {
+          "name": "minecraft:iron_ore",
+          "weight": 70
+        },
+        {
+          "name": "stone",
+					"properties": {
+						"variant": "andesite"
+          "weight": 30
+          }
+        }
+      ],
+      "material": "minecraft:stone",
+      "cluster-size": 300,
+    },
+
+    "cluster-count": 1,
+    "spindly": "true",
+    "chunk-chance": 0.01,
+    "min-height": 25,
+    "max-height": 175,
+    "retrogen": "true",
+    "biome": "all",
+    "dimension": {
+      "restriction": "blacklist",
+      "value": [
+        -1,
+        1
+      ]
+    }
+  },
+
+    "copper_granite": {
+      "enabled": "true",
+      "distribution": "uniform",
+      "type": "large-vein"
+      "generator": {
+        "block": [
+        {
+          "name": "thermalfoundation:ore",
+					"properties": {
+						"type": "copper"
+          }
+          "weight": 70
+        },
+        {
+          "name": "stone",
+          "properties": {
+            "variant": "granite"
+          }
+          "weight": 30
+        }
+      ],
+      "material": "minecraft:stone",
+      "cluster-size": 300,
+    },
+
+    "cluster-count": 1,
+    "spindly": "true",
+    "chunk-chance": 0.01,
+    "min-height": 25,
+    "max-height": 175,
+    "retrogen": "true",
+    "biome": "all",
+    "dimension": {
+      "restriction": "blacklist",
+      "value": [
+        -1,
+        1
+      ]
+    }
+  },
+  }
+}
