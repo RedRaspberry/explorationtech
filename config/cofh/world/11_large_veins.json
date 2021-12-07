@@ -9,18 +9,18 @@
         "block": [
         {
           "name": "minecraft:iron_ore",
-          "weight": 70
+          "weight": 60
         },
         {
           "name": "stone",
 					"properties": {
 						"variant": "andesite"
-          "weight": 30
+          "weight": 40
           }
         }
       ],
       "material": "minecraft:stone",
-      "cluster-size": 300,
+      "cluster-size": 30,
     },
 
     "cluster-count": 1,
@@ -50,18 +50,18 @@
 					"properties": {
 						"type": "copper"
           }
-          "weight": 70
+          "weight": 50
         },
         {
           "name": "stone",
           "properties": {
             "variant": "granite"
           }
-          "weight": 30
+          "weight": 50
         }
       ],
       "material": "minecraft:stone",
-      "cluster-size": 300,
+      "cluster-size": 30,
     },
 
     "cluster-count": 1,
