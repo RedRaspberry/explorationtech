@@ -1,1 +1,16 @@
-{"bookGuiScale":0,"clickedVisualize":false,"bookData":{}}
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "engineersdecor:engineersdecor_manual": {
+      "viewedEntries": [
+        "engineersdecor:automation/small_milking_machine"
+      ],
+      "bookmarks": [],
+      "history": [
+        "engineersdecor:automation/small_milking_machine"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

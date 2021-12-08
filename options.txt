@@ -136,9 +136,9 @@ key_key.ebwizardry.spell_6:7:ALT
 key_key.ebwizardry.spell_7:8:ALT
 key_key.ebwizardry.spell_8:9:ALT
 key_keybind.railcraft.cart.bed:208
+key_key.inventorysorter.itemout:-201
 key_key.inventorysorter.itemin:-200
 key_key.inventorysorter.sort:-98
-key_key.inventorysorter.itemout:-201
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_neat.keybind.toggle:0
@@ -150,6 +150,7 @@ key_key.toggleFoVChanges:51:SHIFT
 key_key.reloadSoundSystem:66:SHIFT
 key_key.toggleTimeOfDayOverlay:0
 key_key.togglePotionParticles:66:CONTROL
+key_key.wings.fly:19
 key_key.dismount:42
 key_key.narrator:48:CONTROL
 key_key.toggle_focus.desc:15
@@ -176,7 +177,7 @@ key_mekanism.key.feetMode:35
 key_mekanism.key.voice:22
 key_key.aether.accessory_menu:23
 key_nei.options.keys.gui.botania_corporea_request:46
-key_key.astikorcarts.desc:19
+key_key.astikorcarts.desc:0
 key_dsurround.cfg.keybind.AnimaniaBadges:0
 key_key.clipboardPaste:210
 key_Activate Hexxit Gear Armor:45
