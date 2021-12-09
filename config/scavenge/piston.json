@@ -1,0 +1,31 @@
+{
+	"block_pools" :
+	[
+		{
+			"name": "Piston",
+			"type":
+			{
+				"type": "block",
+				"name": "minecraft:piston"
+			},
+			"clicktype": "right",
+			"properties":
+			[
+				{
+					"type": "require_item",
+          "name": "minecraft:slime_ball"
+				}
+			],
+      "drops":
+      [
+        {
+          "effects":
+            {
+              "type": "consume_block",
+              "name": "minecraft:sticky_piston"
+            }
+        }
+      ]
+    }
+	]
+}
