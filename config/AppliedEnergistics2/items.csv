@@ -11739,6 +11739,32 @@ appliedenergistics2:facade:0, Cable Facade - Palm Wood
 appliedenergistics2:facade:0, Cable Facade - Deadwood Log
 appliedenergistics2:facade:0, Cable Facade - Palm Leaves
 appliedenergistics2:facade:0, Cable Facade - Deadwood Leaves
+<<<<<<< Updated upstream
+=======
+appliedenergistics2:facade:0, Cable Facade - Swamp Oak Leaves
+appliedenergistics2:facade:0, Cable Facade - White Cave Crystal
+appliedenergistics2:facade:0, Cable Facade - Ender Biotite Ore
+appliedenergistics2:facade:0, Cable Facade - Block of Biotite
+appliedenergistics2:facade:0, Cable Facade - Chiseled Biotite Block
+appliedenergistics2:facade:0, Cable Facade - Pillar Biotite Block
+appliedenergistics2:facade:0, Cable Facade - Basalt
+appliedenergistics2:facade:0, Cable Facade - Marble
+appliedenergistics2:facade:0, Cable Facade - Limestone
+appliedenergistics2:facade:0, Cable Facade - Jasper
+appliedenergistics2:facade:0, Cable Facade - Slate
+appliedenergistics2:facade:0, Cable Facade - Brimstone
+appliedenergistics2:facade:0, Cable Facade - Brimstone Bricks
+appliedenergistics2:facade:0, Cable Facade - Elder Prismarine
+appliedenergistics2:facade:0, Cable Facade - Elder Sea Lantern
+appliedenergistics2:facade:0, Cable Facade - Glowcelium
+appliedenergistics2:facade:0, Cable Facade - Glowshroom
+appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
+appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
+appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
+appliedenergistics2:facade:0, Cable Facade - Sugar Block
+appliedenergistics2:facade:0, Cable Facade - Red Slime Block
+appliedenergistics2:facade:0, Cable Facade - Gravisand
+>>>>>>> Stashed changes
 appliedenergistics2:facade:0, Cable Facade - Polished Sandstone
 appliedenergistics2:facade:0, Cable Facade - Polished Stone
 appliedenergistics2:facade:0, Cable Facade - White Stained Planks
@@ -15354,6 +15380,7 @@ botania:shimmerwoodplanks0stairs, tile.shimmerwoodPlanks0Stairs.name
 botania:managlasspane, tile.manaGlassPane.name
 botania:elfglasspane, tile.elfGlassPane.name
 botania:bifrostpermpane, tile.bifrostPermPane.name
+<<<<<<< Updated upstream
 botania:lexicon, item.lexicon.name
 botania:petal:0, Mystical White Petal
 botania:petal:1, Mystical Orange Petal
@@ -15689,6 +15716,8 @@ botania:supercloudpendant, item.superCloudPendant.name
 botania:thirdeye, item.thirdEye.name
 botania:astrolabe, item.astrolabe.name
 botania:goddesscharm, item.goddessCharm.name
+=======
+>>>>>>> Stashed changes
 botania:flower:0, Mystical White Flower
 botania:flower:1, Mystical Orange Flower
 botania:flower:2, Mystical Magenta Flower
@@ -16014,6 +16043,344 @@ botania:altgrass:3, Scorched Grass
 botania:altgrass:4, Infused Grass
 botania:altgrass:5, Mutated Grass
 botania:animatedtorch, tile.animatedTorch.name
+<<<<<<< Updated upstream
+=======
+botania:lexicon, item.lexicon.name
+botania:petal:0, Mystical White Petal
+botania:petal:1, Mystical Orange Petal
+botania:petal:2, Mystical Magenta Petal
+botania:petal:3, Mystical Light Blue Petal
+botania:petal:4, Mystical Yellow Petal
+botania:petal:5, Mystical Lime Petal
+botania:petal:6, Mystical Pink Petal
+botania:petal:7, Mystical Gray Petal
+botania:petal:8, Mystical Light Gray Petal
+botania:petal:9, Mystical Cyan Petal
+botania:petal:10, Mystical Purple Petal
+botania:petal:11, Mystical Blue Petal
+botania:petal:12, Mystical Brown Petal
+botania:petal:13, Mystical Green Petal
+botania:petal:14, Mystical Red Petal
+botania:petal:15, Mystical Black Petal
+botania:dye:0, Floral White Powder
+botania:dye:1, Floral Orange Powder
+botania:dye:2, Floral Magenta Powder
+botania:dye:3, Floral Light Blue Powder
+botania:dye:4, Floral Yellow Powder
+botania:dye:5, Floral Lime Powder
+botania:dye:6, Floral Pink Powder
+botania:dye:7, Floral Gray Powder
+botania:dye:8, Floral Light Gray Powder
+botania:dye:9, Floral Cyan Powder
+botania:dye:10, Floral Purple Powder
+botania:dye:11, Floral Blue Powder
+botania:dye:12, Floral Brown Powder
+botania:dye:13, Floral Green Powder
+botania:dye:14, Floral Red Powder
+botania:dye:15, Floral Black Powder
+botania:pestleandmortar, item.pestleAndMortar.name
+botania:twigwand:0, Wand of the Forest
+botania:twigwand:0, Wand of the Forest
+botania:twigwand:0, Wand of the Forest
+botania:twigwand:0, Wand of the Forest
+botania:twigwand:0, Wand of the Forest
+botania:twigwand:0, Wand of the Forest
+botania:twigwand:0, Wand of the Forest
+botania:twigwand:0, Wand of the Forest
+botania:twigwand:0, Wand of the Forest
+botania:twigwand:0, Wand of the Forest
+botania:twigwand:0, Wand of the Forest
+botania:twigwand:0, Wand of the Forest
+botania:twigwand:0, Wand of the Forest
+botania:twigwand:0, Wand of the Forest
+botania:twigwand:0, Wand of the Forest
+botania:twigwand:0, Wand of the Forest
+botania:manaresource:0, Manasteel Ingot
+botania:manaresource:1, Mana Pearl
+botania:manaresource:2, Mana Diamond
+botania:manaresource:3, Livingwood Twig
+botania:manaresource:4, Terrasteel Ingot
+botania:manaresource:5, Gaia Spirit
+botania:manaresource:6, Redstone Root
+botania:manaresource:7, Elementium Ingot
+botania:manaresource:8, Pixie Dust
+botania:manaresource:9, Dragonstone
+botania:manaresource:11, Crafting Placeholder
+botania:manaresource:12, Red String
+botania:manaresource:13, Dreamwood Twig
+botania:manaresource:14, Gaia Spirit Ingot
+botania:manaresource:15, Ender Air Bottle
+botania:manaresource:16, Mana Infused String
+botania:manaresource:17, Manasteel Nugget
+botania:manaresource:18, Terrasteel Nugget
+botania:manaresource:19, Elementium Nugget
+botania:manaresource:22, Manaweave Cloth
+botania:manaresource:23, Mana Powder
+botania:lens:0, Mana Lens
+botania:lens:1, Mana Lens: Velocity
+botania:lens:2, Mana Lens: Potency
+botania:lens:3, Mana Lens: Resistance
+botania:lens:4, Mana Lens: Efficiency
+botania:lens:5, Mana Lens: Bounce
+botania:lens:6, Mana Lens: Gravity
+botania:lens:7, Mana Lens: Bore
+botania:lens:8, Mana Lens: Damaging
+botania:lens:9, Mana Lens: Phantom
+botania:lens:10, Mana Lens: Magnetizing
+botania:lens:11, Mana Lens: Entropic
+botania:lens:12, Mana Lens: Influence
+botania:lens:13, Mana Lens: Weight
+botania:lens:14, Mana Lens: Paintslinger
+botania:lens:15, Mana Lens: Kindle
+botania:lens:16, Mana Lens: Force
+botania:lens:17, Mana Lens: Flash
+botania:lens:18, Mana Lens: Warp
+botania:lens:19, Mana Lens: Redirective
+botania:lens:20, Mana Lens: Celebratory
+botania:lens:21, Mana Lens: Flare
+botania:lens:22, Mana Lens: Messenger
+botania:lens:23, Mana Lens: Tripwire
+botania:rune:0, Rune of Water
+botania:rune:1, Rune of Fire
+botania:rune:2, Rune of Earth
+botania:rune:3, Rune of Air
+botania:rune:4, Rune of Spring
+botania:rune:5, Rune of Summer
+botania:rune:6, Rune of Autumn
+botania:rune:7, Rune of Winter
+botania:rune:8, Rune of Mana
+botania:rune:9, Rune of Lust
+botania:rune:10, Rune of Gluttony
+botania:rune:11, Rune of Greed
+botania:rune:12, Rune of Sloth
+botania:rune:13, Rune of Wrath
+botania:rune:14, Rune of Envy
+botania:rune:15, Rune of Pride
+botania:manatablet, item.manaTablet.name
+botania:managun, item.manaGun.name
+botania:manacookie, item.manaCookie.name
+botania:fertilizer, item.fertilizer.name
+botania:grassseeds:0, Pasture Seeds
+botania:grassseeds:1, Boreal Seeds
+botania:grassseeds:2, Infestation Spores
+botania:grassseeds:3, Dry Pasture Seeds
+botania:grassseeds:4, Golden Pasture Seeds
+botania:grassseeds:5, Vivid Pasture Seeds
+botania:grassseeds:6, Scorched Pasture Seeds
+botania:grassseeds:7, Infused Pasture Seeds
+botania:grassseeds:8, Mutated Pasture Seeds
+botania:dirtrod, item.dirtRod.name
+botania:terraformrod, item.terraformRod.name
+botania:grasshorn:0, Horn of the Wild
+botania:grasshorn:1, Horn of the Canopy
+botania:grasshorn:2, Horn of the Covering
+botania:manamirror, item.manaMirror.name
+botania:manasteelhelm, item.manasteelHelm.name
+botania:manasteelhelmreveal, item.manasteelHelmReveal.name
+botania:manasteelchest, item.manasteelChest.name
+botania:manasteellegs, item.manasteelLegs.name
+botania:manasteelboots, item.manasteelBoots.name
+botania:manasteelpick, item.manasteelPick.name
+botania:manasteelshovel, item.manasteelShovel.name
+botania:manasteelaxe, item.manasteelAxe.name
+botania:manasteelsword, item.manasteelSword.name
+botania:manasteelshears, item.manasteelShears.name
+botania:terrasteelhelm, item.terrasteelHelm.name
+botania:terrasteelhelmreveal, item.terrasteelHelmReveal.name
+botania:terrasteelchest, item.terrasteelChest.name
+botania:terrasteellegs, item.terrasteelLegs.name
+botania:terrasteelboots, item.terrasteelBoots.name
+botania:terrasword, item.terraSword.name
+botania:tinyplanet, item.tinyPlanet.name
+botania:manaring, item.manaRing.name
+botania:auraring, item.auraRing.name
+botania:manaringgreater, item.manaRingGreater.name
+botania:auraringgreater, item.auraRingGreater.name
+botania:travelbelt, item.travelBelt.name
+botania:knockbackbelt, item.knockbackBelt.name
+botania:icependant, item.icePendant.name
+botania:lavapendant, item.lavaPendant.name
+botania:magnetring, item.magnetRing.name
+botania:waterring, item.waterRing.name
+botania:miningring, item.miningRing.name
+botania:terrapick, item.terraPick.name
+botania:divacharm, item.divaCharm.name
+botania:flighttiara:0, Flügel Tiara
+botania:flighttiara:1, Flügel Tiara
+botania:flighttiara:2, Flügel Tiara
+botania:flighttiara:3, Flügel Tiara
+botania:flighttiara:4, Flügel Tiara
+botania:flighttiara:5, Flügel Tiara
+botania:flighttiara:6, Flügel Tiara
+botania:flighttiara:7, Flügel Tiara
+botania:flighttiara:8, Flügel Tiara
+botania:enderdagger, item.enderDagger.name
+botania:quartz:0, Smokey Quartz
+botania:quartz:1, Mana Quartz
+botania:quartz:2, Blaze Quartz
+botania:quartz:3, Lavender Quartz
+botania:quartz:4, Redquartz
+botania:quartz:5, Elven Quartz
+botania:quartz:6, Sunny Quartz
+botania:waterrod, item.waterRod.name
+botania:elementiumhelm, item.elementiumHelm.name
+botania:elementiumhelmreveal, item.elementiumHelmReveal.name
+botania:elementiumchest, item.elementiumChest.name
+botania:elementiumlegs, item.elementiumLegs.name
+botania:elementiumboots, item.elementiumBoots.name
+botania:elementiumpick, item.elementiumPick.name
+botania:elementiumshovel, item.elementiumShovel.name
+botania:elementiumaxe, item.elementiumAxe.name
+botania:elementiumsword, item.elementiumSword.name
+botania:elementiumshears, item.elementiumShears.name
+botania:openbucket, item.openBucket.name
+botania:spawnermover, item.spawnerMover.name
+botania:pixiering, item.pixieRing.name
+botania:supertravelbelt, item.superTravelBelt.name
+botania:rainbowrod, item.rainbowRod.name
+botania:tornadorod, item.tornadoRod.name
+botania:firerod, item.fireRod.name
+botania:vineball, item.vineBall.name
+botania:slingshot, item.slingshot.name
+botania:manabottle, item.manaBottle.name
+botania:laputashard:0, Shard of Laputa
+botania:laputashard:4, Shard of Laputa
+botania:laputashard:9, Shard of Laputa
+botania:laputashard:14, Shard of Laputa
+botania:laputashard:19, Shard of Laputa
+botania:virus:0, Necrodermal Virus
+botania:virus:1, Nullodermal Virus
+botania:reachring, item.reachRing.name
+botania:skydirtrod, item.skyDirtRod.name
+botania:itemfinder, item.itemFinder.name
+botania:superlavapendant, item.superLavaPendant.name
+botania:enderhand, item.enderHand.name
+botania:glasspick, item.glassPick.name
+botania:spark, item.spark.name
+botania:sparkupgrade:0, Spark Augment: Dispersive
+botania:sparkupgrade:1, Spark Augment: Dominant
+botania:sparkupgrade:2, Spark Augment: Recessive
+botania:sparkupgrade:3, Spark Augment: Isolated
+botania:diviningrod, item.diviningRod.name
+botania:gravityrod, item.gravityRod.name
+botania:manainkwell, item.manaInkwell.name
+botania:vial:0, Managlass Vial
+botania:vial:1, Alfglass Flask
+botania:brewvial, item.brewVial.name
+botania:brewflask, item.brewFlask.name
+botania:bloodpendant, item.bloodPendant.name
+botania:missilerod, item.missileRod.name
+botania:holycloak, item.holyCloak.name
+botania:unholycloak, item.unholyCloak.name
+botania:balancecloak, item.balanceCloak.name
+botania:craftinghalo, item.craftingHalo.name
+botania:blacklotus:0, Black Lotus
+botania:blacklotus:1, Blacker Lotus
+botania:monocle, item.monocle.name
+botania:clip, item.clip.name
+botania:cobblerod, item.cobbleRod.name
+botania:smeltrod, item.smeltRod.name
+botania:worldseed, item.worldSeed.name
+botania:spellcloth, item.spellCloth.name
+botania:thornchakram:0, Thorn Chakram
+botania:thornchakram:1, Flare Chakram
+botania:overgrowthseed, item.overgrowthSeed.name
+botania:craftpattern:0, Crafting Pattern #1: 1x1
+botania:craftpattern:1, Crafting Pattern #2: 2x2
+botania:craftpattern:2, Crafting Pattern #3: 1x2
+botania:craftpattern:3, Crafting Pattern #4: 2x1
+botania:craftpattern:4, Crafting Pattern #5: 1x3
+botania:craftpattern:5, Crafting Pattern #6: 3x1
+botania:craftpattern:6, Crafting Pattern #7: 2x3
+botania:craftpattern:7, Crafting Pattern #8: 3x2
+botania:craftpattern:8, Crafting Pattern #9: Donut
+botania:ancientwill:0, Will of Ahrim
+botania:ancientwill:1, Will of Dharok
+botania:ancientwill:2, Will of Guthan
+botania:ancientwill:3, Will of Torag
+botania:ancientwill:4, Will of Verac
+botania:ancientwill:5, Will of Karil
+botania:corporeaspark:0, Corporea Spark
+botania:corporeaspark:1, Master Corporea Spark
+botania:livingwoodbow, item.livingwoodBow.name
+botania:crystalbow, item.crystalBow.name
+botania:cosmetic:0, Black Bowtie
+botania:cosmetic:1, Black Tie
+botania:cosmetic:2, Red Glasses
+botania:cosmetic:3, Puffy Scarf
+botania:cosmetic:4, Engineer Goggles
+botania:cosmetic:5, Eyepatch
+botania:cosmetic:6, Wicked Eyepatch
+botania:cosmetic:7, Red Ribbons
+botania:cosmetic:8, Pink Flower Bud
+botania:cosmetic:9, Polka-Dotted Bows
+botania:cosmetic:10, Blue Butterfly
+botania:cosmetic:11, Cat Ears
+botania:cosmetic:12, Witch Pin
+botania:cosmetic:13, Devil Tail
+botania:cosmetic:14, Kamui Eye
+botania:cosmetic:15, Googly Eyes
+botania:cosmetic:16, Four-Leafed Clover
+botania:cosmetic:17, Clock Eye
+botania:cosmetic:18, Unicorn Horn
+botania:cosmetic:19, Devil Horns
+botania:cosmetic:20, Hyper Plus
+botania:cosmetic:21, Botanist Emblem
+botania:cosmetic:22, Ancient Mask
+botania:cosmetic:23, Eerie Mask
+botania:cosmetic:24, Alien Antenna
+botania:cosmetic:25, Anaglyph Glasses
+botania:cosmetic:26, Orange Shades
+botania:cosmetic:27, Groucho Glasses
+botania:cosmetic:28, Thick Eyebrows
+botania:cosmetic:29, Lusitanic Shield
+botania:cosmetic:30, Tiny Potato Mask
+botania:cosmetic:31, Questgiver Mark
+botania:cosmetic:32, Thinking Hand
+botania:swapring, item.swapRing.name
+botania:flowerbag, item.flowerBag.name
+botania:phantomink, item.phantomInk.name
+botania:poolminecart, item.poolMinecart.name
+botania:pinkinator, item.pinkinator.name
+botania:infinitefruit, item.infiniteFruit.name
+botania:kingkey, item.kingKey.name
+botania:flugeleye, item.flugelEye.name
+botania:thorring, item.thorRing.name
+botania:odinring, item.odinRing.name
+botania:lokiring, item.lokiRing.name
+botania:dice, item.dice.name
+botania:keepivy, item.keepIvy.name
+botania:blackholetalisman:0, Black Hole Talisman
+botania:recordgaia1, item.recordGaia1.name
+botania:recordgaia2, item.recordGaia2.name
+botania:temperancestone:0, Stone of Temperance
+botania:incensestick, item.incenseStick.name
+botania:terraaxe, item.terraAxe.name
+botania:waterbowl, item.waterBowl.name
+botania:obediencestick, item.obedienceStick.name
+botania:cacophonium, item.cacophonium.name
+botania:slimebottle:0, Slime in a Bottle
+botania:starsword, item.starSword.name
+botania:exchangerod, item.exchangeRod.name
+botania:magnetringgreater, item.magnetRingGreater.name
+botania:thundersword, item.thunderSword.name
+botania:manaweavehelm, item.manaweaveHelm.name
+botania:manaweavechest, item.manaweaveChest.name
+botania:manaweavelegs, item.manaweaveLegs.name
+botania:manaweaveboots, item.manaweaveBoots.name
+botania:autocraftinghalo, item.autocraftingHalo.name
+botania:gaiahead, item.gaiaHead.name
+botania:sextant, item.sextant.name
+botania:speedupbelt, item.speedUpBelt.name
+botania:baublebox, item.baubleBox.name
+botania:dodgering, item.dodgeRing.name
+botania:invisibilitycloak, item.invisibilityCloak.name
+botania:cloudpendant, item.cloudPendant.name
+botania:supercloudpendant, item.superCloudPendant.name
+botania:thirdeye, item.thirdEye.name
+botania:astrolabe, item.astrolabe.name
+botania:goddesscharm, item.goddessCharm.name
+>>>>>>> Stashed changes
 natura:clouds:0, Cloud
 natura:clouds:1, Dark Cloud
 natura:clouds:2, Ash Cloud
@@ -16945,6 +17312,7 @@ atum:fish_skeletal, Skeletal Fish
 atum:crunchy_scarab, Crunchy Scarab
 atum:crunchy_golden_scarab, Crunchy Golden Scarab
 akashictome:tome, item.tome.name
+<<<<<<< Updated upstream
 quark:glass_shards:0, Glass Shard
 quark:glass_shards:1, White Glass Shard
 quark:glass_shards:2, Orange Glass Shard
@@ -17314,6 +17682,8 @@ quark:quilted_wool:12, Brown Quilted Wool
 quark:quilted_wool:13, Green Quilted Wool
 quark:quilted_wool:14, Red Quilted Wool
 quark:quilted_wool:15, Black Quilted Wool
+=======
+>>>>>>> Stashed changes
 quark:roots, tile.roots.name
 quark:root, item.root.name
 quark:roots_blue_flower, tile.roots_blue_flower.name
@@ -17537,6 +17907,41 @@ quark:acacia_button, tile.acacia_button.name
 quark:dark_oak_button, tile.dark_oak_button.name
 quark:grate, tile.grate.name
 quark:glass_item_frame, item.glass_item_frame.name
+<<<<<<< Updated upstream
+=======
+quark:pickarang, item.pickarang.name
+quark:arrow_ender, item.arrow_ender.name
+quark:arrow_explosive, item.arrow_explosive.name
+quark:arrow_torch, item.arrow_torch.name
+quark:slime_bucket:0, Slime in a Bucket
+quark:rune:0, White Rune
+quark:rune:1, Orange Rune
+quark:rune:2, Magenta Rune
+quark:rune:3, Light Blue Rune
+quark:rune:4, Yellow Rune
+quark:rune:5, Lime Rune
+quark:rune:6, Pink Rune
+quark:rune:7, Gray Rune
+quark:rune:8, Light Gray Rune
+quark:rune:9, Cyan Rune
+quark:rune:10, Purple Rune
+quark:rune:11, Blue Rune
+quark:rune:12, Brown Rune
+quark:rune:13, Green Rune
+quark:rune:14, Red Rune
+quark:rune:15, Black Rune
+quark:rune:16, Rainbow Rune
+quark:black_ash, tile.black_ash.name
+quark:ancient_tome, item.ancient_tome.name
+quark:horse_whistle, item.horse_whistle.name
+quark:soul_powder, item.soul_powder.name
+quark:parrot_egg:0, Red Parrot Egg
+quark:parrot_egg:1, Blue Parrot Egg
+quark:parrot_egg:2, Green Parrot Egg
+quark:parrot_egg:3, Cyan Parrot Egg
+quark:parrot_egg:4, Gray Parrot Egg
+quark:enderdragon_scale, item.enderdragon_scale.name
+>>>>>>> Stashed changes
 quark:chute, tile.chute.name
 quark:sugar_block, tile.sugar_block.name
 quark:redstone_randomizer, tile.redstone_randomizer.name
@@ -17553,7 +17958,348 @@ quark:redstone_inductor, tile.redstone_inductor.name
 quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
 quark:rain_detector, tile.rain_detector.name
 quark:chain, item.chain.name
+<<<<<<< Updated upstream
 quark:witch_hat, item.witch_hat.name
+=======
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
+quark:witch_hat, item.witch_hat.name
+quark:sandstone_new:0, Polished Sandstone
+quark:sandstone_new:1, Sandstone Bricks
+quark:sandstone_new:2, Polished Red Sandstone
+quark:sandstone_new:3, Red Sandstone Bricks
+quark:sandstone_new:4, Polished Soul Sandstone
+quark:sandstone_new:5, Soul Sandstone Bricks
+quark:sandstone_bricks_stairs, tile.sandstone_bricks_stairs.name
+quark:red_sandstone_bricks_stairs, tile.red_sandstone_bricks_stairs.name
+quark:soul_sandstone_bricks_stairs, tile.soul_sandstone_bricks_stairs.name
+quark:sandstone_smooth_slab:0, Polished Sandstone Slab
+quark:sandstone_bricks_slab:0, Sandstone Brick Slab
+quark:red_sandstone_smooth_slab:0, Polished Red Sandstone Slab
+quark:red_sandstone_bricks_slab:0, Red Sandstone Brick Slab
+quark:soul_sandstone_smooth_slab:0, Polished Soul Sandstone Slab
+quark:soul_sandstone_bricks_slab:0, Soul Sandstone Brick Slab
+quark:polished_stone, tile.polished_stone.name
+quark:stone_wall, tile.stone_wall.name
+quark:stone_granite_wall, tile.stone_granite_wall.name
+quark:stone_diorite_wall, tile.stone_diorite_wall.name
+quark:stone_andesite_wall, tile.stone_andesite_wall.name
+quark:sandstone_wall, tile.sandstone_wall.name
+quark:red_sandstone_wall, tile.red_sandstone_wall.name
+quark:stonebrick_wall, tile.stonebrick_wall.name
+quark:brick_wall, tile.brick_wall.name
+quark:quartz_wall, tile.quartz_wall.name
+quark:prismarine_rough_wall, tile.prismarine_rough_wall.name
+quark:prismarine_bricks_wall, tile.prismarine_bricks_wall.name
+quark:dark_prismarine_wall, tile.dark_prismarine_wall.name
+quark:purpur_block_wall, tile.purpur_block_wall.name
+quark:end_bricks_wall, tile.end_bricks_wall.name
+quark:stonebrick_mossy_wall, tile.stonebrick_mossy_wall.name
+quark:stained_planks:0, White Stained Planks
+quark:stained_planks:1, Orange Stained Planks
+quark:stained_planks:2, Magenta Stained Planks
+quark:stained_planks:3, Light Blue Stained Planks
+quark:stained_planks:4, Yellow Stained Planks
+quark:stained_planks:5, Lime Stained Planks
+quark:stained_planks:6, Pink Stained Planks
+quark:stained_planks:7, Gray Stained Planks
+quark:stained_planks:8, Light Gray Stained Planks
+quark:stained_planks:9, Cyan Stained Planks
+quark:stained_planks:10, Purple Stained Planks
+quark:stained_planks:11, Blue Stained Planks
+quark:stained_planks:12, Brown Stained Planks
+quark:stained_planks:13, Green Stained Planks
+quark:stained_planks:14, Red Stained Planks
+quark:stained_planks:15, Black Stained Planks
+quark:stained_planks_white_stairs, tile.stained_planks_white_stairs.name
+quark:stained_planks_orange_stairs, tile.stained_planks_orange_stairs.name
+quark:stained_planks_magenta_stairs, tile.stained_planks_magenta_stairs.name
+quark:stained_planks_light_blue_stairs, tile.stained_planks_light_blue_stairs.name
+quark:stained_planks_yellow_stairs, tile.stained_planks_yellow_stairs.name
+quark:stained_planks_lime_stairs, tile.stained_planks_lime_stairs.name
+quark:stained_planks_pink_stairs, tile.stained_planks_pink_stairs.name
+quark:stained_planks_gray_stairs, tile.stained_planks_gray_stairs.name
+quark:stained_planks_silver_stairs, tile.stained_planks_silver_stairs.name
+quark:stained_planks_cyan_stairs, tile.stained_planks_cyan_stairs.name
+quark:stained_planks_purple_stairs, tile.stained_planks_purple_stairs.name
+quark:stained_planks_blue_stairs, tile.stained_planks_blue_stairs.name
+quark:stained_planks_brown_stairs, tile.stained_planks_brown_stairs.name
+quark:stained_planks_green_stairs, tile.stained_planks_green_stairs.name
+quark:stained_planks_red_stairs, tile.stained_planks_red_stairs.name
+quark:stained_planks_black_stairs, tile.stained_planks_black_stairs.name
+quark:stained_planks_white_slab:0, White Stained Wood Slab
+quark:stained_planks_orange_slab:0, Orange Stained Wood Slab
+quark:stained_planks_magenta_slab:0, Magenta Stained Wood Slab
+quark:stained_planks_light_blue_slab:0, Light Blue Stained Wood Slab
+quark:stained_planks_yellow_slab:0, Yellow Stained Wood Slab
+quark:stained_planks_lime_slab:0, Lime Stained Wood Slab
+quark:stained_planks_pink_slab:0, Pink Stained Wood Slab
+quark:stained_planks_gray_slab:0, Gray Stained Wood Slab
+quark:stained_planks_silver_slab:0, Light Gray Stained Wood Slab
+quark:stained_planks_cyan_slab:0, Cyan Stained Wood Slab
+quark:stained_planks_purple_slab:0, Purple Stained Wood Slab
+quark:stained_planks_blue_slab:0, Blue Stained Wood Slab
+quark:stained_planks_brown_slab:0, Brown Stained Wood Slab
+quark:stained_planks_green_slab:0, Green Stained Wood Slab
+quark:stained_planks_red_slab:0, Red Stained Wood Slab
+quark:stained_planks_black_slab:0, Black Stained Wood Slab
+quark:hardened_clay_tiles, tile.hardened_clay_tiles.name
+quark:hardened_clay_tiles_stairs, tile.hardened_clay_tiles_stairs.name
+quark:hardened_clay_tiles_slab:0, Terracotta Shingle Slab
+quark:stained_clay_tiles:0, White Terracotta Shingles
+quark:stained_clay_tiles:1, Orange Terracotta Shingles
+quark:stained_clay_tiles:2, Magenta Terracotta Shingles
+quark:stained_clay_tiles:3, Light Blue Terracotta Shingles
+quark:stained_clay_tiles:4, Yellow Terracotta Shingles
+quark:stained_clay_tiles:5, Lime Terracotta Shingles
+quark:stained_clay_tiles:6, Pink Terracotta Shingles
+quark:stained_clay_tiles:7, Gray Terracotta Shingles
+quark:stained_clay_tiles:8, Light Gray Terracotta Shingles
+quark:stained_clay_tiles:9, Cyan Terracotta Shingles
+quark:stained_clay_tiles:10, Purple Terracotta Shingles
+quark:stained_clay_tiles:11, Blue Terracotta Shingles
+quark:stained_clay_tiles:12, Brown Terracotta Shingles
+quark:stained_clay_tiles:13, Green Terracotta Shingles
+quark:stained_clay_tiles:14, Red Terracotta Shingles
+quark:stained_clay_tiles:15, Black Terracotta Shingles
+quark:stained_clay_tiles_white_stairs, tile.stained_clay_tiles_white_stairs.name
+quark:stained_clay_tiles_orange_stairs, tile.stained_clay_tiles_orange_stairs.name
+quark:stained_clay_tiles_magenta_stairs, tile.stained_clay_tiles_magenta_stairs.name
+quark:stained_clay_tiles_light_blue_stairs, tile.stained_clay_tiles_light_blue_stairs.name
+quark:stained_clay_tiles_yellow_stairs, tile.stained_clay_tiles_yellow_stairs.name
+quark:stained_clay_tiles_lime_stairs, tile.stained_clay_tiles_lime_stairs.name
+quark:stained_clay_tiles_pink_stairs, tile.stained_clay_tiles_pink_stairs.name
+quark:stained_clay_tiles_gray_stairs, tile.stained_clay_tiles_gray_stairs.name
+quark:stained_clay_tiles_silver_stairs, tile.stained_clay_tiles_silver_stairs.name
+quark:stained_clay_tiles_cyan_stairs, tile.stained_clay_tiles_cyan_stairs.name
+quark:stained_clay_tiles_purple_stairs, tile.stained_clay_tiles_purple_stairs.name
+quark:stained_clay_tiles_blue_stairs, tile.stained_clay_tiles_blue_stairs.name
+quark:stained_clay_tiles_brown_stairs, tile.stained_clay_tiles_brown_stairs.name
+quark:stained_clay_tiles_green_stairs, tile.stained_clay_tiles_green_stairs.name
+quark:stained_clay_tiles_red_stairs, tile.stained_clay_tiles_red_stairs.name
+quark:stained_clay_tiles_black_stairs, tile.stained_clay_tiles_black_stairs.name
+quark:stained_clay_tiles_white_slab:0, White Terracotta Shingle Slab
+quark:stained_clay_tiles_orange_slab:0, Orange Terracotta Shingle Slab
+quark:stained_clay_tiles_magenta_slab:0, Magenta Terracotta Shingle Slab
+quark:stained_clay_tiles_light_blue_slab:0, Light Blue Terracotta Shingle Slab
+quark:stained_clay_tiles_yellow_slab:0, Yellow Terracotta Shingle Slab
+quark:stained_clay_tiles_lime_slab:0, Lime Terracotta Shingle Slab
+quark:stained_clay_tiles_pink_slab:0, Pink Terracotta Shingle Slab
+quark:stained_clay_tiles_gray_slab:0, Gray Terracotta Shingle Slab
+quark:stained_clay_tiles_silver_slab:0, Light Gray Terracotta Shingle Slab
+quark:stained_clay_tiles_cyan_slab:0, Cyan Terracotta Shingle Slab
+quark:stained_clay_tiles_purple_slab:0, Purple Terracotta Shingle Slab
+quark:stained_clay_tiles_blue_slab:0, Blue Terracotta Shingle Slab
+quark:stained_clay_tiles_brown_slab:0, Brown Terracotta Shingle Slab
+quark:stained_clay_tiles_green_slab:0, Green Terracotta Shingle Slab
+quark:stained_clay_tiles_red_slab:0, Red Terracotta Shingle Slab
+quark:stained_clay_tiles_black_slab:0, Black Terracotta Shingle Slab
+quark:bark:0, Oak Bark
+quark:bark:1, Spruce Bark
+quark:bark:2, Birch Bark
+quark:bark:3, Jungle Bark
+quark:bark:4, Acacia Bark
+quark:bark:5, Dark Oak Bark
+quark:bark_oak_wall, tile.bark_oak_wall.name
+quark:bark_oak_stairs, tile.bark_oak_stairs.name
+quark:bark_oak_slab:0, Oak Bark Slab
+quark:bark_spruce_wall, tile.bark_spruce_wall.name
+quark:bark_spruce_stairs, tile.bark_spruce_stairs.name
+quark:bark_spruce_slab:0, Spruce Bark Slab
+quark:bark_birch_wall, tile.bark_birch_wall.name
+quark:bark_birch_stairs, tile.bark_birch_stairs.name
+quark:bark_birch_slab:0, Birch Bark Slab
+quark:bark_jungle_wall, tile.bark_jungle_wall.name
+quark:bark_jungle_stairs, tile.bark_jungle_stairs.name
+quark:bark_jungle_slab:0, Jungle Bark Slab
+quark:bark_acacia_wall, tile.bark_acacia_wall.name
+quark:bark_acacia_stairs, tile.bark_acacia_stairs.name
+quark:bark_acacia_slab:0, Acacia Bark Slab
+quark:bark_dark_oak_wall, tile.bark_dark_oak_wall.name
+quark:bark_dark_oak_stairs, tile.bark_dark_oak_stairs.name
+quark:bark_dark_oak_slab:0, Dark Oak Bark Slab
+quark:sturdy_stone, tile.sturdy_stone.name
+quark:iron_plate:0, Iron Plate
+quark:iron_plate:1, Rusty Iron Plate
+quark:iron_plate_stairs, tile.iron_plate_stairs.name
+quark:iron_plate_slab:0, Iron Plate Slab
+quark:sandy_bricks, tile.sandy_bricks.name
+quark:sandy_bricks_stairs, tile.sandy_bricks_stairs.name
+quark:sandy_bricks_slab:0, Sandy Brick Slab
+quark:sandy_bricks_wall, tile.sandy_bricks_wall.name
+quark:stone_stairs, tile.stone_stairs.name
+quark:stone_granite_stairs, tile.stone_granite_stairs.name
+quark:stone_granite_slab:0, Granite Slab
+quark:stone_diorite_stairs, tile.stone_diorite_stairs.name
+quark:stone_diorite_slab:0, Diorite Slab
+quark:stone_andesite_stairs, tile.stone_andesite_stairs.name
+quark:stone_andesite_slab:0, Andesite Slab
+quark:end_bricks_stairs, tile.end_bricks_stairs.name
+quark:end_bricks_slab:0, End Brick Slab
+quark:prismarine_stairs, tile.prismarine_stairs.name
+quark:prismarine_slab:0, Prismarine Slab
+quark:prismarine_bricks_stairs, tile.prismarine_bricks_stairs.name
+quark:prismarine_bricks_slab:0, Prismarine Brick Slab
+quark:prismarine_dark_stairs, tile.prismarine_dark_stairs.name
+quark:prismarine_dark_slab:0, Dark Prismarine Slab
+quark:red_nether_brick_stairs, tile.red_nether_brick_stairs.name
+quark:red_nether_brick_slab:0, Red Nether Brick Slab
+quark:cobblestone_mossy_stairs, tile.cobblestone_mossy_stairs.name
+quark:cobblestone_mossy_slab:0, Moss Stone Slab
+quark:stonebrick_mossy_stairs, tile.stonebrick_mossy_stairs.name
+quark:stonebrick_mossy_slab:0, Mossy Stone Brick Slab
+quark:thatch, tile.thatch.name
+quark:thatch_stairs, tile.thatch_stairs.name
+quark:thatch_slab:0, Thatch Slab
+quark:charred_nether_bricks, tile.charred_nether_bricks.name
+quark:charred_nether_brick_stairs, tile.charred_nether_brick_stairs.name
+quark:charred_nether_brick_slab:0, Charred Nether Brick Slab
+quark:world_stone_bricks:0, Granite Bricks
+quark:world_stone_bricks:1, Diorite Bricks
+quark:world_stone_bricks:2, Andesite Bricks
+quark:world_stone_bricks:3, Basalt Bricks
+quark:world_stone_bricks:4, Marble Bricks
+quark:world_stone_bricks:5, Limestone Bricks
+quark:world_stone_bricks:6, Jasper Bricks
+quark:world_stone_bricks:7, Slate Bricks
+quark:world_stone_carved:0, Chiseled Granite Bricks
+quark:world_stone_carved:1, Chiseled Diorite Bricks
+quark:world_stone_carved:2, Chiseled Andesite Bricks
+quark:world_stone_carved:3, Chiseled Basalt Bricks
+quark:world_stone_carved:4, Chiseled Marble Bricks
+quark:world_stone_carved:5, Chiseled Limestone Bricks
+quark:world_stone_carved:6, Chiseled Jasper Bricks
+quark:world_stone_carved:7, Chiseled Slate Bricks
+quark:stone_granite_bricks_stairs, tile.stone_granite_bricks_stairs.name
+quark:stone_granite_bricks_slab:0, Granite Brick Slab
+quark:stone_diorite_bricks_stairs, tile.stone_diorite_bricks_stairs.name
+quark:stone_diorite_bricks_slab:0, Diorite Brick Slab
+quark:stone_andesite_bricks_stairs, tile.stone_andesite_bricks_stairs.name
+quark:stone_andesite_bricks_slab:0, Andesite Brick Slab
+quark:stone_basalt_bricks_stairs, tile.stone_basalt_bricks_stairs.name
+quark:stone_basalt_bricks_slab:0, Basalt Brick Slab
+quark:stone_marble_bricks_stairs, tile.stone_marble_bricks_stairs.name
+quark:stone_marble_bricks_slab:0, Marble Brick Slab
+quark:stone_limestone_bricks_stairs, tile.stone_limestone_bricks_stairs.name
+quark:stone_limestone_bricks_slab:0, Limestone Brick Slab
+quark:stone_jasper_bricks_stairs, tile.stone_jasper_bricks_stairs.name
+quark:stone_jasper_bricks_slab:0, Jasper Brick Slab
+quark:stone_slate_bricks_stairs, tile.stone_slate_bricks_stairs.name
+quark:stone_slate_bricks_slab:0, Slate Brick Slab
+quark:stone_granite_bricks_wall, tile.stone_granite_bricks_wall.name
+quark:stone_diorite_bricks_wall, tile.stone_diorite_bricks_wall.name
+quark:stone_andesite_bricks_wall, tile.stone_andesite_bricks_wall.name
+quark:stone_basalt_bricks_wall, tile.stone_basalt_bricks_wall.name
+quark:stone_marble_bricks_wall, tile.stone_marble_bricks_wall.name
+quark:stone_limestone_bricks_wall, tile.stone_limestone_bricks_wall.name
+quark:stone_jasper_bricks_wall, tile.stone_jasper_bricks_wall.name
+quark:stone_slate_bricks_wall, tile.stone_slate_bricks_wall.name
+quark:midori_block, tile.midori_block.name
+quark:midori_pillar, tile.midori_pillar.name
+quark:midori_block_stairs, tile.midori_block_stairs.name
+quark:midori_block_slab:0, Midori Slab
+quark:midori_block_wall, tile.midori_block_wall.name
+quark:magma_bricks, tile.magma_bricks.name
+quark:magma_bricks_stairs, tile.magma_bricks_stairs.name
+quark:magma_bricks_slab:0, Magma Brick Slab
+quark:vertical_planks:0, Vertical Oak Wood Planks
+quark:vertical_planks:1, Vertical Spruce Wood Planks
+quark:vertical_planks:2, Vertical Birch Wood Planks
+quark:vertical_planks:3, Vertical Jungle Wood Planks
+quark:vertical_planks:4, Vertical Acacia Wood Planks
+quark:vertical_planks:5, Vertical Dark Oak Wood Planks
+quark:vertical_stained_planks:0, Vertical White Stained Planks
+quark:vertical_stained_planks:1, Vertical Orange Stained Planks
+quark:vertical_stained_planks:2, Vertical Magenta Stained Planks
+quark:vertical_stained_planks:3, Vertical Light Blue Stained Planks
+quark:vertical_stained_planks:4, Vertical Yellow Stained Planks
+quark:vertical_stained_planks:5, Vertical Lime Stained Planks
+quark:vertical_stained_planks:6, Vertical Pink Stained Planks
+quark:vertical_stained_planks:7, Vertical Gray Stained Planks
+quark:vertical_stained_planks:8, Vertical Light Gray Stained Planks
+quark:vertical_stained_planks:9, Vertical Cyan Stained Planks
+quark:vertical_stained_planks:10, Vertical Purple Stained Planks
+quark:vertical_stained_planks:11, Vertical Blue Stained Planks
+quark:vertical_stained_planks:12, Vertical Brown Stained Planks
+quark:vertical_stained_planks:13, Vertical Green Stained Planks
+quark:vertical_stained_planks:14, Vertical Red Stained Planks
+quark:vertical_stained_planks:15, Vertical Black Stained Planks
+quark:duskbound_block, tile.duskbound_block.name
+quark:duskbound_lantern, tile.duskbound_lantern.name
+quark:duskbound_block_stairs, tile.duskbound_block_stairs.name
+quark:duskbound_block_slab:0, Duskbound Slab
+quark:duskbound_block_wall, tile.duskbound_block_wall.name
+quark:world_stone_pavement:0, Granite Pavement
+quark:world_stone_pavement:1, Diorite Pavement
+quark:world_stone_pavement:2, Andesite Pavement
+quark:world_stone_pavement:3, Basalt Pavement
+quark:world_stone_pavement:4, Marble Pavement
+quark:world_stone_pavement:5, Limestone Pavement
+quark:world_stone_pavement:6, Jasper Pavement
+quark:world_stone_pavement:7, Slate Pavement
+quark:reed_block, tile.reed_block.name
+quark:reed_block_stairs, tile.reed_block_stairs.name
+quark:reed_block_slab:0, Sugar Cane Slab
+quark:reed_block_wall, tile.reed_block_wall.name
+quark:snow_bricks, tile.snow_bricks.name
+quark:snow_bricks_stairs, tile.snow_bricks_stairs.name
+quark:snow_bricks_slab:0, Snow Brick Slab
+quark:snow_bricks_wall, tile.snow_bricks_wall.name
+quark:carved_wood:0, Carved Oak Wood
+quark:carved_wood:1, Carved Spruce Wood
+quark:carved_wood:2, Carved Birch Wood
+quark:carved_wood:3, Carved Jungle Wood
+quark:carved_wood:4, Carved Acacia Wood
+quark:carved_wood:5, Carved Dark Oak Wood
+quark:soul_sandstone:0, Soul Sandstone
+quark:soul_sandstone:1, Chiseled Soul Sandstone
+quark:soul_sandstone:2, Smooth Soul Sandstone
+quark:soul_sandstone_slab:0, Soul Sandstone Slab
+quark:soul_sandstone_stairs, tile.soul_sandstone_stairs.name
+quark:soul_sandstone_wall, tile.soul_sandstone_wall.name
+quark:turf, tile.turf.name
+quark:turf_stairs, tile.turf_stairs.name
+quark:turf_slab:0, Turf Slab
+quark:framed_glass, tile.framed_glass.name
+quark:framed_glass_pane, tile.framed_glass_pane.name
+quark:polished_netherrack:0, Netherwrought Stone
+quark:polished_netherrack:1, Netherwrought Bricks
+quark:polished_netherrack_bricks_stairs, tile.polished_netherrack_bricks_stairs.name
+quark:polished_netherrack_bricks_slab:0, Netherwrought Brick Slab
+quark:polished_netherrack_bricks_wall, tile.polished_netherrack_bricks_wall.name
+quark:trowel, item.trowel.name
+quark:quilted_wool:0, White Quilted Wool
+quark:quilted_wool:1, Orange Quilted Wool
+quark:quilted_wool:2, Magenta Quilted Wool
+quark:quilted_wool:3, Light Blue Quilted Wool
+quark:quilted_wool:4, Yellow Quilted Wool
+quark:quilted_wool:5, Lime Quilted Wool
+quark:quilted_wool:6, Pink Quilted Wool
+quark:quilted_wool:7, Gray Quilted Wool
+quark:quilted_wool:8, Light Gray Quilted Wool
+quark:quilted_wool:9, Cyan Quilted Wool
+quark:quilted_wool:10, Purple Quilted Wool
+quark:quilted_wool:11, Blue Quilted Wool
+quark:quilted_wool:12, Brown Quilted Wool
+quark:quilted_wool:13, Green Quilted Wool
+quark:quilted_wool:14, Red Quilted Wool
+quark:quilted_wool:15, Black Quilted Wool
+>>>>>>> Stashed changes
 psi:material:0, Psidust
 psi:material:1, Psimetal Ingot
 psi:material:2, Psigem
@@ -19276,6 +20022,7 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
+<<<<<<< Updated upstream
 tconstruct:pattern:0, Bowstring Pattern
 tconstruct:pattern:0, Large Sword Blade Pattern
 tconstruct:pattern:0, Armor Trim Pattern
@@ -19315,6 +20062,47 @@ tconstruct:pattern:0, Large Plate Pattern
 tconstruct:pattern:0, Arrow Shaft Pattern
 tconstruct:pattern:0, Knife Blade Pattern
 tconstruct:pattern:0, Chisel Head Pattern
+=======
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Pipe Piece Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Laser Medium Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Armor Trim Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Chisel Head Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Polishing Kit Pattern
+tconstruct:pattern:0, Battery Cell Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Helmet Core Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+>>>>>>> Stashed changes
 tconstruct:shard:0, Naga Scale Shard
 tconstruct:sharpening_kit:0, Naga Scale Sharpening Kit
 tconstruct:pick_head:0, Naga Scale Pickaxe Head
@@ -19421,6 +20209,7 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
+<<<<<<< Updated upstream
 tconstruct:cast:0, Bowstring Cast
 tconstruct:cast:0, Large Sword Blade Cast
 tconstruct:cast:0, Armor Trim Cast
@@ -19457,12 +20246,51 @@ tconstruct:cast:0, Large Plate Cast
 tconstruct:cast:0, Arrow Shaft Cast
 tconstruct:cast:0, Knife Blade Cast
 tconstruct:cast:0, Chisel Head Cast
+=======
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Armor Trim Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Fletching Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Chisel Head Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Polishing Kit Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Helmet Core Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Arrow Shaft Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Hammer Head Cast
+>>>>>>> Stashed changes
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
+<<<<<<< Updated upstream
 tconstruct:clay_cast:0, Bowstring Clay Cast
 tconstruct:clay_cast:0, Large Sword Blade Clay Cast
 tconstruct:clay_cast:0, Armor Trim Clay Cast
@@ -19499,6 +20327,44 @@ tconstruct:clay_cast:0, Large Plate Clay Cast
 tconstruct:clay_cast:0, Arrow Shaft Clay Cast
 tconstruct:clay_cast:0, Knife Blade Clay Cast
 tconstruct:clay_cast:0, Chisel Head Clay Cast
+=======
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Armor Trim Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Fletching Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Chisel Head Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Polishing Kit Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Helmet Core Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Arrow Shaft Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+>>>>>>> Stashed changes
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -21341,24 +22207,6 @@ teslacorelib:machine_case, Machine Case
 teslacorelib:speed_tier1, Speed Upgrade I
 teslacorelib:speed_tier2, Speed Upgrade II
 teslacorelib:wrench, Tesla Wrench
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -21479,6 +22327,24 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 magicfeather:magicfeather, Magic Feather
 mcwbridges:most1, Iron Bridge Middle
 mcwbridges:most2, Iron Bridge End
@@ -21983,6 +22849,61 @@ plustic:katana, Katana
 plustic:mirionnugget, Mirion Nugget
 plustic:mirioningot, Mirion Ingot
 plustic:mirionblock, Mirion Block
+rats:block_of_cheese, Block of Cheese
+rats:cauldron_milk, Cauldron of Milk
+rats:cauldron_cheese, Cauldron of Cheese
+rats:rat_hole, Rat Hole
+rats:rattrap, Rat Trap
+rats:rat_cage, Rat Cage
+rats:rat_cage_decorated, Rat Cage
+rats:rat_cage_breeding_lantern, tile.rats.rat_cage_breeding_lantern.name
+rats:fish_barrel, Barrel of Fish
+rats:rat_crafting_table, Rat Crafting Table
+rats:auto_curdler, Curdling Station
+rats:rat_tube_white, White Rat Tube
+rats:rat_tube_orange, Orange Rat Tube
+rats:rat_tube_magenta, Magenta Rat Tube
+rats:rat_tube_light_blue, Light Blue Rat Tube
+rats:rat_tube_yellow, Yellow Rat Tube
+rats:rat_tube_lime, Lime Rat Tube
+rats:rat_tube_pink, Pink Rat Tube
+rats:rat_tube_gray, Gray Rat Tube
+rats:rat_tube_silver, Light Gray Rat Tube
+rats:rat_tube_cyan, Cyan Rat Tube
+rats:rat_tube_purple, Purple Rat Tube
+rats:rat_tube_blue, Blue Rat Tube
+rats:rat_tube_brown, Brown Rat Tube
+rats:rat_tube_green, Green Rat Tube
+rats:rat_tube_red, Red Rat Tube
+rats:rat_tube_black, Black Rat Tube
+rats:garbage_pile, Garbage Pile
+rats:ratglove_flower, Ratglove Flower
+rats:marbled_cheese_raw, Raw Marbled Cheese
+rats:marbled_cheese, Marbled Cheese
+rats:marbled_cheese_slab:0, Marbled Cheese Slab
+rats:marbled_cheese_slab_double:0, Marbled Cheese Slab
+rats:marbled_cheese_stairs, Marbled Cheese Stairs
+rats:marbled_cheese_tile, Marbled Cheese Tile
+rats:marbled_cheese_chiseled, Chiseled Marbled Cheese
+rats:marbled_cheese_pillar, Marbled Cheese Pillar
+rats:marbled_cheese_brick, Marbled Cheese Brick
+rats:marbled_cheese_brick_slab:0, Marbled Cheese Brick Slab
+rats:marbled_cheese_brick_slab_double:0, Marbled Cheese Brick Slab
+rats:marbled_cheese_brick_stairs, Marbled Cheese Brick Stairs
+rats:marbled_cheese_brick_chiseled, Chiseled Marbled Cheese Brick
+rats:marbled_cheese_brick_cracked, Cracked Marbled Cheese Brick
+rats:marbled_cheese_brick_mossy, Mossy Marbled Cheese Brick
+rats:marbled_cheese_dirt, Marbled Cheese Dirt
+rats:marbled_cheese_grass, Marbled Cheese Grass
+rats:marbled_cheese_rat_head, Ratlantean Automaton Head
+rats:marbled_cheese_golem_core, Ratlantean Automaton Core
+rats:ratlantis_portal, Ratlantis Portal
+rats:compressed_rat, Block of Ratglove
+rats:brain_block, Brain Block
+rats:jack_o_ratern, Jack O' Ratern
+rats:upgrade_combiner, Rat Upgrade Combiner
+rats:upgrade_separator, Rat Upgrade Separator
+rats:rat_lantern, Rat Lantern
 rats:cheese, Cheese
 rats:raw_rat, Raw Rat
 rats:cooked_rat, Cooked Rat
@@ -22143,6 +23064,7 @@ rats:rat_upgrade_combined, Rat Upgrade: Combined
 rats:rat_upgrade_combined_creative, Rat Upgrade: Combined(Creative)
 rats:rat_nugget, Rat §o"Nugget"
 rats:rat_nugget_ore, %s§o"Nugget"
+<<<<<<< Updated upstream
 rats:block_of_cheese, Block of Cheese
 rats:cauldron_milk, Cauldron of Milk
 rats:cauldron_cheese, Cauldron of Cheese
@@ -22198,6 +23120,46 @@ rats:jack_o_ratern, Jack O' Ratern
 rats:upgrade_combiner, Rat Upgrade Combiner
 rats:upgrade_separator, Rat Upgrade Separator
 rats:rat_lantern, Rat Lantern
+=======
+xreliquary:altar, Altar
+xreliquary:apothecary_cauldron, tile.apothecary_cauldron.name
+xreliquary:apothecary_mortar, tile.apothecary_mortar.name
+xreliquary:fertile_lilypad, tile.fertile_lilypad.name
+xreliquary:interdiction_torch, tile.interdiction_torch.name
+xreliquary:wraith_node, tile.wraith_node.name
+xreliquary:pedestal:0, Pedestal
+xreliquary:pedestal:1, Pedestal
+xreliquary:pedestal:2, Pedestal
+xreliquary:pedestal:3, Pedestal
+xreliquary:pedestal:4, Pedestal
+xreliquary:pedestal:5, Pedestal
+xreliquary:pedestal:6, Pedestal
+xreliquary:pedestal:7, Pedestal
+xreliquary:pedestal:8, Pedestal
+xreliquary:pedestal:9, Pedestal
+xreliquary:pedestal:10, Pedestal
+xreliquary:pedestal:11, Pedestal
+xreliquary:pedestal:12, Pedestal
+xreliquary:pedestal:13, Pedestal
+xreliquary:pedestal:14, Pedestal
+xreliquary:pedestal:15, Pedestal
+xreliquary:pedestal_passive:0, Pedestal (Display only)
+xreliquary:pedestal_passive:1, Pedestal (Display only)
+xreliquary:pedestal_passive:2, Pedestal (Display only)
+xreliquary:pedestal_passive:3, Pedestal (Display only)
+xreliquary:pedestal_passive:4, Pedestal (Display only)
+xreliquary:pedestal_passive:5, Pedestal (Display only)
+xreliquary:pedestal_passive:6, Pedestal (Display only)
+xreliquary:pedestal_passive:7, Pedestal (Display only)
+xreliquary:pedestal_passive:8, Pedestal (Display only)
+xreliquary:pedestal_passive:9, Pedestal (Display only)
+xreliquary:pedestal_passive:10, Pedestal (Display only)
+xreliquary:pedestal_passive:11, Pedestal (Display only)
+xreliquary:pedestal_passive:12, Pedestal (Display only)
+xreliquary:pedestal_passive:13, Pedestal (Display only)
+xreliquary:pedestal_passive:14, Pedestal (Display only)
+xreliquary:pedestal_passive:15, Pedestal (Display only)
+>>>>>>> Stashed changes
 xreliquary:alkahestry_tome, item.alkahestry_tome.name
 xreliquary:mob_ingredient:0, Rib Bone
 xreliquary:mob_ingredient:1, Withered Rib
@@ -22529,27 +23491,6 @@ stevescarts:cartmodule:97, Creative Supplies
 stevescarts:cartmodule:99, Cake Server
 stevescarts:cartmodule:101, Color Randomizer
 stevescarts:cartmodule:102, Tree Tap Module
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -22600,6 +23541,27 @@ storagedrawers:customdrawers:2, Framed Drawers 2x2
 storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 storagedrawersextra:extra_drawers:0, Basic Drawer
 storagedrawersextra:extra_drawers:0, Basic Drawer
 storagedrawersextra:extra_drawers:0, Basic Drawer

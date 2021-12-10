@@ -32,3 +32,10 @@ usernamecache.json
 /config/randomtweaks/data.json
 /resourcepacks/Aether b1.7.3 Textures
 /resourcepacks/NTOV v1.zip
+config/AppliedEnergistics2/CustomRecipes.cfg
+config/AppliedEnergistics2/items.csv
+config/AppliedEnergistics2/VersionChecker.cfg
+config/IC2.ini
+config/loliasm.cfg
+config/unidict/UniDict.cfg
+config/UniqueNames.txt
