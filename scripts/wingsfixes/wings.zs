@@ -34,16 +34,18 @@ recipes.addShaped("ctBlueButterflyWings", <wings:blue_butterfly_wings>,
 [fabric, fairy_dust, fabric]]);
 
 recipes.addShapeless("ctBlueButterflyWingsFromMonarch", <wings:blue_butterfly_wings>,
-[<wings:monarch_butterfly_wings>.anyDamage().marked("mark"), <ore:dyeBlue>],
-function(out, ins, cInfo){
-return ins.mark.withDamage(max(0, ins.mark.damage));
-});
+[<wings:monarch_butterfly_wings>.marked("monarch"), <ore:dyeBlue>],
+function(out, ins, cInfo) {
+return out.withDamage(ins.monarch.damage);
+}
+);
 
 recipes.addShapeless("ctMonarchButterflyWingsFromBlue", <wings:monarch_butterfly_wings>,
-[<wings:blue_butterfly_wings>.anyDamage().marked("mark"), <ore:dyeOrange>, <ore:dyeBlack>],
-function(out, ins, cInfo){
-return ins.mark.withDamage(max(0, ins.mark.damage));
-});
+[<wings:blue_butterfly_wings>.marked("blue"), <ore:dyeOrange>, <ore:dyeBlack>],
+function(out, ins, cInfo) {
+return out.withDamage(ins.blue.damage);
+}
+);
 
 recipes.addShaped("ctFireWings", <wings:fire_wings>,
 [[<minecraft:blaze_powder>, rune_air, <minecraft:blaze_powder>],
