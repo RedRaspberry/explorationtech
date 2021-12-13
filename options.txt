@@ -1,7 +1,7 @@
 version:1343
 invertYMouse:false
 mouseSensitivity:0.5
-fov:0.25
+fov:0.0
 gamma:1.0
 saturation:0.0
 renderDistance:22
@@ -93,6 +93,8 @@ key_Hub Expand Key:45
 key_Change Caster Focus:33
 key_Misc Caster Toggle:34
 key_keybind.baublesinventory:48
+key_quark.keybind.toggleAutojump:48
+key_quark.keybind.lockBuilding:37
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:44
 key_quark.keybind.chestSort:0
@@ -100,7 +102,6 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.toggleAutojump:48
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -119,7 +120,6 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.lockBuilding:37
 key_keys.baubleshud.config:73
 key_key.conarm.toggle_helm.desc:34
 key_key.conarm.toggle_chest.desc:35
@@ -137,9 +137,9 @@ key_key.ebwizardry.spell_7:8:ALT
 key_key.ebwizardry.spell_8:9:ALT
 key_keybind.railcraft.cart.bed:208
 key_ingameinfoxml.key.toggle:0
-key_key.inventorysorter.itemin:-200
-key_key.inventorysorter.itemout:-201
 key_key.inventorysorter.sort:-98
+key_key.inventorysorter.itemout:-201
+key_key.inventorysorter.itemin:-200
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_neat.keybind.toggle:0
