@@ -34,7 +34,7 @@ recipes.addShaped("ctBlueButterflyWings", <wings:blue_butterfly_wings>,
 [fabric, fairy_dust, fabric]]);
 
 recipes.addShapeless("ctBlueButterflyWingsFromMonarch", <wings:blue_butterfly_wings>,
-[<wings:monarch_butterfly_wings>.anyDamage.marked("monarch"), <ore:dyeBlue>],
+[<wings:monarch_butterfly_wings>.anyDamage().marked("monarch"), <ore:dyeBlue>],
 function(out, ins, cInfo) {
 return out.withDamage(ins.monarch.damage);
 }, null
