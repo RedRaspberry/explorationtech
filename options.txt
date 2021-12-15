@@ -1,10 +1,10 @@
 version:1343
 invertYMouse:false
 mouseSensitivity:0.5
-fov:0.0
+fov:0.25
 gamma:1.0
 saturation:0.0
-renderDistance:22
+renderDistance:11
 guiScale:0
 particles:2
 bobView:true
@@ -92,16 +92,9 @@ key_Side Inventory Key:46
 key_Hub Expand Key:45
 key_Change Caster Focus:33
 key_Misc Caster Toggle:34
+key_Reload Menu | CTRL + ALT + :0
+key_Toggle Customization Overlay | CTRL + ALT + :46
 key_keybind.baublesinventory:48
-key_quark.keybind.toggleAutojump:48
-key_quark.keybind.lockBuilding:37
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:44
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -120,7 +113,30 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:44
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_quark.keybind.toggleAutojump:48
+key_quark.keybind.lockBuilding:37
 key_keys.baubleshud.config:73
+key_psimisc.keybind:46
+key_rpsideas.kb.offhandcast:0
+key_rpsideas.kb.switchslot01:0
+key_rpsideas.kb.switchslot02:0
+key_rpsideas.kb.switchslot03:0
+key_rpsideas.kb.switchslot04:0
+key_rpsideas.kb.switchslot05:0
+key_rpsideas.kb.switchslot06:0
+key_rpsideas.kb.switchslot07:0
+key_rpsideas.kb.switchslot08:0
+key_rpsideas.kb.switchslot09:0
+key_rpsideas.kb.switchslot10:0
+key_rpsideas.kb.switchslot11:0
+key_rpsideas.kb.switchslot12:0
 key_key.conarm.toggle_helm.desc:34
 key_key.conarm.toggle_chest.desc:35
 key_key.conarm.toggle_leg.desc:36
@@ -138,15 +154,14 @@ key_key.ebwizardry.spell_8:9:ALT
 key_keybind.railcraft.cart.bed:208
 key_ingameinfoxml.key.toggle:0
 key_key.inventorysorter.sort:-98
-key_key.inventorysorter.itemout:-201
 key_key.inventorysorter.itemin:-200
+key_key.inventorysorter.itemout:-201
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_neat.keybind.toggle:0
 key_openblocks.keybind.vario_switch:47
 key_openblocks.keybind.vario_vol_up:0
 key_openblocks.keybind.vario_vol_down:0
-key_psimisc.keybind:46
 key_key.toggleFoVChanges:51:SHIFT
 key_key.reloadSoundSystem:66:SHIFT
 key_key.toggleTimeOfDayOverlay:0
@@ -251,8 +266,8 @@ key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
-soundCategory_master:0.059602648
-soundCategory_music:1.0
+soundCategory_master:0.8278146
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

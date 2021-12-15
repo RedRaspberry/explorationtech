@@ -1,0 +1,86 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = test2
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = bottom-left
+  x = 0
+  action = movebutton
+  y = -41
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = bottom-left
+  x = 0
+  action = movebutton
+  y = -20
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = bottom-left
+  x = 0
+  action = movebutton
+  y = -41
+}
+
+customization {
+  identifier = %id=376382%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=376382%
+  action = setbuttonlabel
+  value = Laungage
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = bottom-left
+  x = 0
+  action = movebutton
+  y = -62
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  path = fancymenu/logo.png
+  orientation = mid-centered
+  x = -173
+  width = 347
+  actionid = a2b55529-d49d-48ac-bb46-9ad87d3e24b71639437779587
+  action = addtexture
+  y = -107
+  height = 51
+}
+
