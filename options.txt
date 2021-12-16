@@ -11,10 +11,10 @@ bobView:true
 anaglyph3d:false
 maxFps:80
 fboEnable:true
-difficulty:2
+difficulty:3
 fancyGraphics:true
 ao:2
-renderClouds:false
+renderClouds:fast
 resourcePacks:["NTOV v1.zip","explorationtech_modern_style_ores"]
 incompatibleResourcePacks:[]
 lastServer:
@@ -29,7 +29,7 @@ fullscreen:false
 enableVsync:true
 useVbo:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -46,7 +46,7 @@ useNativeTransport:true
 entityShadows:true
 mainHand:right
 attackIndicator:1
-showSubtitles:false
+showSubtitles:true
 realmsNotifications:true
 enableWeakAttacks:false
 autoJump:false
@@ -120,8 +120,8 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.toggleAutojump:48
 key_quark.keybind.lockBuilding:37
+key_quark.keybind.toggleAutojump:48
 key_keys.baubleshud.config:73
 key_psimisc.keybind:46
 key_rpsideas.kb.offhandcast:0
@@ -153,9 +153,9 @@ key_key.ebwizardry.spell_7:8:ALT
 key_key.ebwizardry.spell_8:9:ALT
 key_keybind.railcraft.cart.bed:208
 key_ingameinfoxml.key.toggle:0
+key_key.inventorysorter.itemout:-201
 key_key.inventorysorter.sort:-98
 key_key.inventorysorter.itemin:-200
-key_key.inventorysorter.itemout:-201
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_neat.keybind.toggle:0
@@ -266,7 +266,7 @@ key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
-soundCategory_master:0.8278146
+soundCategory_master:0.54966885
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
