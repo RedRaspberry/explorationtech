@@ -1,0 +1,11 @@
+fix crafting recipes for gunpowder to include the reliquary drops
+change recipe of wizardry bookshelves to not require grand magic crystals
+make grand magic crystals more easily obtainable (??)
+look into how thaumcraft infusion and/or botania infusion works, and make recipes for all 7 elemental crystals using it
+(nvm, the infusion altar from wiz itself can do this. instead, make that more easially obtainable, and/or breakable (how!))
+also use that to make other useful, later game items for cross mod compat
+
+change netherrite to not alloy in the actual crafting table, instead in [insert alloy machine here]
+remove flim-flam enchantment (for some reason, you can still get it on advanced enchant tables, so that's probably a blacklist in the config?)
+generally work on finding more cross-mod compat options
+mess with loot tables!
