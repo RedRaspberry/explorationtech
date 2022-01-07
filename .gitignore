@@ -13,6 +13,7 @@
 /XaeroWaypoints_BACKUP032021
 /XaeroWorldMap
 
+options.txt
 .curseclient
 BotaniaVars.dat
 crafttweaker.log
@@ -32,3 +33,5 @@ usernamecache.json
 /config/randomtweaks/data.json
 /resourcepacks/Aether b1.7.3 Textures
 /resourcepacks/NTOV v1.zip
+/resourcepacks/Modernity-format3-v3.5.2.zip
+/resourcepacks/Vanilla_Future_Texture_optifine.zip
