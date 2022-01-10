@@ -11,3 +11,35 @@ change netherrite to not alloy in the actual crafting table, instead in [insert 
 remove flim-flam enchantment (for some reason, you can still get it on advanced enchant tables, so that's probably a blacklist in the config?)
 generally work on finding more cross-mod compat options
 mess with loot tables!
+
+give sawdust pulpwood oredict and itemsawdust on both mek and thermal versions
+runic altar recipe for quark runes: mystical petal of color you want + managlass + %s vis crystal + fluix crystal + bottle o' enchanting
+
+Fix MGC crushing table to use any ingot -> plate crafting; remove vanilla-style&hammer crafting recipes for plates; fix recipe output of crushing table to supply thermal plates instead of immersive
+fix unidict configs to prevent this from happening
+
+
+retexture railcraft plates to match other mods; retexture fluxed electrum plate to match new thermal
+
+think about tutorial/questbook to explain progression
+remove smithing table from smeltery recipes (it melts into iron!!!?)
+
+add mgc smithing table recipes for ore crushing
+
+replace all instances of iron ingots in engineering blocks with plates
+
+create some sort of machine to process metal rods into wires
+remove rod crafting recipes
+add rod crafting for tinkers'
+remove wire crafting in metal process
+add wire crafting on mgc crushing table from rods
+
+
+remove railcraft steel armor and tools, thermal steel armor and tools, and tinkers steel armor and tools
+remove most thermal [x type of metal] armor and tools - it's boring and useless
+make immersive steel more priority than thermal in unidict config
+
+
+add crafting recipes for aether mod pillars
+
+add runic altar recipes for spawn eggs ???
