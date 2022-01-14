@@ -50,6 +50,102 @@ high flux levels spawns pipers from rat mod
 Crafttweaker
 ~~~~~~~~~~~~
 Botania Runic Altar recipes as listed above. Requires modtweaker
-Disable enchantments in advanced enchantment table
+~~~
+<minecraft:experience_bottle>
+<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]})
+<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]})
+<appliedenergistics2:material:7>
+<botania:managlass>
+<botania:petal:11>
+<wings:angel_wings>
+<ebwizardry:magic_crystal>
+<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]})
+<botania:manaresource:5>
+<ebwizardry:grand_crystal>
+<quark:rune>
+<quark:rune> * 64
+<quark:rune:1> * 64
+<quark:rune:2> * 64
+<quark:rune:3> * 64
+<quark:rune:4> * 64
+<quark:rune:5> * 64
+<quark:rune:6> * 64
+<quark:rune:7> * 64
+<quark:rune:8> * 64
+<quark:rune:9>
+<quark:rune:10>
+<quark:rune:11>
+<quark:rune:12>
+<quark:rune:13>
+<quark:rune:14>
+<quark:rune:15>
+<quark:rune:16>
+<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]})
+<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "ordo"}]})
+<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "alienis"}]})
+<botania:manaresource:16>
+<botania:petal:10>
+<botania:petal:15> * 2
+<xreliquary:mob_ingredient:11>
+<botania:blacklotus>
+<botania:manabottle>
+<botania:manaresource:4>
+<botania:manaresource:9>
+<botania:manaresource:5>
+<minecraft:golden_apple>
+<minecraft:golden_apple:1>
+<minecraft:dragon_breath>
+<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]})
+<botania:manaresource:5>
+<botania:blacklotus>
+<botania:blacklotus:1>
+<botania:rune:8>
+<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]})
+<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praemunio"}]})
+<hexxitgear:hexical_diamond>
+<immersiveengineering:wirecoil:3>
+<ebwizardry:resplendent_thread>
+<botania:manaresource:8>
+<immersiveengineering:metal:33>
+<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]})
+<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "aversio"}]})
+<ebwizardry:grand_crystal>
+<ebwizardry:crystal_silver_plating>
+<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "vitreus"}]})
+<botania:manaresource:22> * 2
+<ebwizardry:grand_crystal>
+<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "motus"}]})
+<ebwizardry:ethereal_crystalweave>
+<immersiveengineering:material:8> * 2
+<minecraft:redstone> * 2
+<minecraft:iron_ingot> * 4
+<thermalfoundation:material:24>
 
-LootTableTweaker
+<contenttweaker:shroomlight>
+~~~
+
+Disable enchantments in advanced enchantment table completely:
+flimflam
+remove from most items :
+autosmelt
+~~~
+
+LootTableTweaker:
+remove most of enderio's loot items, minus the capacitors
+
+
+
+Conflicts:
+Thermal and Railcraft steel shears
+quark and netherEX red nether brick slab
+ticomplement stone bucket and wrcbe stone bowl
+there are 3 sets of steel armor - railcraft, thermal, tinkers tcomplement; there is also the immersive one that uses steel plates instead
+whatever mess is going on with the compatibility between various gear types
+same issue with bronze armor as with steel
+CC modem and futura block
+iron and gold rings conflict with those gear types
+carrot and potato bags conflict with rat mod assorted vegatables
+nether respawn obelisk conflicts with... lots of things
+~~~
+
+there's probably thermal / railcraft / immersive / ti complement / tinkers versions of metal tools that SHOULD conflict but perhaps don't share recipes. either way; ensure there's only one version of each for balance and avoiding confusion
