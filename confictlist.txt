@@ -1,0 +1,569 @@
+[SERVER_STARTED][SERVER][INFO] Conflicting: 568
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [natura:common/barley_flour](Barley Flour) <natura:materials:1> * 1 conflicts with [Shapeless] [harvestcraft:barleyseeditem](Barley Seed) <harvestcraft:barleyseeditem:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [natura:common/cactus_juice](Cactus Juice) <natura:edibles:11> * 1 conflicts with [Shapeless] [inspirations:tweaks/cactus_seeds](Cactus Seeds) <inspirations:cactus_seeds:0> * 3
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [natura:common/wheat_flour](Wheat Flour) <natura:materials:2> * 1 conflicts with [Shapeless] [animania:straw](Straw) <animania:block_straw:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [harvestcraft:honeyitem_foodhoneydrop](Honey) <harvestcraft:honeyitem:0> * 1 conflicts with [Shapeless] [animania:sugar](Sugar) <minecraft:sugar:0> * 8
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [harvestcraft:honeyitem_drophoney](Honey) <harvestcraft:honeyitem:0> * 1 conflicts with [Shapeless] [animania:sugar](Sugar) <minecraft:sugar:0> * 8
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [harvestcraft:cottonseeditem](Cotton Seed) <harvestcraft:cottonseeditem:0> * 1 conflicts with [Shapeless] [harvestcraft:cottonitem](Cotton) <harvestcraft:cottonitem:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [immersiveengineering:stone_decoration/cokeblock_uncraft](Coal Coke) <immersiveengineering:material:6> * 9 conflicts with [Shapeless] [thermalfoundation:material_58](Coal Coke) <thermalfoundation:material:802> * 9
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:chest_minecart](Chest Cart) <minecraft:chest_minecart:0> * 1 conflicts with [Shaped] [railcraft:cart_cargo#0$1](Cargo Cart) <railcraft:cart_cargo:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [natura:nether/sticks/bloodwood_sticks](Bloodwood Sticks) <natura:sticks:12> * 4 conflicts with [Shaped] [atum:stick](Stick) <minecraft:stick:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [natura:nether/sticks/darkwood_sticks](Darkwood Sticks) <natura:sticks:10> * 4 conflicts with [Shaped] [atum:stick](Stick) <minecraft:stick:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [natura:nether/sticks/fusewood_sticks](Fusewood Sticks) <natura:sticks:11> * 4 conflicts with [Shaped] [atum:stick](Stick) <minecraft:stick:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [natura:nether/sticks/ghostwood_sticks](Ghostwood Sticks) <natura:sticks:9> * 4 conflicts with [Shaped] [atum:stick](Stick) <minecraft:stick:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [atum:deadwood_stick](Deadwood Stick) <atum:deadwood_stick:0> * 4 conflicts with [Shaped] [atum:stick](Stick) <minecraft:stick:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [atum:palm_stick](Palm Stick) <atum:palm_stick:0> * 4 conflicts with [Shaped] [atum:stick](Stick) <minecraft:stick:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tconstruct:gadgets/stone/stone_rod](Stone Rod) <tconstruct:stone_stick:0> * 4 conflicts with [Shaped] [microblockcbe:stone_rod](Stone Rod) <microblockcbe:stone_rod:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [atum:linen_orange](Orange Linen) <atum:linen_orange:0> * 1 conflicts with [Shapeless] [minecraft:orange_wool](Orange Wool) <minecraft:wool:1> * 1
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [atum:linen_magenta](Magenta Linen) <atum:linen_magenta:0> * 1 conflicts with [Shapeless] [minecraft:magenta_wool](Magenta Wool) <minecraft:wool:2> * 1
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [atum:linen_lightblue](Light Blue Linen) <atum:linen_light_blue:0> * 1 conflicts with [Shapeless] [minecraft:light_blue_wool](Light Blue Wool) <minecraft:wool:3> * 1
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [atum:linen_yellow](Yellow Linen) <atum:linen_yellow:0> * 1 conflicts with [Shapeless] [minecraft:yellow_wool](Yellow Wool) <minecraft:wool:4> * 1
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [atum:linen_lime](Lime Linen) <atum:linen_lime:0> * 1 conflicts with [Shapeless] [minecraft:lime_wool](Lime Wool) <minecraft:wool:5> * 1
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [atum:linen_pink](Pink Linen) <atum:linen_pink:0> * 1 conflicts with [Shapeless] [minecraft:pink_wool](Pink Wool) <minecraft:wool:6> * 1
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [atum:linen_gray](Gray Linen) <atum:linen_gray:0> * 1 conflicts with [Shapeless] [minecraft:gray_wool](Gray Wool) <minecraft:wool:7> * 1
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [atum:linen_lightgray](Silver Linen) <atum:linen_silver:0> * 1 conflicts with [Shapeless] [minecraft:light_gray_wool](Light Gray Wool) <minecraft:wool:8> * 1
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [atum:linen_cyan](Cyan Linen) <atum:linen_cyan:0> * 1 conflicts with [Shapeless] [minecraft:cyan_wool](Cyan Wool) <minecraft:wool:9> * 1
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [atum:linen_purple](Purple Linen) <atum:linen_purple:0> * 1 conflicts with [Shapeless] [minecraft:purple_wool](Purple Wool) <minecraft:wool:10> * 1
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [atum:linen_blue](Blue Linen) <atum:linen_blue:0> * 1 conflicts with [Shapeless] [minecraft:blue_wool](Blue Wool) <minecraft:wool:11> * 1
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [atum:linen_brown](Brown Linen) <atum:linen_brown:0> * 1 conflicts with [Shapeless] [minecraft:brown_wool](Brown Wool) <minecraft:wool:12> * 1
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [atum:linen_green](Green Linen) <atum:linen_green:0> * 1 conflicts with [Shapeless] [minecraft:green_wool](Green Wool) <minecraft:wool:13> * 1
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [atum:linen_red](Red Linen) <atum:linen_red:0> * 1 conflicts with [Shapeless] [minecraft:red_wool](Red Wool) <minecraft:wool:14> * 1
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [atum:linen_black](Black Linen) <atum:linen_black:0> * 1 conflicts with [Shapeless] [minecraft:black_wool](Black Wool) <minecraft:wool:15> * 1
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [thermalfoundation:dust_4](Lapis Lazuli Dust) <ic2:dust:9> * 2 conflicts with [Shapeless] [thermalfoundation:dye](Lapis Lazuli) <minecraft:dye:4> * 2
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [thermalfoundation:dust_5](Diamond Dust) <ic2:dust:5> * 2 conflicts with [Shapeless] [thermalfoundation:diamond_1](Diamond) <minecraft:diamond:0> * 2
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [thermalfoundation:material_93](Nether Quartz Dust) <appliedenergistics2:material:3> * 2 conflicts with [Shapeless] [thermalfoundation:quartz](Nether Quartz) <minecraft:quartz:0> * 2
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Maple Sticks) <natura:sticks:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Silverbell Sticks) <natura:sticks:1> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Amaranth Sticks) <natura:sticks:2> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Tiger Sticks) <natura:sticks:3> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Willow Sticks) <natura:sticks:4> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Eucalyptus Sticks) <natura:sticks:5> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Hopseed Sticks) <natura:sticks:6> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Sakura Sticks) <natura:sticks:7> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Redwood Sticks) <natura:sticks:8> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Ghostwood Sticks) <natura:sticks:9> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Darkwood Sticks) <natura:sticks:10> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Fusewood Sticks) <natura:sticks:11> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Bloodwood Sticks) <natura:sticks:12> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Palm Stick) <atum:palm_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Deadwood Stick) <atum:deadwood_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Dusty Bone Stick) <atum:dusty_bone_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Maple Sticks) <natura:sticks:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Silverbell Sticks) <natura:sticks:1> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Amaranth Sticks) <natura:sticks:2> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Tiger Sticks) <natura:sticks:3> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Willow Sticks) <natura:sticks:4> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Eucalyptus Sticks) <natura:sticks:5> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Hopseed Sticks) <natura:sticks:6> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Sakura Sticks) <natura:sticks:7> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Redwood Sticks) <natura:sticks:8> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Ghostwood Sticks) <natura:sticks:9> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Darkwood Sticks) <natura:sticks:10> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Fusewood Sticks) <natura:sticks:11> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Bloodwood Sticks) <natura:sticks:12> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Palm Stick) <atum:palm_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Deadwood Stick) <atum:deadwood_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Dusty Bone Stick) <atum:dusty_bone_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Stick) <minecraft:stick:0> * 16 conflicts with [Shaped] [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Maple Sticks) <natura:sticks:0> * 16 conflicts with [Shaped] [noname](Silverbell Sticks) <natura:sticks:1> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Maple Sticks) <natura:sticks:0> * 16 conflicts with [Shaped] [noname](Amaranth Sticks) <natura:sticks:2> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Maple Sticks) <natura:sticks:0> * 16 conflicts with [Shaped] [noname](Tiger Sticks) <natura:sticks:3> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Maple Sticks) <natura:sticks:0> * 16 conflicts with [Shaped] [noname](Willow Sticks) <natura:sticks:4> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Maple Sticks) <natura:sticks:0> * 16 conflicts with [Shaped] [noname](Eucalyptus Sticks) <natura:sticks:5> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Maple Sticks) <natura:sticks:0> * 16 conflicts with [Shaped] [noname](Hopseed Sticks) <natura:sticks:6> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Maple Sticks) <natura:sticks:0> * 16 conflicts with [Shaped] [noname](Sakura Sticks) <natura:sticks:7> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Maple Sticks) <natura:sticks:0> * 16 conflicts with [Shaped] [noname](Redwood Sticks) <natura:sticks:8> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Maple Sticks) <natura:sticks:0> * 16 conflicts with [Shaped] [noname](Ghostwood Sticks) <natura:sticks:9> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Maple Sticks) <natura:sticks:0> * 16 conflicts with [Shaped] [noname](Darkwood Sticks) <natura:sticks:10> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Maple Sticks) <natura:sticks:0> * 16 conflicts with [Shaped] [noname](Fusewood Sticks) <natura:sticks:11> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Maple Sticks) <natura:sticks:0> * 16 conflicts with [Shaped] [noname](Bloodwood Sticks) <natura:sticks:12> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Maple Sticks) <natura:sticks:0> * 16 conflicts with [Shaped] [noname](Palm Stick) <atum:palm_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Maple Sticks) <natura:sticks:0> * 16 conflicts with [Shaped] [noname](Deadwood Stick) <atum:deadwood_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Maple Sticks) <natura:sticks:0> * 16 conflicts with [Shaped] [noname](Dusty Bone Stick) <atum:dusty_bone_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Maple Sticks) <natura:sticks:0> * 16 conflicts with [Shaped] [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Silverbell Sticks) <natura:sticks:1> * 16 conflicts with [Shaped] [noname](Amaranth Sticks) <natura:sticks:2> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Silverbell Sticks) <natura:sticks:1> * 16 conflicts with [Shaped] [noname](Tiger Sticks) <natura:sticks:3> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Silverbell Sticks) <natura:sticks:1> * 16 conflicts with [Shaped] [noname](Willow Sticks) <natura:sticks:4> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Silverbell Sticks) <natura:sticks:1> * 16 conflicts with [Shaped] [noname](Eucalyptus Sticks) <natura:sticks:5> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Silverbell Sticks) <natura:sticks:1> * 16 conflicts with [Shaped] [noname](Hopseed Sticks) <natura:sticks:6> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Silverbell Sticks) <natura:sticks:1> * 16 conflicts with [Shaped] [noname](Sakura Sticks) <natura:sticks:7> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Silverbell Sticks) <natura:sticks:1> * 16 conflicts with [Shaped] [noname](Redwood Sticks) <natura:sticks:8> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Silverbell Sticks) <natura:sticks:1> * 16 conflicts with [Shaped] [noname](Ghostwood Sticks) <natura:sticks:9> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Silverbell Sticks) <natura:sticks:1> * 16 conflicts with [Shaped] [noname](Darkwood Sticks) <natura:sticks:10> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Silverbell Sticks) <natura:sticks:1> * 16 conflicts with [Shaped] [noname](Fusewood Sticks) <natura:sticks:11> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Silverbell Sticks) <natura:sticks:1> * 16 conflicts with [Shaped] [noname](Bloodwood Sticks) <natura:sticks:12> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Silverbell Sticks) <natura:sticks:1> * 16 conflicts with [Shaped] [noname](Palm Stick) <atum:palm_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Silverbell Sticks) <natura:sticks:1> * 16 conflicts with [Shaped] [noname](Deadwood Stick) <atum:deadwood_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Silverbell Sticks) <natura:sticks:1> * 16 conflicts with [Shaped] [noname](Dusty Bone Stick) <atum:dusty_bone_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Silverbell Sticks) <natura:sticks:1> * 16 conflicts with [Shaped] [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Amaranth Sticks) <natura:sticks:2> * 16 conflicts with [Shaped] [noname](Tiger Sticks) <natura:sticks:3> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Amaranth Sticks) <natura:sticks:2> * 16 conflicts with [Shaped] [noname](Willow Sticks) <natura:sticks:4> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Amaranth Sticks) <natura:sticks:2> * 16 conflicts with [Shaped] [noname](Eucalyptus Sticks) <natura:sticks:5> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Amaranth Sticks) <natura:sticks:2> * 16 conflicts with [Shaped] [noname](Hopseed Sticks) <natura:sticks:6> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Amaranth Sticks) <natura:sticks:2> * 16 conflicts with [Shaped] [noname](Sakura Sticks) <natura:sticks:7> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Amaranth Sticks) <natura:sticks:2> * 16 conflicts with [Shaped] [noname](Redwood Sticks) <natura:sticks:8> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Amaranth Sticks) <natura:sticks:2> * 16 conflicts with [Shaped] [noname](Ghostwood Sticks) <natura:sticks:9> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Amaranth Sticks) <natura:sticks:2> * 16 conflicts with [Shaped] [noname](Darkwood Sticks) <natura:sticks:10> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Amaranth Sticks) <natura:sticks:2> * 16 conflicts with [Shaped] [noname](Fusewood Sticks) <natura:sticks:11> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Amaranth Sticks) <natura:sticks:2> * 16 conflicts with [Shaped] [noname](Bloodwood Sticks) <natura:sticks:12> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Amaranth Sticks) <natura:sticks:2> * 16 conflicts with [Shaped] [noname](Palm Stick) <atum:palm_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Amaranth Sticks) <natura:sticks:2> * 16 conflicts with [Shaped] [noname](Deadwood Stick) <atum:deadwood_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Amaranth Sticks) <natura:sticks:2> * 16 conflicts with [Shaped] [noname](Dusty Bone Stick) <atum:dusty_bone_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Amaranth Sticks) <natura:sticks:2> * 16 conflicts with [Shaped] [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Tiger Sticks) <natura:sticks:3> * 16 conflicts with [Shaped] [noname](Willow Sticks) <natura:sticks:4> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Tiger Sticks) <natura:sticks:3> * 16 conflicts with [Shaped] [noname](Eucalyptus Sticks) <natura:sticks:5> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Tiger Sticks) <natura:sticks:3> * 16 conflicts with [Shaped] [noname](Hopseed Sticks) <natura:sticks:6> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Tiger Sticks) <natura:sticks:3> * 16 conflicts with [Shaped] [noname](Sakura Sticks) <natura:sticks:7> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Tiger Sticks) <natura:sticks:3> * 16 conflicts with [Shaped] [noname](Redwood Sticks) <natura:sticks:8> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Tiger Sticks) <natura:sticks:3> * 16 conflicts with [Shaped] [noname](Ghostwood Sticks) <natura:sticks:9> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Tiger Sticks) <natura:sticks:3> * 16 conflicts with [Shaped] [noname](Darkwood Sticks) <natura:sticks:10> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Tiger Sticks) <natura:sticks:3> * 16 conflicts with [Shaped] [noname](Fusewood Sticks) <natura:sticks:11> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Tiger Sticks) <natura:sticks:3> * 16 conflicts with [Shaped] [noname](Bloodwood Sticks) <natura:sticks:12> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Tiger Sticks) <natura:sticks:3> * 16 conflicts with [Shaped] [noname](Palm Stick) <atum:palm_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Tiger Sticks) <natura:sticks:3> * 16 conflicts with [Shaped] [noname](Deadwood Stick) <atum:deadwood_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Tiger Sticks) <natura:sticks:3> * 16 conflicts with [Shaped] [noname](Dusty Bone Stick) <atum:dusty_bone_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Tiger Sticks) <natura:sticks:3> * 16 conflicts with [Shaped] [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Willow Sticks) <natura:sticks:4> * 16 conflicts with [Shaped] [noname](Eucalyptus Sticks) <natura:sticks:5> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Willow Sticks) <natura:sticks:4> * 16 conflicts with [Shaped] [noname](Hopseed Sticks) <natura:sticks:6> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Willow Sticks) <natura:sticks:4> * 16 conflicts with [Shaped] [noname](Sakura Sticks) <natura:sticks:7> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Willow Sticks) <natura:sticks:4> * 16 conflicts with [Shaped] [noname](Redwood Sticks) <natura:sticks:8> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Willow Sticks) <natura:sticks:4> * 16 conflicts with [Shaped] [noname](Ghostwood Sticks) <natura:sticks:9> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Willow Sticks) <natura:sticks:4> * 16 conflicts with [Shaped] [noname](Darkwood Sticks) <natura:sticks:10> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Willow Sticks) <natura:sticks:4> * 16 conflicts with [Shaped] [noname](Fusewood Sticks) <natura:sticks:11> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Willow Sticks) <natura:sticks:4> * 16 conflicts with [Shaped] [noname](Bloodwood Sticks) <natura:sticks:12> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Willow Sticks) <natura:sticks:4> * 16 conflicts with [Shaped] [noname](Palm Stick) <atum:palm_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Willow Sticks) <natura:sticks:4> * 16 conflicts with [Shaped] [noname](Deadwood Stick) <atum:deadwood_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Willow Sticks) <natura:sticks:4> * 16 conflicts with [Shaped] [noname](Dusty Bone Stick) <atum:dusty_bone_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Willow Sticks) <natura:sticks:4> * 16 conflicts with [Shaped] [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Eucalyptus Sticks) <natura:sticks:5> * 16 conflicts with [Shaped] [noname](Hopseed Sticks) <natura:sticks:6> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Eucalyptus Sticks) <natura:sticks:5> * 16 conflicts with [Shaped] [noname](Sakura Sticks) <natura:sticks:7> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Eucalyptus Sticks) <natura:sticks:5> * 16 conflicts with [Shaped] [noname](Redwood Sticks) <natura:sticks:8> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Eucalyptus Sticks) <natura:sticks:5> * 16 conflicts with [Shaped] [noname](Ghostwood Sticks) <natura:sticks:9> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Eucalyptus Sticks) <natura:sticks:5> * 16 conflicts with [Shaped] [noname](Darkwood Sticks) <natura:sticks:10> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Eucalyptus Sticks) <natura:sticks:5> * 16 conflicts with [Shaped] [noname](Fusewood Sticks) <natura:sticks:11> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Eucalyptus Sticks) <natura:sticks:5> * 16 conflicts with [Shaped] [noname](Bloodwood Sticks) <natura:sticks:12> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Eucalyptus Sticks) <natura:sticks:5> * 16 conflicts with [Shaped] [noname](Palm Stick) <atum:palm_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Eucalyptus Sticks) <natura:sticks:5> * 16 conflicts with [Shaped] [noname](Deadwood Stick) <atum:deadwood_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Eucalyptus Sticks) <natura:sticks:5> * 16 conflicts with [Shaped] [noname](Dusty Bone Stick) <atum:dusty_bone_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Eucalyptus Sticks) <natura:sticks:5> * 16 conflicts with [Shaped] [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Hopseed Sticks) <natura:sticks:6> * 16 conflicts with [Shaped] [noname](Sakura Sticks) <natura:sticks:7> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Hopseed Sticks) <natura:sticks:6> * 16 conflicts with [Shaped] [noname](Redwood Sticks) <natura:sticks:8> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Hopseed Sticks) <natura:sticks:6> * 16 conflicts with [Shaped] [noname](Ghostwood Sticks) <natura:sticks:9> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Hopseed Sticks) <natura:sticks:6> * 16 conflicts with [Shaped] [noname](Darkwood Sticks) <natura:sticks:10> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Hopseed Sticks) <natura:sticks:6> * 16 conflicts with [Shaped] [noname](Fusewood Sticks) <natura:sticks:11> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Hopseed Sticks) <natura:sticks:6> * 16 conflicts with [Shaped] [noname](Bloodwood Sticks) <natura:sticks:12> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Hopseed Sticks) <natura:sticks:6> * 16 conflicts with [Shaped] [noname](Palm Stick) <atum:palm_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Hopseed Sticks) <natura:sticks:6> * 16 conflicts with [Shaped] [noname](Deadwood Stick) <atum:deadwood_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Hopseed Sticks) <natura:sticks:6> * 16 conflicts with [Shaped] [noname](Dusty Bone Stick) <atum:dusty_bone_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Hopseed Sticks) <natura:sticks:6> * 16 conflicts with [Shaped] [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Sakura Sticks) <natura:sticks:7> * 16 conflicts with [Shaped] [noname](Redwood Sticks) <natura:sticks:8> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Sakura Sticks) <natura:sticks:7> * 16 conflicts with [Shaped] [noname](Ghostwood Sticks) <natura:sticks:9> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Sakura Sticks) <natura:sticks:7> * 16 conflicts with [Shaped] [noname](Darkwood Sticks) <natura:sticks:10> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Sakura Sticks) <natura:sticks:7> * 16 conflicts with [Shaped] [noname](Fusewood Sticks) <natura:sticks:11> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Sakura Sticks) <natura:sticks:7> * 16 conflicts with [Shaped] [noname](Bloodwood Sticks) <natura:sticks:12> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Sakura Sticks) <natura:sticks:7> * 16 conflicts with [Shaped] [noname](Palm Stick) <atum:palm_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Sakura Sticks) <natura:sticks:7> * 16 conflicts with [Shaped] [noname](Deadwood Stick) <atum:deadwood_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Sakura Sticks) <natura:sticks:7> * 16 conflicts with [Shaped] [noname](Dusty Bone Stick) <atum:dusty_bone_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Sakura Sticks) <natura:sticks:7> * 16 conflicts with [Shaped] [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Redwood Sticks) <natura:sticks:8> * 16 conflicts with [Shaped] [noname](Ghostwood Sticks) <natura:sticks:9> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Redwood Sticks) <natura:sticks:8> * 16 conflicts with [Shaped] [noname](Darkwood Sticks) <natura:sticks:10> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Redwood Sticks) <natura:sticks:8> * 16 conflicts with [Shaped] [noname](Fusewood Sticks) <natura:sticks:11> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Redwood Sticks) <natura:sticks:8> * 16 conflicts with [Shaped] [noname](Bloodwood Sticks) <natura:sticks:12> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Redwood Sticks) <natura:sticks:8> * 16 conflicts with [Shaped] [noname](Palm Stick) <atum:palm_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Redwood Sticks) <natura:sticks:8> * 16 conflicts with [Shaped] [noname](Deadwood Stick) <atum:deadwood_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Redwood Sticks) <natura:sticks:8> * 16 conflicts with [Shaped] [noname](Dusty Bone Stick) <atum:dusty_bone_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Redwood Sticks) <natura:sticks:8> * 16 conflicts with [Shaped] [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Ghostwood Sticks) <natura:sticks:9> * 16 conflicts with [Shaped] [noname](Darkwood Sticks) <natura:sticks:10> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Ghostwood Sticks) <natura:sticks:9> * 16 conflicts with [Shaped] [noname](Fusewood Sticks) <natura:sticks:11> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Ghostwood Sticks) <natura:sticks:9> * 16 conflicts with [Shaped] [noname](Bloodwood Sticks) <natura:sticks:12> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Ghostwood Sticks) <natura:sticks:9> * 16 conflicts with [Shaped] [noname](Palm Stick) <atum:palm_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Ghostwood Sticks) <natura:sticks:9> * 16 conflicts with [Shaped] [noname](Deadwood Stick) <atum:deadwood_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Ghostwood Sticks) <natura:sticks:9> * 16 conflicts with [Shaped] [noname](Dusty Bone Stick) <atum:dusty_bone_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Ghostwood Sticks) <natura:sticks:9> * 16 conflicts with [Shaped] [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Darkwood Sticks) <natura:sticks:10> * 16 conflicts with [Shaped] [noname](Fusewood Sticks) <natura:sticks:11> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Darkwood Sticks) <natura:sticks:10> * 16 conflicts with [Shaped] [noname](Bloodwood Sticks) <natura:sticks:12> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Darkwood Sticks) <natura:sticks:10> * 16 conflicts with [Shaped] [noname](Palm Stick) <atum:palm_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Darkwood Sticks) <natura:sticks:10> * 16 conflicts with [Shaped] [noname](Deadwood Stick) <atum:deadwood_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Darkwood Sticks) <natura:sticks:10> * 16 conflicts with [Shaped] [noname](Dusty Bone Stick) <atum:dusty_bone_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Darkwood Sticks) <natura:sticks:10> * 16 conflicts with [Shaped] [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Fusewood Sticks) <natura:sticks:11> * 16 conflicts with [Shaped] [noname](Bloodwood Sticks) <natura:sticks:12> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Fusewood Sticks) <natura:sticks:11> * 16 conflicts with [Shaped] [noname](Palm Stick) <atum:palm_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Fusewood Sticks) <natura:sticks:11> * 16 conflicts with [Shaped] [noname](Deadwood Stick) <atum:deadwood_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Fusewood Sticks) <natura:sticks:11> * 16 conflicts with [Shaped] [noname](Dusty Bone Stick) <atum:dusty_bone_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Fusewood Sticks) <natura:sticks:11> * 16 conflicts with [Shaped] [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Bloodwood Sticks) <natura:sticks:12> * 16 conflicts with [Shaped] [noname](Palm Stick) <atum:palm_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Bloodwood Sticks) <natura:sticks:12> * 16 conflicts with [Shaped] [noname](Deadwood Stick) <atum:deadwood_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Bloodwood Sticks) <natura:sticks:12> * 16 conflicts with [Shaped] [noname](Dusty Bone Stick) <atum:dusty_bone_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Bloodwood Sticks) <natura:sticks:12> * 16 conflicts with [Shaped] [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Palm Stick) <atum:palm_stick:0> * 16 conflicts with [Shaped] [noname](Deadwood Stick) <atum:deadwood_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Palm Stick) <atum:palm_stick:0> * 16 conflicts with [Shaped] [noname](Dusty Bone Stick) <atum:dusty_bone_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Palm Stick) <atum:palm_stick:0> * 16 conflicts with [Shaped] [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Deadwood Stick) <atum:deadwood_stick:0> * 16 conflicts with [Shaped] [noname](Dusty Bone Stick) <atum:dusty_bone_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Deadwood Stick) <atum:deadwood_stick:0> * 16 conflicts with [Shaped] [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Dusty Bone Stick) <atum:dusty_bone_stick:0> * 16 conflicts with [Shaped] [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:wooden_sword](Wooden Sword) <minecraft:wooden_sword:0> * 1 conflicts with [Shaped] [natura:tools/nether/bloodwood/bloodwood_sword](Bloodwood Sword) <natura:bloodwood_sword:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:wooden_sword](Wooden Sword) <minecraft:wooden_sword:0> * 1 conflicts with [Shaped] [natura:tools/nether/ghostwood/ghostwood_sword](Ghostwood Sword) <natura:ghostwood_sword:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:wooden_sword](Wooden Sword) <minecraft:wooden_sword:0> * 1 conflicts with [Shaped] [natura:tools/nether/fusewood/fusewood_sword](Fusewood Sword) <natura:fusewood_sword:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:wooden_sword](Wooden Sword) <minecraft:wooden_sword:0> * 1 conflicts with [Shaped] [natura:tools/nether/darkwood/darkwood_sword](Darkwood Sword) <natura:darkwood_sword:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:wooden_shovel](Wooden Shovel) <minecraft:wooden_shovel:0> * 1 conflicts with [Shaped] [natura:tools/nether/bloodwood/bloodwood_shovel](Bloodwood Shovel) <natura:bloodwood_shovel:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:wooden_shovel](Wooden Shovel) <minecraft:wooden_shovel:0> * 1 conflicts with [Shaped] [natura:tools/nether/ghostwood/ghostwood_shovel](Ghostwood Shovel) <natura:ghostwood_shovel:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:wooden_shovel](Wooden Shovel) <minecraft:wooden_shovel:0> * 1 conflicts with [Shaped] [natura:tools/nether/fusewood/fusewood_shovel](Fusewood Shovel) <natura:fusewood_shovel:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:wooden_shovel](Wooden Shovel) <minecraft:wooden_shovel:0> * 1 conflicts with [Shaped] [natura:tools/nether/darkwood/darkwood_shovel](Darkwood Shovel) <natura:darkwood_shovel:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:stone_brick_slab](Stone Bricks Slab) <minecraft:stone_slab:5> * 6 conflicts with [Shaped] [quark:stonebrick_mossy_slab](Mossy Stone Brick Slab) <quark:stonebrick_mossy_slab:0> * 6
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Bronze Shovel) <ic2:bronze_shovel:0> * 1 conflicts with [Shaped] [thermalfoundation:tool.shovel_bronze](Bronze Shovel) <thermalfoundation:tool.shovel_bronze:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Bronze Sword) <ic2:bronze_sword:0> * 1 conflicts with [Shaped] [thermalfoundation:tool.sword_bronze](Bronze Sword) <thermalfoundation:tool.sword_bronze:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [twilightforest:dark_tower/tower_wood_encased](Encased Towerwood) <twilightforest:tower_wood:1> * 3 conflicts with [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [atum:limestone_sword](Limestone Sword) <atum:limestone_sword:0> * 1 conflicts with [Shaped] [minecraft:stone_sword](Stone Sword) <minecraft:stone_sword:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [atum:limestone_shovel](Limestone Shovel) <atum:limestone_shovel:0> * 1 conflicts with [Shaped] [minecraft:stone_shovel](Stone Shovel) <minecraft:stone_shovel:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:rope](Rope) <rustic:rope:0> * 12 conflicts with [Shaped] [stevescarts:component/fuse](Fuse) <stevescarts:modulecomponents:43> * 12
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:vertical_planks](Vertical Oak Wood Planks) <quark:vertical_planks:0> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:planks](Oak Planks) <minecraft:planks:0> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:vertical_planks_1](Vertical Spruce Wood Planks) <quark:vertical_planks:1> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:planks_1](Spruce Planks) <minecraft:planks:1> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:vertical_planks_2](Vertical Birch Wood Planks) <quark:vertical_planks:2> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:planks_2](Birch Planks) <minecraft:planks:2> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:vertical_planks_3](Vertical Jungle Wood Planks) <quark:vertical_planks:3> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:planks_3](Jungle Planks) <minecraft:planks:3> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:vertical_planks_4](Vertical Acacia Wood Planks) <quark:vertical_planks:4> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:planks_4](Acacia Planks) <minecraft:planks:4> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:vertical_planks_5](Vertical Dark Oak Wood Planks) <quark:vertical_planks:5> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:planks_5](Dark Oak Planks) <minecraft:planks:5> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:vertical_stained_planks](Vertical White Stained Planks) <quark:vertical_stained_planks:0> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:stained_planks_16](White Stained Planks) <quark:stained_planks:0> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:vertical_stained_planks_1](Vertical Orange Stained Planks) <quark:vertical_stained_planks:1> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:stained_planks_17](Orange Stained Planks) <quark:stained_planks:1> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:vertical_stained_planks_2](Vertical Magenta Stained Planks) <quark:vertical_stained_planks:2> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:stained_planks_18](Magenta Stained Planks) <quark:stained_planks:2> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:vertical_stained_planks_3](Vertical Light Blue Stained Planks) <quark:vertical_stained_planks:3> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:stained_planks_19](Light Blue Stained Planks) <quark:stained_planks:3> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:vertical_stained_planks_4](Vertical Yellow Stained Planks) <quark:vertical_stained_planks:4> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:stained_planks_20](Yellow Stained Planks) <quark:stained_planks:4> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:vertical_stained_planks_5](Vertical Lime Stained Planks) <quark:vertical_stained_planks:5> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:stained_planks_21](Lime Stained Planks) <quark:stained_planks:5> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:vertical_stained_planks_6](Vertical Pink Stained Planks) <quark:vertical_stained_planks:6> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:stained_planks_22](Pink Stained Planks) <quark:stained_planks:6> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:vertical_stained_planks_7](Vertical Gray Stained Planks) <quark:vertical_stained_planks:7> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:stained_planks_23](Gray Stained Planks) <quark:stained_planks:7> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:vertical_stained_planks_8](Vertical Light Gray Stained Planks) <quark:vertical_stained_planks:8> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:stained_planks_24](Light Gray Stained Planks) <quark:stained_planks:8> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:vertical_stained_planks_9](Vertical Cyan Stained Planks) <quark:vertical_stained_planks:9> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:stained_planks_25](Cyan Stained Planks) <quark:stained_planks:9> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:vertical_stained_planks_10](Vertical Purple Stained Planks) <quark:vertical_stained_planks:10> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:stained_planks_26](Purple Stained Planks) <quark:stained_planks:10> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:vertical_stained_planks_11](Vertical Blue Stained Planks) <quark:vertical_stained_planks:11> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:stained_planks_27](Blue Stained Planks) <quark:stained_planks:11> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:vertical_stained_planks_12](Vertical Brown Stained Planks) <quark:vertical_stained_planks:12> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:stained_planks_28](Brown Stained Planks) <quark:stained_planks:12> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:vertical_stained_planks_13](Vertical Green Stained Planks) <quark:vertical_stained_planks:13> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:stained_planks_29](Green Stained Planks) <quark:stained_planks:13> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:vertical_stained_planks_14](Vertical Red Stained Planks) <quark:vertical_stained_planks:14> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:stained_planks_30](Red Stained Planks) <quark:stained_planks:14> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:vertical_stained_planks_15](Vertical Black Stained Planks) <quark:vertical_stained_planks:15> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [rustic:crop_stake](Wooden Stake) <rustic:crop_stake:0> * 1 conflicts with [Shaped] [quark:stained_planks_31](Black Stained Planks) <quark:stained_planks:15> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:red_nether_brick_slab](Red Nether Brick Slab) <quark:red_nether_brick_slab:0> * 6 conflicts with [Shaped] [netherex:red_nether_brick_slab](Red Nether Brick Slab) <netherex:red_nether_brick_slab:0> * 6
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:stone_speleothem](Stone Speleothem) <quark:stone_speleothem:0> * 6 conflicts with [Shaped] [quark:limestone_speleothem](Limestone Speleothem) <quark:limestone_speleothem:0> * 6
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:crafting_table](Crafting Table) <minecraft:crafting_table:0> * 1 conflicts with [Shaped] [natura:decorative/overworld/workbench/tiger_workbench](Tiger Workbench) <natura:overworld_workbenches:3> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:crafting_table](Crafting Table) <minecraft:crafting_table:0> * 1 conflicts with [Shaped] [natura:decorative/overworld/workbench/amaranth_workbench](Amaranth Workbench) <natura:overworld_workbenches:2> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:crafting_table](Crafting Table) <minecraft:crafting_table:0> * 1 conflicts with [Shaped] [natura:decorative/overworld/workbench/redwood_workbench](Redwood Workbench) <natura:overworld_workbenches:8> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:crafting_table](Crafting Table) <minecraft:crafting_table:0> * 1 conflicts with [Shaped] [natura:decorative/overworld/workbench/eucalyptus_workbench](Eucalyptus Workbench) <natura:overworld_workbenches:5> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:crafting_table](Crafting Table) <minecraft:crafting_table:0> * 1 conflicts with [Shaped] [natura:decorative/overworld/workbench/sakura_workbench](Hopseed Workbench) <natura:overworld_workbenches:6> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:crafting_table](Crafting Table) <minecraft:crafting_table:0> * 1 conflicts with [Shaped] [natura:decorative/overworld/workbench/maple_workbench](Maple Workbench) <natura:overworld_workbenches:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:crafting_table](Crafting Table) <minecraft:crafting_table:0> * 1 conflicts with [Shaped] [natura:decorative/overworld/workbench/silverbell_workbench](Silverbell Workbench) <natura:overworld_workbenches:1> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:crafting_table](Crafting Table) <minecraft:crafting_table:0> * 1 conflicts with [Shaped] [natura:decorative/overworld/workbench/willow_workbench](Willow Workbench) <natura:overworld_workbenches:4> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:crafting_table](Crafting Table) <minecraft:crafting_table:0> * 1 conflicts with [Shaped] [natura:decorative/overworld/workbench/hopseed_workbench](Sakura Workbench) <natura:overworld_workbenches:7> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:crafting_table](Crafting Table) <minecraft:crafting_table:0> * 1 conflicts with [Shaped] [natura:decorative/nether/workbench/darkwood_workbench](Darkwood Workbench) <natura:nether_workbenches:2> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:crafting_table](Crafting Table) <minecraft:crafting_table:0> * 1 conflicts with [Shaped] [natura:decorative/nether/workbench/ghostwood_workbench](Ghostwood Workbench) <natura:nether_workbenches:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:crafting_table](Crafting Table) <minecraft:crafting_table:0> * 1 conflicts with [Shaped] [natura:decorative/nether/workbench/fusewood_workbench](Fusewood Workbench) <natura:nether_workbenches:3> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:crafting_table](Crafting Table) <minecraft:crafting_table:0> * 1 conflicts with [Shaped] [natura:decorative/nether/workbench/bloodwood_workbench](Bloodwood Workbench) <natura:nether_workbenches:1> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tconstruct:common/slime/pink/congealed](Congealed Slime Block) <tconstruct:slime_congealed:5> * 1 conflicts with [Shaped] [tconstruct:common/slime/purple/congealed](Congealed Slime Block) <tconstruct:slime_congealed:2> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tconstruct:common/slime/pink/congealed](Congealed Slime Block) <tconstruct:slime_congealed:5> * 1 conflicts with [Shaped] [tconstruct:common/slime/blood/congealed](Congealed Bloodblock) <tconstruct:slime_congealed:3> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tconstruct:common/slime/pink/congealed](Congealed Slime Block) <tconstruct:slime_congealed:5> * 1 conflicts with [Shaped] [tconstruct:common/slime/blue/congealed](Congealed Slime Block) <tconstruct:slime_congealed:1> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tconstruct:common/slime/pink/congealed](Congealed Slime Block) <tconstruct:slime_congealed:5> * 1 conflicts with [Shaped] [tconstruct:common/slime/green/congealed](Congealed Slime Block) <tconstruct:slime_congealed:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tconstruct:common/slime/pink/congealed](Congealed Slime Block) <tconstruct:slime_congealed:5> * 1 conflicts with [Shaped] [tconstruct:common/slime/magma/congealed](Congealed Slime Block) <tconstruct:slime_congealed:4> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:basalt_1](Polished Basalt) <quark:basalt:1> * 4 conflicts with [Shaped] [netherex:smooth_basalt](Smooth Basalt) <netherex:smooth_basalt:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:basalt_1](Polished Basalt) <quark:basalt:1> * 4 conflicts with [Shaped] [netherex:basalt_brick](Basalt Bricks) <netherex:basalt_brick:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:basalt_1](Polished Basalt) <quark:basalt:1> * 4 conflicts with [Shaped] [netherex:basalt_pillar](Basalt Pillar) <netherex:basalt_pillar:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [thermalfoundation:tool.shears_steel](Steel Shears) <thermalfoundation:tool.shears_steel:0> * 1 conflicts with [Shaped] [railcraft:tool_shears_steel$1](Steel Shears) <railcraft:tool_shears_steel:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:wooden_hoe](Wooden Hoe) <minecraft:wooden_hoe:0> * 1 conflicts with [Shaped] [natura:tools/nether/bloodwood/bloodwood_kama](Bloodwood Kama) <natura:bloodwood_kama:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:wooden_hoe](Wooden Hoe) <minecraft:wooden_hoe:0> * 1 conflicts with [Shaped] [natura:tools/nether/ghostwood/ghostwood_kama](Ghostwood Kama) <natura:ghostwood_kama:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:wooden_hoe](Wooden Hoe) <minecraft:wooden_hoe:0> * 1 conflicts with [Shaped] [natura:tools/nether/fusewood/fusewood_kama](Fusewood Kama) <natura:fusewood_kama:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:wooden_hoe](Wooden Hoe) <minecraft:wooden_hoe:0> * 1 conflicts with [Shaped] [natura:tools/nether/darkwood/darkwood_kama](Darkwood Kama) <natura:darkwood_kama:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:wooden_axe](Wooden Axe) <minecraft:wooden_axe:0> * 1 conflicts with [Shaped] [natura:tools/nether/bloodwood/bloodwood_axe](Bloodwood Hatchet) <natura:bloodwood_axe:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:wooden_axe](Wooden Axe) <minecraft:wooden_axe:0> * 1 conflicts with [Shaped] [natura:tools/nether/ghostwood/ghostwood_axe](Ghostwood Hatchet) <natura:ghostwood_axe:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:wooden_axe](Wooden Axe) <minecraft:wooden_axe:0> * 1 conflicts with [Shaped] [natura:tools/nether/fusewood/fusewood_axe](Fusewood Hatchet) <natura:fusewood_axe:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:wooden_axe](Wooden Axe) <minecraft:wooden_axe:0> * 1 conflicts with [Shaped] [natura:tools/nether/darkwood/darkwood_axe](Darkwood Hatchet) <natura:darkwood_axe:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:white_stained_glass_pane](White Stained Glass Pane) <minecraft:stained_glass_pane:0> * 16 conflicts with [Shaped] [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:spruce_boat](Spruce Boat) <minecraft:spruce_boat:0> * 1 conflicts with [Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:jungle_boat](Jungle Boat) <minecraft:jungle_boat:0> * 1 conflicts with [Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:dark_oak_boat](Dark Oak Boat) <minecraft:dark_oak_boat:0> * 1 conflicts with [Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:bowl](Bowl) <minecraft:bowl:0> * 4 conflicts with [Shaped] [natura:nether/bowls/darkwood_bowl](Empty Darkwood Bowl) <natura:empty_bowls:2> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:bowl](Bowl) <minecraft:bowl:0> * 4 conflicts with [Shaped] [natura:nether/bowls/ghostwood_bowl](Empty Ghostwood Bowl) <natura:empty_bowls:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:bowl](Bowl) <minecraft:bowl:0> * 4 conflicts with [Shaped] [natura:nether/bowls/bloodwood_bowl](Empty Bloodwood Bowl) <natura:empty_bowls:1> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:bowl](Bowl) <minecraft:bowl:0> * 4 conflicts with [Shaped] [natura:nether/bowls/fusewood_bowl](Empty Fusewood Bowl) <natura:empty_bowls:3> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:birch_boat](Birch Boat) <minecraft:birch_boat:0> * 1 conflicts with [Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:acacia_boat](Acacia Boat) <minecraft:acacia_boat:0> * 1 conflicts with [Shaped] [traverse:fir_boat](Oak Boat) <minecraft:boat:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Crop) <ic2:crop_stick:0> * 2 conflicts with [Shaped] [enderio:gear_just_to_be_sure](Wooden Gear) <thermalfoundation:material:22> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Crop) <ic2:crop_stick:0> * 2 conflicts with [Shaped] [noname](Wooden Gear) <appliedenergistics2:material:40> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Crop) <ic2:crop_stick:0> * 2 conflicts with [Shaped] [noname](Wooden Gear) <enderio:item_material:9> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Bronze Boots) <ic2:bronze_boots:0> * 1 conflicts with [Shaped] [thermalfoundation:armor.boots_bronze](Bronze Boots) <thermalfoundation:armor.boots_bronze:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Bronze Helmet) <ic2:bronze_helmet:0> * 1 conflicts with [Shaped] [thermalfoundation:armor.helmet_bronze](Bronze Helmet) <thermalfoundation:armor.helmet_bronze:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [atum:limestone_hoe](Limestone Hoe) <atum:limestone_hoe:0> * 1 conflicts with [Shaped] [minecraft:stone_hoe](Stone Hoe) <minecraft:stone_hoe:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [atum:limestone_axe](Limestone Axe) <atum:limestone_axe:0> * 1 conflicts with [Shaped] [minecraft:stone_axe](Stone Axe) <minecraft:stone_axe:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [atum:limestone_wall](Smooth Limestone Wall) <atum:limestone_wall:0> * 6 conflicts with [Shaped] [quark:limestone_wall](Limestone Wall) <quark:limestone_wall:0> * 6
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tconstruct:gadgets/slimeboots/green](Slime Boots) <tconstruct:slime_boots:0> * 1 conflicts with [Shaped] [tconstruct:gadgets/slimeboots/fallback](Slime Boots) <tconstruct:slime_boots:5> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tconstruct:gadgets/slimeboots/blood](Congealed Blood Boots) <tconstruct:slime_boots:3> * 1 conflicts with [Shaped] [tconstruct:gadgets/slimeboots/fallback](Slime Boots) <tconstruct:slime_boots:5> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tconstruct:gadgets/slimeboots/purple](Slime Boots) <tconstruct:slime_boots:2> * 1 conflicts with [Shaped] [tconstruct:gadgets/slimeboots/fallback](Slime Boots) <tconstruct:slime_boots:5> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tconstruct:gadgets/slimeboots/fallback](Slime Boots) <tconstruct:slime_boots:5> * 1 conflicts with [Shaped] [tconstruct:gadgets/slimeboots/blue](Slime Boots) <tconstruct:slime_boots:1> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tconstruct:gadgets/slimeboots/fallback](Slime Boots) <tconstruct:slime_boots:5> * 1 conflicts with [Shaped] [tconstruct:gadgets/slimeboots/magma](Slime Boots) <tconstruct:slime_boots:4> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [mcwtrpdoors:spruce_cottage_trapdoor](Spruce Cottage Trapdoor) <mcwtrpdoors:spruce_cottage_trapdoor:0> * 2 conflicts with [Shaped] [quark:spruce_trapdoor](Spruce Trapdoor) <quark:spruce_trapdoor:0> * 6
+[SERVER_STARTED][SERVER][INFO] [Shaped] [mcwtrpdoors:spruce_cottage_trapdoor](Spruce Cottage Trapdoor) <mcwtrpdoors:spruce_cottage_trapdoor:0> * 2 conflicts with [Shaped] [futuremc:spruce_wooden_trapdoor](Spruce Trapdoor) <futuremc:spruce_trapdoor:0> * 2
+[SERVER_STARTED][SERVER][INFO] [Shaped] [mcwtrpdoors:jungle_beach_trapdoor](Jungle Beach Trapdoor) <mcwtrpdoors:jungle_beach_trapdoor:0> * 2 conflicts with [Shaped] [quark:jungle_trapdoor](Jungle Trapdoor) <quark:jungle_trapdoor:0> * 6
+[SERVER_STARTED][SERVER][INFO] [Shaped] [mcwtrpdoors:jungle_beach_trapdoor](Jungle Beach Trapdoor) <mcwtrpdoors:jungle_beach_trapdoor:0> * 2 conflicts with [Shaped] [futuremc:jungle_wooden_trapdoor](Jungle Trapdoor) <futuremc:jungle_trapdoor:0> * 2
+[SERVER_STARTED][SERVER][INFO] [Shaped] [mcwtrpdoors:dark_oak_four_panel_trapdoor](Dark Oak Four Panel Trapdoor) <mcwtrpdoors:dark_oak_four_panel_trapdoor:0> * 2 conflicts with [Shaped] [quark:dark_oak_trapdoor](Dark Oak Trapdoor) <quark:dark_oak_trapdoor:0> * 6
+[SERVER_STARTED][SERVER][INFO] [Shaped] [mcwtrpdoors:dark_oak_four_panel_trapdoor](Dark Oak Four Panel Trapdoor) <mcwtrpdoors:dark_oak_four_panel_trapdoor:0> * 2 conflicts with [Shaped] [futuremc:dark_oak_wooden_trapdoor](Dark Oak Trapdoor) <futuremc:dark_oak_trapdoor:0> * 2
+[SERVER_STARTED][SERVER][INFO] [Shaped] [mcwtrpdoors:birch_paper_trapdoor](Birch Paper Trapdoor) <mcwtrpdoors:birch_paper_trapdoor:0> * 2 conflicts with [Shaped] [quark:birch_trapdoor](Birch Trapdoor) <quark:birch_trapdoor:0> * 6
+[SERVER_STARTED][SERVER][INFO] [Shaped] [mcwtrpdoors:birch_paper_trapdoor](Birch Paper Trapdoor) <mcwtrpdoors:birch_paper_trapdoor:0> * 2 conflicts with [Shaped] [futuremc:birch_wooden_trapdoor](Birch Trapdoor) <futuremc:birch_trapdoor:0> * 2
+[SERVER_STARTED][SERVER][INFO] [Shaped] [mcwtrpdoors:acacia_tropical_trapdoor](Acacia Tropical Trapdoor) <mcwtrpdoors:acacia_tropical_trapdoor:0> * 2 conflicts with [Shaped] [quark:acacia_trapdoor](Acacia Trapdoor) <quark:acacia_trapdoor:0> * 6
+[SERVER_STARTED][SERVER][INFO] [Shaped] [mcwtrpdoors:acacia_tropical_trapdoor](Acacia Tropical Trapdoor) <mcwtrpdoors:acacia_tropical_trapdoor:0> * 2 conflicts with [Shaped] [futuremc:acacia_wooden_trapdoor](Acacia Trapdoor) <futuremc:acacia_trapdoor:0> * 2
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tcomplement:stone_bucket](Stone Bucket) <tcomplement:materials:0> * 1 conflicts with [Shaped] [wrcbe:material/stone_bowl](Stone Bowl) <wrcbe:material:1> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tcomplement:armor/steel_helmet](Steel Helmet) <tcomplement:steel_helmet:0> * 1 conflicts with [Shaped] [thermalfoundation:armor.helmet_steel](Steel Helmet) <thermalfoundation:armor.helmet_steel:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tcomplement:armor/steel_helmet](Steel Helmet) <tcomplement:steel_helmet:0> * 1 conflicts with [Shaped] [railcraft:armor_helmet_steel$1](Steel Helmet) <railcraft:armor_helmet_steel:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tcomplement:armor/steel_boots](Steel Boots) <tcomplement:steel_boots:0> * 1 conflicts with [Shaped] [thermalfoundation:armor.boots_steel](Steel Boots) <thermalfoundation:armor.boots_steel:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tcomplement:armor/steel_boots](Steel Boots) <tcomplement:steel_boots:0> * 1 conflicts with [Shaped] [railcraft:armor_boots_steel$1](Steel Boots) <railcraft:armor_boots_steel:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:quartz_wall](Quartz Wall) <quark:quartz_wall:0> * 6 conflicts with [Shaped] [netherex:quartz_wall](Quartz Wall) <netherex:quartz_wall:0> * 6
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:spruce_trapdoor](Spruce Trapdoor) <quark:spruce_trapdoor:0> * 6 conflicts with [Shaped] [futuremc:spruce_wooden_trapdoor](Spruce Trapdoor) <futuremc:spruce_trapdoor:0> * 2
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:birch_trapdoor](Birch Trapdoor) <quark:birch_trapdoor:0> * 6 conflicts with [Shaped] [futuremc:birch_wooden_trapdoor](Birch Trapdoor) <futuremc:birch_trapdoor:0> * 2
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:jungle_trapdoor](Jungle Trapdoor) <quark:jungle_trapdoor:0> * 6 conflicts with [Shaped] [futuremc:jungle_wooden_trapdoor](Jungle Trapdoor) <futuremc:jungle_trapdoor:0> * 2
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:acacia_trapdoor](Acacia Trapdoor) <quark:acacia_trapdoor:0> * 6 conflicts with [Shaped] [futuremc:acacia_wooden_trapdoor](Acacia Trapdoor) <futuremc:acacia_trapdoor:0> * 2
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:dark_oak_trapdoor](Dark Oak Trapdoor) <quark:dark_oak_trapdoor:0> * 6 conflicts with [Shaped] [futuremc:dark_oak_wooden_trapdoor](Dark Oak Trapdoor) <futuremc:dark_oak_trapdoor:0> * 2
+[SERVER_STARTED][SERVER][INFO] [Shaped] [chisel:glass/terrain-glassbubble](Glass Pane) <chisel:glasspane:0> * 16 conflicts with [Shaped] [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [chisel:glass/chinese](Glass Pane) <chisel:glasspane:1> * 16 conflicts with [Shaped] [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [chisel:glass/japanese](Glass Pane) <chisel:glasspane:2> * 16 conflicts with [Shaped] [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [chisel:glass/terrain-glassdungeon](Glass Pane) <chisel:glasspane:3> * 16 conflicts with [Shaped] [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [chisel:glass/terrain-glasslight](Glass Pane) <chisel:glasspane:4> * 16 conflicts with [Shaped] [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [chisel:glass/terrain-glassnoborder](Glass Pane) <chisel:glasspane:5> * 16 conflicts with [Shaped] [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [chisel:glass/terrain-glass-ornatesteel](Glass Pane) <chisel:glasspane:6> * 16 conflicts with [Shaped] [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [chisel:glass/terrain-glass-screen](Glass Pane) <chisel:glasspane:7> * 16 conflicts with [Shaped] [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [chisel:glass/terrain-glassshale](Glass Pane) <chisel:glasspane:8> * 16 conflicts with [Shaped] [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [chisel:glass/terrain-glass-steelframe](Glass Pane) <chisel:glasspane:9> * 16 conflicts with [Shaped] [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [chisel:glass/terrain-glassstone](Glass Pane) <chisel:glasspane:10> * 16 conflicts with [Shaped] [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [chisel:glass/terrain-glassstreak](Glass Pane) <chisel:glasspane:11> * 16 conflicts with [Shaped] [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [chisel:glass/terrain-glass-thickgrid](Glass Pane) <chisel:glasspane:12> * 16 conflicts with [Shaped] [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [chisel:glass/terrain-glass-thingrid](Glass Pane) <chisel:glasspane:13> * 16 conflicts with [Shaped] [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [chisel:glass/a1-glasswindow-ironfencemodern](Glass Pane) <chisel:glasspane:14> * 16 conflicts with [Shaped] [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [chisel:glass/chrono](Glass Pane) <chisel:glasspane:15> * 16 conflicts with [Shaped] [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [chisel:glass/chinese2](Glass Pane) <chisel:glasspane1:0> * 16 conflicts with [Shaped] [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [chisel:glass/japanese2](Glass Pane) <chisel:glasspane1:1> * 16 conflicts with [Shaped] [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[SERVER_STARTED][SERVER][INFO] [Shaped] [thermalfoundation:armor.helmet_steel](Steel Helmet) <thermalfoundation:armor.helmet_steel:0> * 1 conflicts with [Shaped] [railcraft:armor_helmet_steel$1](Steel Helmet) <railcraft:armor_helmet_steel:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [thermalfoundation:armor.boots_steel](Steel Boots) <thermalfoundation:armor.boots_steel:0> * 1 conflicts with [Shaped] [railcraft:armor_boots_steel$1](Steel Boots) <railcraft:armor_boots_steel:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shapeless] [enderio:self_resetting_lever_300_seconds](Self-resetting Lever (5 Minutes)) <enderio:block_self_resetting_lever300:0> * 1 conflicts with [Shapeless] [enderio:self_resetting_lever_300_seconds_inverted](Inverted Self-resetting Lever (5 Minutes)) <enderio:block_self_resetting_lever300i:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:gear_just_to_be_sure](Wooden Gear) <thermalfoundation:material:22> * 1 conflicts with [Shaped] [noname](Wooden Gear) <appliedenergistics2:material:40> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:gear_just_to_be_sure](Wooden Gear) <thermalfoundation:material:22> * 1 conflicts with [Shaped] [noname](Wooden Gear) <enderio:item_material:9> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:gear_better_save_than_sorry](Wooden Gear) <thermalfoundation:material:22> * 1 conflicts with [Shaped] [noname](Wooden Gear) <appliedenergistics2:material:40> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:gear_better_save_than_sorry](Wooden Gear) <thermalfoundation:material:22> * 1 conflicts with [Shaped] [noname](Wooden Gear) <enderio:item_material:9> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Wooden Gear) <appliedenergistics2:material:40> * 1 conflicts with [Shaped] [noname](Wooden Gear) <enderio:item_material:9> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Wooden Gear) <appliedenergistics2:material:40> * 1 conflicts with [Shaped] [noname](Wooden Gear) <enderio:item_material:9> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:wooden_pickaxe](Wooden Pickaxe) <minecraft:wooden_pickaxe:0> * 1 conflicts with [Shaped] [natura:tools/nether/bloodwood/bloodwood_pickaxe](Bloodwood Pickaxe) <natura:bloodwood_pickaxe:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:wooden_pickaxe](Wooden Pickaxe) <minecraft:wooden_pickaxe:0> * 1 conflicts with [Shaped] [natura:tools/nether/ghostwood/ghostwood_pickaxe](Ghostwood Pickaxe) <natura:ghostwood_pickaxe:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:wooden_pickaxe](Wooden Pickaxe) <minecraft:wooden_pickaxe:0> * 1 conflicts with [Shaped] [natura:tools/nether/fusewood/fusewood_pickaxe](Fusewood Pickaxe) <natura:fusewood_pickaxe:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:wooden_pickaxe](Wooden Pickaxe) <minecraft:wooden_pickaxe:0> * 1 conflicts with [Shaped] [natura:tools/nether/darkwood/darkwood_pickaxe](Darkwood Pickaxe) <natura:darkwood_pickaxe:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:stone_brick_stairs](Stone Brick Stairs) <minecraft:stone_brick_stairs:0> * 8 conflicts with [Shaped] [quark:stonebrick_mossy_stairs](Mossy Stone Brick Stairs) <quark:stonebrick_mossy_stairs:0> * 8
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:slime](Green Slime Block) <minecraft:slime:0> * 1 conflicts with [Shaped] [tconstruct:common/slime/pink/slimeblock](Slime Block) <tconstruct:slime:5> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:slime](Green Slime Block) <minecraft:slime:0> * 1 conflicts with [Shaped] [tconstruct:common/slime/purple/slimeblock](Slime Block) <tconstruct:slime:2> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:slime](Green Slime Block) <minecraft:slime:0> * 1 conflicts with [Shaped] [tconstruct:common/slime/blood/slimeblock](Blood Slime Block) <tconstruct:slime:3> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:slime](Green Slime Block) <minecraft:slime:0> * 1 conflicts with [Shaped] [tconstruct:common/slime/blue/slimeblock](Slime Block) <tconstruct:slime:1> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [minecraft:slime](Green Slime Block) <minecraft:slime:0> * 1 conflicts with [Shaped] [tconstruct:common/slime/magma/slimeblock](Slime Block) <tconstruct:slime:4> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Bronze Chestplate) <ic2:bronze_chestplate:0> * 1 conflicts with [Shaped] [thermalfoundation:armor.plate_bronze](Bronze Chestplate) <thermalfoundation:armor.plate_bronze:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Bronze Leggings) <ic2:bronze_leggings:0> * 1 conflicts with [Shaped] [thermalfoundation:armor.legs_bronze](Bronze Leggings) <thermalfoundation:armor.legs_bronze:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Bronze Pickaxe) <ic2:bronze_pickaxe:0> * 1 conflicts with [Shaped] [thermalfoundation:tool.pickaxe_bronze](Bronze Pickaxe) <thermalfoundation:tool.pickaxe_bronze:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [appliedenergistics2:misc/grindstone_woodengear](Wooden Gear) <appliedenergistics2:material:40> * 1 conflicts with [Shaped] [thermalfoundation:material_59](Wooden Gear) <thermalfoundation:material:22> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [appliedenergistics2:misc/grindstone_woodengear](Wooden Gear) <appliedenergistics2:material:40> * 1 conflicts with [Shaped] [enderio:gear_wood](Wooden Gear) <thermalfoundation:material:22> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [appliedenergistics2:misc/grindstone_woodengear](Wooden Gear) <appliedenergistics2:material:40> * 1 conflicts with [Shaped] [noname](Wooden Gear) <enderio:item_material:9> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [computercraft:wired_modem](Wired Modem) <computercraft:cable:1> * 1 conflicts with [Shaped] [chisel:futura](Futura Block) <chisel:futura:0> * 8
+[SERVER_STARTED][SERVER][INFO] [Shaped] [mekanism:basicblock_3](Charcoal Block) <mekanism:basicblock:3> * 1 conflicts with [Shaped] [tcomplement:steelworks/charcoal_block](Block of Charcoal) <tcomplement:storage:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [mekanism:basicblock_3](Charcoal Block) <mekanism:basicblock:3> * 1 conflicts with [Shaped] [chisel:charcoal](Block of Charcoal) <chisel:block_charcoal2:1> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [mekanism:basicblock_3](Charcoal Block) <mekanism:basicblock:3> * 1 conflicts with [Shaped] [thermalfoundation:storage_resource](Block of Charcoal) <thermalfoundation:storage_resource:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [aether_legacy:iron_ring](Iron Ring) <aether_legacy:iron_ring:0> * 1 conflicts with [Shaped] [unidict:geariron_x1_shape. a a a a ](Iron Gear) <thermalfoundation:material:24> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [aether_legacy:gold_ring](Golden Ring) <aether_legacy:golden_ring:0> * 1 conflicts with [Shaped] [unidict:geargold_x1_shape. a a a a ](Gold Gear) <thermalfoundation:material:25> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [natura:decorative/nether/bookshelf/darkwood_bookshelf](Darkwood Bookshelf) <natura:nether_bookshelves:2> * 1 conflicts with [Shaped] [quark:bookshelf](Oak Bookshelf) <minecraft:bookshelf:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [natura:decorative/nether/bookshelf/bloodwood_bookshelf](Bloodwood Bookshelf) <natura:nether_bookshelves:1> * 1 conflicts with [Shaped] [quark:bookshelf](Oak Bookshelf) <minecraft:bookshelf:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [natura:decorative/nether/bookshelf/ghostwood_bookshelf](Ghostwood Bookshelf) <natura:nether_bookshelves:0> * 1 conflicts with [Shaped] [quark:bookshelf](Oak Bookshelf) <minecraft:bookshelf:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [natura:decorative/nether/bookshelf/fusewood_bookshelf](Fusewood Bookshelf) <natura:nether_bookshelves:3> * 1 conflicts with [Shaped] [quark:bookshelf](Oak Bookshelf) <minecraft:bookshelf:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [natura:common/potatos_bag](Potato Bag) <natura:seed_bags:2> * 1 conflicts with [Shaped] [rats:assorted_vegetables](Assorted Vegetables) <rats:assorted_vegetables:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [natura:common/carrots_bag](Carrot Bag) <natura:seed_bags:1> * 1 conflicts with [Shaped] [rats:assorted_vegetables](Assorted Vegetables) <rats:assorted_vegetables:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [natura:nether/respawn_obelisk](Inactive Respawn Obelisk) <natura:respawn_obelisk:0> * 1 conflicts with [Shaped] [enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [natura:nether/respawn_obelisk](Inactive Respawn Obelisk) <natura:respawn_obelisk:0> * 1 conflicts with [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [natura:nether/respawn_obelisk](Inactive Respawn Obelisk) <natura:respawn_obelisk:0> * 1 conflicts with [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [natura:nether/respawn_obelisk](Inactive Respawn Obelisk) <natura:respawn_obelisk:0> * 1 conflicts with [Shaped] [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [natura:nether/respawn_obelisk](Inactive Respawn Obelisk) <natura:respawn_obelisk:0> * 1 conflicts with [Shaped] [noname](Palm Crate) <atum:palm_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [natura:nether/respawn_obelisk](Inactive Respawn Obelisk) <natura:respawn_obelisk:0> * 1 conflicts with [Shaped] [noname](Deadwood Crate) <atum:deadwood_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [natura:nether/respawn_obelisk](Inactive Respawn Obelisk) <natura:respawn_obelisk:0> * 1 conflicts with [Shaped] [noname](Spruce Chest) <quark:custom_chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [natura:nether/respawn_obelisk](Inactive Respawn Obelisk) <natura:respawn_obelisk:0> * 1 conflicts with [Shaped] [noname](Birch Chest) <quark:custom_chest:1> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [natura:nether/respawn_obelisk](Inactive Respawn Obelisk) <natura:respawn_obelisk:0> * 1 conflicts with [Shaped] [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [natura:nether/respawn_obelisk](Inactive Respawn Obelisk) <natura:respawn_obelisk:0> * 1 conflicts with [Shaped] [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [natura:nether/respawn_obelisk](Inactive Respawn Obelisk) <natura:respawn_obelisk:0> * 1 conflicts with [Shaped] [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [astikorcarts:wheel](Wheel) <astikorcarts:wheel:0> * 1 conflicts with [Shaped] [stevescarts:component/wooden_wheels](Wooden Wheels) <stevescarts:modulecomponents:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [atum:palm_ladder](Palm Ladder) <atum:palm_ladder:0> * 3 conflicts with [Shaped] [minecraft:ladder](Ladder) <minecraft:ladder:0> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [atum:deadwood_crate](Deadwood Crate) <atum:deadwood_crate:0> * 1 conflicts with [Shaped] [quark:chest_1](Oak Chest) <minecraft:chest:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [atum:palm_crate](Palm Crate) <atum:palm_crate:0> * 1 conflicts with [Shaped] [quark:chest_1](Oak Chest) <minecraft:chest:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [atum:bone_ladder](Bone Ladder) <atum:bone_ladder:0> * 3 conflicts with [Shaped] [minecraft:ladder](Ladder) <minecraft:ladder:0> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [atum:deadwood_ladder](Deadwood Ladder) <atum:deadwood_ladder:0> * 3 conflicts with [Shaped] [minecraft:ladder](Ladder) <minecraft:ladder:0> * 3
+[SERVER_STARTED][SERVER][INFO] [Shaped] [atum:limestone_furnace](Limestone Furnace) <atum:limestone_furnace:0> * 1 conflicts with [Shaped] [minecraft:furnace](Furnace) <minecraft:furnace:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [atum:limestone_pickaxe](Limestone Pickaxe) <atum:limestone_pickaxe:0> * 1 conflicts with [Shaped] [minecraft:stone_pickaxe](Stone Pickaxe) <minecraft:stone_pickaxe:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [atum:smooth_stairs](Limestone Stairs) <atum:smooth_stairs:0> * 8 conflicts with [Shaped] [quark:stone_limestone_stairs](Limestone Stairs) <quark:stone_limestone_stairs:0> * 8
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tconstruct:gadgets/slimesling/green](Slimesling) <tconstruct:slimesling:0> * 1 conflicts with [Shaped] [tconstruct:gadgets/slimesling/fallback](Slimesling) <tconstruct:slimesling:5> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tconstruct:gadgets/slimesling/blood](Congealed Bloodsling) <tconstruct:slimesling:3> * 1 conflicts with [Shaped] [tconstruct:gadgets/slimesling/fallback](Slimesling) <tconstruct:slimesling:5> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tconstruct:gadgets/slimesling/purple](Slimesling) <tconstruct:slimesling:2> * 1 conflicts with [Shaped] [tconstruct:gadgets/slimesling/fallback](Slimesling) <tconstruct:slimesling:5> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tconstruct:gadgets/slimesling/fallback](Slimesling) <tconstruct:slimesling:5> * 1 conflicts with [Shaped] [tconstruct:gadgets/slimesling/blue](Slimesling) <tconstruct:slimesling:1> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tconstruct:gadgets/slimesling/fallback](Slimesling) <tconstruct:slimesling:5> * 1 conflicts with [Shaped] [tconstruct:gadgets/slimesling/magma](Slimesling) <tconstruct:slimesling:4> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [immersiveengineering:stone_decoration/cokeblock](Block of Coal Coke) <immersiveengineering:stone_decoration:3> * 1 conflicts with [Shaped] [thermalfoundation:storage_resource_1](Block of Coal Coke) <thermalfoundation:storage_resource:1> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tcomplement:steelworks/charcoal_block](Block of Charcoal) <tcomplement:storage:0> * 1 conflicts with [Shaped] [chisel:charcoal](Block of Charcoal) <chisel:block_charcoal2:1> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tcomplement:steelworks/charcoal_block](Block of Charcoal) <tcomplement:storage:0> * 1 conflicts with [Shaped] [thermalfoundation:storage_resource](Block of Charcoal) <thermalfoundation:storage_resource:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tcomplement:armor/steel_leggings](Steel Leggings) <tcomplement:steel_leggings:0> * 1 conflicts with [Shaped] [thermalfoundation:armor.legs_steel](Steel Leggings) <thermalfoundation:armor.legs_steel:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tcomplement:armor/steel_leggings](Steel Leggings) <tcomplement:steel_leggings:0> * 1 conflicts with [Shaped] [railcraft:armor_leggings_steel$1](Steel Leggings) <railcraft:armor_leggings_steel:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tcomplement:armor/steel_chestplate](Steel Chestplate) <tcomplement:steel_chestplate:0> * 1 conflicts with [Shaped] [thermalfoundation:armor.plate_steel](Steel Chestplate) <thermalfoundation:armor.plate_steel:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [tcomplement:armor/steel_chestplate](Steel Chestplate) <tcomplement:steel_chestplate:0> * 1 conflicts with [Shaped] [railcraft:armor_chestplate_steel$1](Steel Chestplate) <railcraft:armor_chestplate_steel:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:stained_planks](White Stained Planks) <quark:stained_planks:0> * 8 conflicts with [Shaped] [rustic:painted_wood_white](White Painted Wood) <rustic:painted_wood_white:0> * 8
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:stained_planks_1](Orange Stained Planks) <quark:stained_planks:1> * 8 conflicts with [Shaped] [rustic:painted_wood_orange](Orange Painted Wood) <rustic:painted_wood_orange:0> * 8
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:stained_planks_2](Magenta Stained Planks) <quark:stained_planks:2> * 8 conflicts with [Shaped] [rustic:painted_wood_magenta](Magenta Painted Wood) <rustic:painted_wood_magenta:0> * 8
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:stained_planks_3](Light Blue Stained Planks) <quark:stained_planks:3> * 8 conflicts with [Shaped] [rustic:painted_wood_light_blue](Light Blue Painted Wood) <rustic:painted_wood_light_blue:0> * 8
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:stained_planks_4](Yellow Stained Planks) <quark:stained_planks:4> * 8 conflicts with [Shaped] [rustic:painted_wood_yellow](Yellow Painted Wood) <rustic:painted_wood_yellow:0> * 8
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:stained_planks_5](Lime Stained Planks) <quark:stained_planks:5> * 8 conflicts with [Shaped] [rustic:painted_wood_lime](Lime Painted Wood) <rustic:painted_wood_lime:0> * 8
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:stained_planks_6](Pink Stained Planks) <quark:stained_planks:6> * 8 conflicts with [Shaped] [rustic:painted_wood_pink](Pink Painted Wood) <rustic:painted_wood_pink:0> * 8
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:stained_planks_7](Gray Stained Planks) <quark:stained_planks:7> * 8 conflicts with [Shaped] [rustic:painted_wood_gray](Gray Painted Wood) <rustic:painted_wood_gray:0> * 8
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:stained_planks_8](Light Gray Stained Planks) <quark:stained_planks:8> * 8 conflicts with [Shaped] [rustic:painted_wood_silver](Light Gray Painted Wood) <rustic:painted_wood_silver:0> * 8
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:stained_planks_9](Cyan Stained Planks) <quark:stained_planks:9> * 8 conflicts with [Shaped] [rustic:painted_wood_cyan](Cyan Painted Wood) <rustic:painted_wood_cyan:0> * 8
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:stained_planks_10](Purple Stained Planks) <quark:stained_planks:10> * 8 conflicts with [Shaped] [rustic:painted_wood_purple](Purple Painted Wood) <rustic:painted_wood_purple:0> * 8
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:stained_planks_11](Blue Stained Planks) <quark:stained_planks:11> * 8 conflicts with [Shaped] [rustic:painted_wood_blue](Blue Painted Wood) <rustic:painted_wood_blue:0> * 8
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:stained_planks_12](Brown Stained Planks) <quark:stained_planks:12> * 8 conflicts with [Shaped] [rustic:painted_wood_brown](Brown Painted Wood) <rustic:painted_wood_brown:0> * 8
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:stained_planks_13](Green Stained Planks) <quark:stained_planks:13> * 8 conflicts with [Shaped] [rustic:painted_wood_green](Green Painted Wood) <rustic:painted_wood_green:0> * 8
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:stained_planks_14](Red Stained Planks) <quark:stained_planks:14> * 8 conflicts with [Shaped] [rustic:painted_wood_red](Red Painted Wood) <rustic:painted_wood_red:0> * 8
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:stained_planks_15](Black Stained Planks) <quark:stained_planks:15> * 8 conflicts with [Shaped] [rustic:painted_wood_black](Black Painted Wood) <rustic:painted_wood_black:0> * 8
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:red_nether_brick_stairs](Red Nether Brick Stairs) <quark:red_nether_brick_stairs:0> * 8 conflicts with [Shaped] [netherex:red_nether_brick_stairs](Red Nether Brick Stairs) <netherex:red_nether_brick_stairs:0> * 8
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Palm Crate) <atum:palm_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Deadwood Crate) <atum:deadwood_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Spruce Chest) <quark:custom_chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Birch Chest) <quark:custom_chest:1> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_1](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [Shaped] [enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_1](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_1](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_1](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [Shaped] [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_1](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [Shaped] [noname](Palm Crate) <atum:palm_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_1](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [Shaped] [noname](Deadwood Crate) <atum:deadwood_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_1](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [Shaped] [noname](Birch Chest) <quark:custom_chest:1> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_1](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [Shaped] [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_1](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [Shaped] [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_1](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [Shaped] [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_3](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [Shaped] [enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_3](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_3](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_3](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [Shaped] [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_3](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [Shaped] [noname](Palm Crate) <atum:palm_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_3](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [Shaped] [noname](Deadwood Crate) <atum:deadwood_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_3](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [Shaped] [noname](Spruce Chest) <quark:custom_chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_3](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [Shaped] [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_3](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [Shaped] [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_3](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [Shaped] [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_5](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [Shaped] [enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_5](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_5](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_5](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [Shaped] [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_5](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [Shaped] [noname](Palm Crate) <atum:palm_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_5](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [Shaped] [noname](Deadwood Crate) <atum:deadwood_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_5](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [Shaped] [noname](Spruce Chest) <quark:custom_chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_5](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [Shaped] [noname](Birch Chest) <quark:custom_chest:1> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_5](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [Shaped] [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_5](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [Shaped] [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_7](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [Shaped] [enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_7](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_7](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_7](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [Shaped] [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_7](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [Shaped] [noname](Palm Crate) <atum:palm_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_7](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [Shaped] [noname](Deadwood Crate) <atum:deadwood_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_7](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [Shaped] [noname](Spruce Chest) <quark:custom_chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_7](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [Shaped] [noname](Birch Chest) <quark:custom_chest:1> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_7](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [Shaped] [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_7](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [Shaped] [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_9](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [Shaped] [enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_9](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_9](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_9](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [Shaped] [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_9](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [Shaped] [noname](Palm Crate) <atum:palm_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_9](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [Shaped] [noname](Deadwood Crate) <atum:deadwood_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_9](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [Shaped] [noname](Spruce Chest) <quark:custom_chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_9](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [Shaped] [noname](Birch Chest) <quark:custom_chest:1> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_9](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [Shaped] [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [quark:custom_chest_9](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [Shaped] [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [chisel:charcoal](Block of Charcoal) <chisel:block_charcoal2:1> * 1 conflicts with [Shaped] [thermalfoundation:storage_resource](Block of Charcoal) <thermalfoundation:storage_resource:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [thermalfoundation:storage_resource_1](Block of Coal Coke) <thermalfoundation:storage_resource:1> * 1 conflicts with [Shaped] [railcraft:generic#6$1](Block of Coal Coke) <railcraft:generic:6> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [thermalfoundation:material_59](Wooden Gear) <thermalfoundation:material:22> * 1 conflicts with [Shaped] [noname](Wooden Gear) <appliedenergistics2:material:40> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [thermalfoundation:material_59](Wooden Gear) <thermalfoundation:material:22> * 1 conflicts with [Shaped] [noname](Wooden Gear) <enderio:item_material:9> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [thermalfoundation:armor.plate_steel](Steel Chestplate) <thermalfoundation:armor.plate_steel:0> * 1 conflicts with [Shaped] [railcraft:armor_chestplate_steel$1](Steel Chestplate) <railcraft:armor_chestplate_steel:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [thermalfoundation:armor.legs_steel](Steel Leggings) <thermalfoundation:armor.legs_steel:0> * 1 conflicts with [Shaped] [railcraft:armor_leggings_steel$1](Steel Leggings) <railcraft:armor_leggings_steel:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [thermalfoundation:tool.pickaxe_steel](Steel Pickaxe) <thermalfoundation:tool.pickaxe_steel:0> * 1 conflicts with [Shaped] [railcraft:tool_pickaxe_steel$1](Steel Pickaxe) <railcraft:tool_pickaxe_steel:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Palm Crate) <atum:palm_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Deadwood Crate) <atum:deadwood_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Spruce Chest) <quark:custom_chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Birch Chest) <quark:custom_chest:1> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:ender_dust](Ender Dust) <appliedenergistics2:material:46> * 1 conflicts with [Shaped] [noname](Ender Pearl Dust) <portalgun:item_dust_ender_pearl:0> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:gear_wood](Wooden Gear) <thermalfoundation:material:22> * 1 conflicts with [Shaped] [noname](Wooden Gear) <appliedenergistics2:material:40> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:gear_wood](Wooden Gear) <thermalfoundation:material:22> * 1 conflicts with [Shaped] [noname](Wooden Gear) <enderio:item_material:9> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:gear_ae2_messes_things_up](Wooden Gear) <thermalfoundation:material:22> * 1 conflicts with [Shaped] [noname](Wooden Gear) <appliedenergistics2:material:40> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:gear_ae2_messes_things_up](Wooden Gear) <thermalfoundation:material:22> * 1 conflicts with [Shaped] [noname](Wooden Gear) <enderio:item_material:9> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:gear_stone](Stone Gear) <thermalfoundation:material:23> * 1 conflicts with [Shaped] [noname](Stone Compound Gear) <enderio:item_material:10> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [enderio:gear_stone_upgrade](Stone Gear) <thermalfoundation:material:23> * 1 conflicts with [Shaped] [noname](Stone Compound Gear) <enderio:item_material:10> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Palm Crate) <atum:palm_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Deadwood Crate) <atum:deadwood_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Spruce Chest) <quark:custom_chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Birch Chest) <quark:custom_chest:1> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Palm Crate) <atum:palm_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Deadwood Crate) <atum:deadwood_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Spruce Chest) <quark:custom_chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Birch Chest) <quark:custom_chest:1> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [Shaped] [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4 conflicts with [Shaped] [noname](Palm Crate) <atum:palm_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4 conflicts with [Shaped] [noname](Deadwood Crate) <atum:deadwood_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4 conflicts with [Shaped] [noname](Spruce Chest) <quark:custom_chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4 conflicts with [Shaped] [noname](Birch Chest) <quark:custom_chest:1> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4 conflicts with [Shaped] [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4 conflicts with [Shaped] [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4 conflicts with [Shaped] [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Palm Crate) <atum:palm_crate:0> * 4 conflicts with [Shaped] [noname](Deadwood Crate) <atum:deadwood_crate:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Palm Crate) <atum:palm_crate:0> * 4 conflicts with [Shaped] [noname](Spruce Chest) <quark:custom_chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Palm Crate) <atum:palm_crate:0> * 4 conflicts with [Shaped] [noname](Birch Chest) <quark:custom_chest:1> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Palm Crate) <atum:palm_crate:0> * 4 conflicts with [Shaped] [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Palm Crate) <atum:palm_crate:0> * 4 conflicts with [Shaped] [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Palm Crate) <atum:palm_crate:0> * 4 conflicts with [Shaped] [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Deadwood Crate) <atum:deadwood_crate:0> * 4 conflicts with [Shaped] [noname](Spruce Chest) <quark:custom_chest:0> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Deadwood Crate) <atum:deadwood_crate:0> * 4 conflicts with [Shaped] [noname](Birch Chest) <quark:custom_chest:1> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Deadwood Crate) <atum:deadwood_crate:0> * 4 conflicts with [Shaped] [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Deadwood Crate) <atum:deadwood_crate:0> * 4 conflicts with [Shaped] [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Deadwood Crate) <atum:deadwood_crate:0> * 4 conflicts with [Shaped] [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [Shaped] [noname](Birch Chest) <quark:custom_chest:1> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [Shaped] [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [Shaped] [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [Shaped] [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [Shaped] [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [Shaped] [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [Shaped] [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [Shaped] [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [Shaped] [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [Shaped] [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Wooden Gear) <appliedenergistics2:material:40> * 1 conflicts with [Shaped] [noname](Wooden Gear) <enderio:item_material:9> * 1
+[SERVER_STARTED][SERVER][INFO] [Shaped] [noname](Wooden Gear) <appliedenergistics2:material:40> * 1 conflicts with [Shaped] [noname](Wooden Gear) <enderio:item_material:9> * 1
