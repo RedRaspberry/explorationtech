@@ -95,7 +95,6 @@ key_Misc Caster Toggle:34
 key_Reload Menu | CTRL + ALT + :0
 key_Toggle Customization Overlay | CTRL + ALT + :46
 key_keybind.baublesinventory:48
-key_quark.keybind.lockBuilding:37
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:44
 key_quark.keybind.chestSort:0
@@ -103,6 +102,7 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
+key_quark.keybind.toggleAutojump:48
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -121,8 +121,10 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.toggleAutojump:48
+key_quark.keybind.lockBuilding:37
 key_keys.baubleshud.config:73
+key_keybind.openSelectionWheel:56
+key_keybind.openBaubleBag:19
 key_psimisc.keybind:46
 key_rpsideas.kb.offhandcast:0
 key_rpsideas.kb.switchslot01:0
@@ -197,11 +199,23 @@ key_key.astikorcarts.desc:0
 key_key.bookdisplay.display:0
 key_key.bookdisplay.left:203
 key_key.bookdisplay.right:205
+key_key.settings_menu:34
+key_key.range:19
+key_key.undo:22
+key_key.anchor:35
+key_key.fuzzy:0
+key_key.connected_area:0
+key_key.rotate_mirror:0
+key_key.material_list:50
 key_dsurround.cfg.keybind.AnimaniaBadges:0
 key_key.clipboardPaste:210
 key_key.immersiveengineering.magnetEquip:31
 key_key.immersiveengineering.chemthrowerSwitch:0
 key_Activate Hexxit Gear Armor:45
+key_key.porterNextDestination:27
+key_key.porterPrevDestination:26
+key_key.debugDumpNBTItem:0
+key_key.debugDumpNBTBlock:0
 key_key.inventoryhud.toggle:23
 key_key.inventoryhud.openconfig:24
 key_key.inventoryhud.togglepot:-1

@@ -43,3 +43,13 @@ make immersive steel more priority than thermal in unidict config
 add crafting recipes for aether mod pillars
 
 add runic altar recipes for spawn eggs ???
+
+high flux levels spawns pipers from rat mod
+
+
+Crafttweaker
+~~~~~~~~~~~~
+Botania Runic Altar recipes as listed above. Requires modtweaker
+Disable enchantments in advanced enchantment table
+
+LootTableTweaker
