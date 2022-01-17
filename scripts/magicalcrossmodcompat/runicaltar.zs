@@ -22,10 +22,10 @@ var petalandrunecolor = { <quark:rune>: <botania:petal>,
               }
               as IItemStack[IItemStack];
 for rune, petal in petalandrunecolor {
-  mods.botania.RuneAltar.addRecipe(rune, [petal, <botania:managlass>, <appliedenergistics2:material:7>, <minecraft:experience_bottle>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}), <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]})]], 200);
+  mods.botania.RuneAltar.addRecipe(rune, [petal, <botania:managlass>, <appliedenergistics2:material:7>, <minecraft:experience_bottle>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}), <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]})], 200);
 }
 mods.botania.RuneAltar.addRecipe(<botania:blacklotus>, [<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]}), <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "ordo"}]}), <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "alienis"}]}), <botania:manaresource:16>, <botania:petal:10>, <botania:petal:15> * 2, <xreliquary:mob_ingredient:11>], 200);
-mods.botania.RuneAltar.addRecipe(<minecraft:golden_apple:1, [<botania:manabottle>, <botania:manaresource:4>, <botania:manaresource:9>, <botania:manaresource:5>, <minecraft:golden_apple>], 100);
+mods.botania.RuneAltar.addRecipe(<minecraft:golden_apple:1>, [<botania:manabottle>, <botania:manaresource:4>, <botania:manaresource:9>, <botania:manaresource:5>, <minecraft:golden_apple>], 100);
 mods.botania.RuneAltar.addRecipe(<botania:blacklotus:1>, [<minecraft:dragon_breath>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]}), <botania:manaresource:5>, <botania:blacklotus>], 150);
 mods.botania.RuneAltar.addRecipe(<ebwizardry:resplendent_thread>, [<botania:rune:8>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]}), <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praemunio"}]}), <hexxitgear:hexical_diamond>, <immersiveengineering:wirecoil:3>], 200);
 mods.botania.RuneAltar.addRecipe(<ebwizardry:crystal_silver_plating>, [<botania:manaresource:8>, <immersiveengineering:metal:33>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]}), <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "aversio"}]}), <ebwizardry:grand_crystal>], 300);
