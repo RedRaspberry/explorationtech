@@ -1,6 +1,6 @@
 fix crafting recipes for gunpowder to include the reliquary drops
 change recipe of wizardry bookshelves to not require grand magic crystals
-make grand magic crystals more easily obtainable (??)
+
 look into how thaumcraft infusion and/or botania infusion works, and make recipes for all 7 elemental crystals using it
 (nvm, the infusion altar from wiz itself can do this. instead, make that more easially obtainable, and/or breakable (how!))
 also use that to make other useful, later game items for cross mod compat
@@ -13,7 +13,6 @@ generally work on finding more cross-mod compat options
 mess with loot tables!
 
 give sawdust pulpwood oredict and itemsawdust on both mek and thermal versions
-runic altar recipe for quark runes: mystical petal of color you want + managlass + %s vis crystal + fluix crystal + bottle o' enchanting
 
 Fix MGC crushing table to use any ingot -> plate crafting; remove vanilla-style&hammer crafting recipes for plates; fix recipe output of crushing table to supply thermal plates instead of immersive
 fix unidict configs to prevent this from happening
@@ -24,7 +23,6 @@ retexture railcraft plates to match other mods; retexture fluxed electrum plate 
 think about tutorial/questbook to explain progression
 remove smithing table from smeltery recipes (it melts into iron!!!?)
 
-add mgc smithing table recipes for ore crushing
 
 replace all instances of iron ingots in engineering blocks with plates
 
@@ -49,73 +47,10 @@ high flux levels spawns pipers from rat mod
 
 Crafttweaker
 ~~~~~~~~~~~~
-Botania Runic Altar recipes as listed above. Requires modtweaker
+
+
+
 ~~~
-<minecraft:experience_bottle>
-<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]})
-<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]})
-<appliedenergistics2:material:7>
-<botania:managlass>
-<botania:petal:11>
-<wings:angel_wings>
-<ebwizardry:magic_crystal>
-<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]})
-<botania:manaresource:5>
-<ebwizardry:grand_crystal>
-<quark:rune>
-<quark:rune> * 64
-<quark:rune:1> * 64
-<quark:rune:2> * 64
-<quark:rune:3> * 64
-<quark:rune:4> * 64
-<quark:rune:5> * 64
-<quark:rune:6> * 64
-<quark:rune:7> * 64
-<quark:rune:8> * 64
-<quark:rune:9>
-<quark:rune:10>
-<quark:rune:11>
-<quark:rune:12>
-<quark:rune:13>
-<quark:rune:14>
-<quark:rune:15>
-<quark:rune:16>
-<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]})
-<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "ordo"}]})
-<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "alienis"}]})
-<botania:manaresource:16>
-<botania:petal:10>
-<botania:petal:15> * 2
-<xreliquary:mob_ingredient:11>
-<botania:blacklotus>
-<botania:manabottle>
-<botania:manaresource:4>
-<botania:manaresource:9>
-<botania:manaresource:5>
-<minecraft:golden_apple>
-<minecraft:golden_apple:1>
-<minecraft:dragon_breath>
-<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]})
-<botania:manaresource:5>
-<botania:blacklotus>
-<botania:blacklotus:1>
-<botania:rune:8>
-<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]})
-<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praemunio"}]})
-<hexxitgear:hexical_diamond>
-<immersiveengineering:wirecoil:3>
-<ebwizardry:resplendent_thread>
-<botania:manaresource:8>
-<immersiveengineering:metal:33>
-<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]})
-<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "aversio"}]})
-<ebwizardry:grand_crystal>
-<ebwizardry:crystal_silver_plating>
-<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "vitreus"}]})
-<botania:manaresource:22> * 2
-<ebwizardry:grand_crystal>
-<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "motus"}]})
-<ebwizardry:ethereal_crystalweave>
 <immersiveengineering:material:8> * 2
 <minecraft:redstone> * 2
 <minecraft:iron_ingot> * 4

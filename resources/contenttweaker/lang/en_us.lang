@@ -1,7 +1,8 @@
-tile.contenttweaker.blackstone=Blackstone
-tile.contenttweaker.gilded_blackstone=Gilded Blackstone
-tile.contenttweaker.nether_gold_ore=Nether Gold Ore
-tile.contenttweaker.shroomlight=Glowshroom Lamp
-tile.contenttweaker.amethyst_block=Amethyst
-tile.contenttweaker.deepslate=Grimstone
-tile.contenttweaker.tuff=Tuff
+tile.contenttweaker.blackstone.name=Blackstone
+tile.contenttweaker.gilded_blackstone.name=Gilded Blackstone
+tile.contenttweaker.nether_gold_ore.name=Nether Gold Ore
+tile.contenttweaker.shroomlight.name=Glowshroom Lamp
+tile.contenttweaker.amethyst_block.name=Amethyst
+tile.contenttweaker.deepslate.name=Grimstone
+tile.contenttweaker.tuff.name=Tuff
+tile.contenttweaker.mech_engineering_block.name=Mechanical Engineering Block
