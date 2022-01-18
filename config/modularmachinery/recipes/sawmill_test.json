@@ -1,0 +1,24 @@
+{
+    "machine": "rolling_machine",
+    "registryName": "sawmill_test",
+    "recipeTime": 20,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 40
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:planks",
+            "amount": 6
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:log",
+            "amount": 1
+        }
+    ]
+}
