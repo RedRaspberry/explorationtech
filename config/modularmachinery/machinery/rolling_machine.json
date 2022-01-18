@@ -1,6 +1,11 @@
 {
     "registryname": "rolling_machine",
     "localizedname": "Metal Rolling Machine",
+    "activated_sound": "modularcontroller:machine_activated_industry",
+    "controller": {
+      "name": "rolling_machine",
+      "translationKey": "tile.modularcontroller.rolling_machine.name",
+    },
     "parts": [
         {
             "x": -1,

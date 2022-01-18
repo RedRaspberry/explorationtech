@@ -1,6 +1,10 @@
 {
     "registryname": "sawmill",
     "localizedname": "Sawmill",
+    "activated_sound": "modularcontroller:machine_activated_industry",
+    "controller": {
+      "name": "sawmill",
+      "translationKey": "tile.modularcontroller.sawmill.name",
     "parts": [
         {
             "x": -1,
