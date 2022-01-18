@@ -1,0 +1,76 @@
+{
+	"populate": {
+		"nether_lake": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "lake",
+				"block": "thermalfoundation:fluid_pyrotheum",
+				"material": "minecraft:netherrack",
+				"use-material": true,
+				"outline-block": [
+					"minecraft:nether_wart_block",
+					"minecraft:magma"
+				]
+			},
+			"cluster-count": 1,
+			"chunk-chance": 3,
+			"min-height": 10,
+			"max-height": 120,
+			"follow-terrain": true,
+			"biome": "all",
+			"retrogen": false,
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-1
+				]
+			}
+		},
+    "crystal_spikes": {
+			"distribution": "surface",
+			"follow-terrain": "true",
+			"generator": [
+				{
+					"type": "stalagmite",
+					"block": [
+						{
+							"name": "minecraft:stone",
+							"weight": 50
+						},
+						{
+							"name": "minecraft:cobblestone",
+							"weight": 40
+						},
+						{
+							"name": "ebwizardry:crystal_ore",
+							"weight": 10
+						}
+					],
+					"material": [
+						"minecraft:stone",
+            "minecraft:dirt",
+            "minecraft:grass"
+					],
+					"gen-body": "minecraft:air",
+					"smooth": true,
+					"fat": false,
+					"min-height": 10,
+					"height-variance": 6,
+					"height-mod": 3,
+					"gen-size": 0,
+					"size-variance": 2
+				},
+			],
+			"cluster-count": 1,
+			"chunk-chance": 0.006,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+        "restriction": "whitelist",
+        "value": [
+          7
+        ]
+      }
+		}
+	}
+}
