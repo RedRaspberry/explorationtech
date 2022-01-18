@@ -1,0 +1,277 @@
+{
+    "registryname": "sawmill",
+    "localizedname": "Sawmill",
+    "parts": [
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": "immersiveengineering:sheetmetal@9"
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 0,
+            "nbt": {"id":"immersiveengineering:ieslab","slabType":"0"},
+            "elements": "immersiveengineering:sheetmetal_slab@9"
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": "futuremc:stonecutter"
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+            "elements": "immersiveengineering:sheetmetal@9"
+
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 2,
+            "nbt": {"id":"immersiveengineering:ieslab","slabType":"0"},
+            "elements": "immersiveengineering:sheetmetal_slab@9"
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 1,
+            "nbt": {"id":"immersiveengineering:ieslab","slabType":"0"},
+            "elements": "immersiveengineering:sheetmetal_slab@9"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": "immersiveengineering:sheetmetal@9"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": "immersiveengineering:sheetmetal@9"
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": "immersiveengineering:sheetmetal@9"
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": "immersiveengineering:sheetmetal@9"
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 2,
+            "nbt": {"id":"immersiveengineering:ieslab","slabType":"0"},
+            "elements": "immersiveengineering:sheetmetal_slab@9"
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 1,
+            "nbt": {"id":"immersiveengineering:ieslab","slabType":"0"},
+            "elements": "immersiveengineering:sheetmetal_slab@9"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": "futuremc:stonecutter"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": "modularmachinery:blockenergyinputhatch"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": "immersiveengineering:sheetmetal@9"
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 2,
+            "nbt": {"id":"immersiveengineering:ieslab","slabType":"0"},
+            "elements": "immersiveengineering:sheetmetal_slab@9"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+            "elements": "modularmachinery:blockinputbus"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": "immersiveengineering:sheetmetal@9"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+            "elements": "immersiveengineering:sheetmetal@9"
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 0,
+            "elements": "immersiveengineering:sheetmetal@9"
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": "minecraft:iron_bars"
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 1,
+            "nbt": {"id":"immersiveengineering:conveyorbelt","facing":"3","conveyorBeltSubtype":"immersiveengineering:extractcovered"},
+            "elements": "immersiveengineering:conveyor@0"
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": "minecraft:iron_bars"
+
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 2,
+            "elements": "immersiveengineering:sheetmetal@9"
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "nbt": {"id":"immersiveengineering:conveyorbelt","facing":"3","conveyorBeltSubtype":"immersiveengineering:conveyor"},
+            "elements": "immersiveengineering:conveyor@0"
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": "minecraft:iron_bars"
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 2,
+            "elements": "immersiveengineering:sheetmetal@9"
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 2,
+            "elements": "immersiveengineering:sheetmetal@9"
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 0,
+            "elements": "immersiveengineering:sheetmetal@9"
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 2,
+            "elements": "immersiveengineering:sheetmetal@9"
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 1,
+            "nbt": {"id":"immersiveengineering:conveyorbelt","facing":"3","conveyorBeltSubtype":"immersiveengineering:covered"},
+            "elements": "immersiveengineering:conveyor@0"
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 2,
+            "elements": "immersiveengineering:sheetmetal@9"
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 0,
+            "nbt": {"id":"immersiveengineering:ieslab","slabType":"0"},
+            "elements": "immersiveengineering:sheetmetal_slab@9"
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 0,
+            "nbt": {"id":"immersiveengineering:ieslab","slabType":"0"},
+            "elements": "immersiveengineering:sheetmetal_slab@9"
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 1,
+            "nbt": {"id":"immersiveengineering:ieslab","slabType":"0"},
+            "elements": "immersiveengineering:sheetmetal_slab@9"
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 1,
+            "nbt": {"id":"immersiveengineering:ieslab","slabType":"0"},
+            "elements": "immersiveengineering:sheetmetal_slab@9"
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 2,
+            "nbt": {"id":"immersiveengineering:ieslab","slabType":"0"},
+            "elements": "immersiveengineering:sheetmetal_slab@9"
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "nbt": {"id":"immersiveengineering:ieslab","slabType":"0"},
+            "elements": "immersiveengineering:sheetmetal_slab@9"
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "elements": "modularmachinery:blockoutputbus"
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 2,
+            "nbt": {"id":"immersiveengineering:ieslab","slabType":"0"},
+            "elements": "immersiveengineering:sheetmetal_slab@9"
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 1,
+            "nbt": {"id":"immersiveengineering:ieslab","slabType":"0"},
+            "elements": "immersiveengineering:sheetmetal_slab@9"
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 0,
+            "nbt": {"id":"immersiveengineering:ieslab","slabType":"0"},
+            "elements": "immersiveengineering:sheetmetal_slab@9"
+        }
+    ]}
