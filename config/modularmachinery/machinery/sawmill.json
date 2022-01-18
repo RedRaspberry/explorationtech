@@ -5,6 +5,7 @@
     "controller": {
       "name": "sawmill",
       "translationKey": "tile.modularcontroller.sawmill.name",
+    },
     "parts": [
         {
             "x": -1,
