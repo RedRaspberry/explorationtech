@@ -1,0 +1,279 @@
+{
+    "registryname": "final_ritual",
+    "localizedname": "The Finale",
+    "parts": [
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+            "nbt": {"id":"twilightforest:trophy","SkullType":"1b","Rot":"6b"},
+            "elements": [
+                "twilightforest:trophy@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "twilightforest:castle_rune_brick@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 0,
+            "nbt": {"id":"twilightforest:trophy","SkullType":"0b","Rot":"8b"},
+            "elements": [
+                "twilightforest:trophy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": -3,
+            "nbt": {"id":"twilightforest:trophy","SkullType":"8b","Rot":"12b"},
+            "elements": [
+                "twilightforest:trophy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "nbt": {"id":"twilightforest:trophy","SkullType":"3b","Rot":"4b"},
+            "elements": [
+                "twilightforest:trophy@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 0,
+            "nbt": {"id":"twilightforest:trophy","SkullType":"2b","Rot":"0b"},
+            "elements": [
+                "twilightforest:trophy@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": -2,
+            "nbt": {"id":"twilightforest:trophy","SkullType":"4b","Rot":"10b"},
+            "elements": [
+                "twilightforest:trophy@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+            "nbt": {"id":"twilightforest:trophy","SkullType":"5b","Rot":"2b"},
+            "elements": [
+                "twilightforest:trophy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "twilightforest:castle_rune_brick@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "twilightforest:castle_rune_brick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "twilightforest:castle_rune_brick@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "twilightforest:castle_rune_brick@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": -4,
+            "elements": [
+                "twilightforest:castle_rune_brick@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "twilightforest:castle_rune_brick@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "twilightforest:castle_rune_brick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "ebwizardry:runestone_pedestal@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "nbt": {"id":"minecraft:tileentitybiomedetector","casingColor":"7306877","input":"1b"},
+            "elements": [
+                "modulardiversity:blockbiomedetector@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -2,
+            "nbt": {"id":"minecraft:tilemanainputhatch","casingColor":"7306877","mana":"0"},
+            "elements": [
+                "modulardiversity:blockmanainputhatch@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "twilightforest:castle_rune_brick@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "ebwizardry:runestone_pedestal@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "ebwizardry:runestone_pedestal@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "ebwizardry:runestone_pedestal@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "twilightforest:castle_rune_brick@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "ebwizardry:runestone_pedestal@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "twilightforest:castle_rune_brick@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "ebwizardry:runestone_pedestal@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "twilightforest:castle_rune_brick@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "ebwizardry:runestone_pedestal@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "twilightforest:castle_rune_brick@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "twilightforest:castle_rune_brick@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "twilightforest:castle_rune_brick@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": -2,
+            "nbt": {"id":"twilightforest:trophy","SkullType":"6b","Rot":"14b"},
+            "elements": [
+                "twilightforest:trophy@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": -4,
+            "elements": [
+                "twilightforest:castle_rune_brick@3"
+            ]
+        }
+    ]}
