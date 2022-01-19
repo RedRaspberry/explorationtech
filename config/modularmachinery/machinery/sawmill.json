@@ -2,10 +2,6 @@
     "registryname": "sawmill",
     "localizedname": "Sawmill",
     "activated_sound": "modularcontroller:machine_activated_industry",
-    "controller": {
-      "name": "sawmill",
-      "translationKey": "tile.modularcontroller.sawmill.name",
-    },
     "parts": [
         {
             "x": -1,
@@ -279,4 +275,5 @@
             "nbt": {"id":"immersiveengineering:ieslab","slabType":"0"},
             "elements": "immersiveengineering:sheetmetal_slab@9"
         }
-    ]}
+    ]
+}
