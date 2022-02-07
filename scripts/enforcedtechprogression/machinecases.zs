@@ -8,6 +8,6 @@ recipes.addShaped("CoT_copper_case",<contenttweaker:case_copper>, [
 [<minecraft:redstone>, <ore:gearCopper>, <minecraft:redstone>]]);
 
 //<contenttweaker:case_invar>
-//<contenttweaker:case_electrum>S
+//<contenttweaker:case_electrum>
 //<contenttweaker:case_signalium>
 //<contenttweaker:case_enderium>
