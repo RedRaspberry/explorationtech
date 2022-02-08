@@ -2,6 +2,7 @@ import crafttweaker.item.IIngredient;
 import crafttweaker.oredict.IOreDictEntry;
 import crafttweaker.item.IItemStack;
 
+#add machine cases
 recipes.addShaped("CoT_copper_case", <contenttweaker:case_copper>, [
 [<ore:plateIron>, <minecraft:redstone>, <ore:plateIron>],
 [<ore:wireCopper>, <ore:gearCopper>, <ore:wireCopper>],

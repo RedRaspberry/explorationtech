@@ -3,7 +3,7 @@ change recipe of wizardry bookshelves to not require grand magic crystals
 
 look into how thaumcraft infusion and/or botania infusion works, and make recipes for all 7 elemental crystals using it
 (nvm, the infusion altar from wiz itself can do this. instead, make that more easially obtainable, and/or breakable (how!))
-also use that to make other useful, later game items for cross mod compat
+also use that to make other useful, later game items for cross mod compat [done]
 rustic fences do not have fence oredict tag.
 change futureMC composter recipe to match vanilla.
 

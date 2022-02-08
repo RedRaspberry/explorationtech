@@ -2,8 +2,8 @@
   "forge_marker": 1,
   "defaults": {
     "textures": {
-      "texture": "contenttweaker:blocks/case_signalium",
-      "particle": "contenttweaker:blocks/case_signalium"
+      "texture": "contenttweaker:blocks/case_signalum",
+      "particle": "contenttweaker:blocks/case_signalum"
     },
     "model": "base:storage",
     "uvlock": true,

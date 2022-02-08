@@ -16,3 +16,7 @@ tile.contenttweaker.case_enderium.name=Enderium Machine Casing (Tier 5)
 item.contenttweaker.wireInvar.name=Invar Wire
 item.contenttweaker.wireSignalum.name=Signalum Wire
 item.contenttweaker.wireEnderium.name=Enderium Wire
+
+item.contenttweaker.rodInvar.name = Invar Rod
+item.contenttweaker.rodSignalum.name = Signalum Rod
+item.contenttweaker.rodEnderium.name = Enderium Rod

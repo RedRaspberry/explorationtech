@@ -6,8 +6,8 @@ import mods.contenttweaker.Item;
 
 var wireInvar = mods.contenttweaker.VanillaFactory.createItem("wireInvar");
 wireInvar.register();
-var wireSignalum = mods.contenttweaker.VanillaFactory.createItem("wireSignalium");
-wireSignalium.register();
+var wireSignalum = mods.contenttweaker.VanillaFactory.createItem("wireSignalum");
+wireSignalum.register();
 var wireEnderium = mods.contenttweaker.VanillaFactory.createItem("wireEnderium");
 wireEnderium.register();
 
