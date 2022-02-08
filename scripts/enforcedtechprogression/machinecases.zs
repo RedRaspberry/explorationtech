@@ -18,7 +18,7 @@ recipes.addShaped("CoT_electrum_case", <contenttweaker:case_electrum>, [
 [<ore:wireElectrum>, <redstonearsenal:material:96>, <ore:wireElectrum>],
 [<ore:plateIron>, <ore:wireElectrum>, <ore:plateIron>]]);
 
-recipes.addShaped("CoT_signalum_case", <contenttweaker:case_signalium>, [
+recipes.addShaped("CoT_signalum_case", <contenttweaker:case_signalum>, [
 [<ore:plateSteel>, <contenttweaker:wiresignalum>, <ore:plateSteel>],
 [<contenttweaker:wiresignalum>, <ore:blockSignalum>, <contenttweaker:wiresignalum>],
 [<ore:plateSteel>, <contenttweaker:wiresignalum>, <ore:plateSteel>]]);
