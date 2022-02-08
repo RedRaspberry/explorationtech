@@ -26,12 +26,12 @@ case_electrum.setToolClass("pickaxe");
 case_electrum.setBlockSoundType(<soundtype:metal>);
 case_electrum.register();
 
-var case_signalium = VanillaFactory.createBlock("case_signalium", <blockmaterial:iron>);
-case_signalium.setBlockHardness(1.0);
-case_signalium.setBlockResistance(1.0);
-case_signalium.setToolClass("pickaxe");
-case_signalium.setBlockSoundType(<soundtype:metal>);
-case_signalium.register();
+var case_signalum = VanillaFactory.createBlock("case_signalum", <blockmaterial:iron>);
+case_signalum.setBlockHardness(1.0);
+case_signalum.setBlockResistance(1.0);
+case_signalum.setToolClass("pickaxe");
+case_signalum.setBlockSoundType(<soundtype:metal>);
+case_signalum.register();
 
 var case_enderium = VanillaFactory.createBlock("case_enderium", <blockmaterial:iron>);
 case_enderium.setBlockHardness(1.0);
