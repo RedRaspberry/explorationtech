@@ -20,3 +20,9 @@ item.contenttweaker.wireEnderium.name=Enderium Wire
 item.contenttweaker.rodInvar.name=Invar Rod
 item.contenttweaker.rodSignalum.name=Signalum Rod
 item.contenttweaker.rodEnderium.name=Enderium Rod
+
+item.contenttweaker.partCopper.name=Copper Machine Parts (Tier 1)
+item.contenttweaker.partInvar.name=Invar Machine Parts (Tier 2)
+item.contenttweaker.partElectrum.name=Electrum Machine Parts (Tier 3)
+item.contenttweaker.partSignalum.name=Signalum Machine Parts (Tier 4)
+item.contenttweaker.partEnderium.name=Enderium Machine Parts (Tier 5)

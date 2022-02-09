@@ -17,3 +17,14 @@ var rodSignalum = mods.contenttweaker.VanillaFactory.createItem("rodSignalum");
 rodSignalum.register();
 var rodEnderium = mods.contenttweaker.VanillaFactory.createItem("rodEnderium");
 rodEnderium.register();
+
+var partCopper = mods.contenttweaker.VanillaFactory.createItem("partCopper");
+partCopper.register();
+var partInvar = mods.contenttweaker.VanillaFactory.createItem("partInvar");
+partInvar.register();
+var partElectrum = mods.contenttweaker.VanillaFactory.createItem("partElectrum");
+partElectrum.register();
+var partSignalum = mods.contenttweaker.VanillaFactory.createItem("partSignalum");
+partSignalum.register();
+var partEnderium = mods.contenttweaker.VanillaFactory.createItem("partEnderium");
+partEnderium.register();
