@@ -16,7 +16,7 @@
 	"rotation": null,
 	"ignoreEntities": false,
 
-	"dimensionSpawns": [],
+	"dimensionSpawns": [0, 7],
 	"biomeNameSpawns": [],
 	"biomeTagSpawns": ["FOREST", "PLAINS"],
 	"isDimensionSpawnsBlacklist": false,

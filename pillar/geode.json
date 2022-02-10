@@ -5,7 +5,7 @@
 // ===================================================================
 
 {
-	"generatorType": "NONE",
+	"generatorType": "UNDERGROUND",
 	"minY": -1,
 	"maxY": -1,
 	"offsetX": 0,
@@ -30,6 +30,6 @@
 	"filling": "",
 	"fillingMetadata": 0,
 	"fillingType": "AIR",
-	
-	"rarity": 100
+
+	"rarity": 200
 }
