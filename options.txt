@@ -39,7 +39,7 @@ chatHeightFocused:1.0
 chatHeightUnfocused:0.44366196
 chatScale:1.0
 chatWidth:1.0
-mipmapLevels:0
+mipmapLevels:1
 forceUnicodeFont:false
 reducedDebugInfo:true
 useNativeTransport:true
@@ -95,7 +95,6 @@ key_Misc Caster Toggle:0
 key_Reload Menu | CTRL + ALT + :0
 key_Toggle Customization Overlay | CTRL + ALT + :0
 key_keybind.baublesinventory:0
-key_quark.keybind.toggleAutojump:0
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:44
 key_quark.keybind.chestSort:0
@@ -103,6 +102,7 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
+key_quark.keybind.lockBuilding:37
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -121,7 +121,7 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.lockBuilding:37
+key_quark.keybind.toggleAutojump:0
 key_keys.baubleshud.config:0
 key_keybind.openSelectionWheel:0
 key_keybind.openBaubleBag:0
@@ -155,8 +155,8 @@ key_key.ebwizardry.spell_7:0
 key_key.ebwizardry.spell_8:0
 key_keybind.railcraft.cart.bed:0
 key_ingameinfoxml.key.toggle:24
-key_key.inventorysorter.itemout:-201
 key_key.inventorysorter.itemin:-200
+key_key.inventorysorter.itemout:-201
 key_key.inventorysorter.sort:-98
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
