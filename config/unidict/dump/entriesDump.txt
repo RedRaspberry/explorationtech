@@ -258,6 +258,7 @@ MelodicAlloy
 
 Uranium
 	crushedUranium
+	clusterUranium
 	slabSheetmetalUranium
 	clumpUranium
 	crushedPurifiedUranium
@@ -379,6 +380,7 @@ Plastic
 	ingotPlastic
 
 Nickel
+	clusterNickel
 	orePoorNickel
 	slabSheetmetalNickel
 	clumpNickel
@@ -575,6 +577,7 @@ Steeleaf
 
 Aluminum
 	scaffoldingAluminum
+	clusterAluminum
 	wireAluminum
 	slabSheetmetalAluminum
 	clumpAluminum
