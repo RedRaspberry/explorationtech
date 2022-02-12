@@ -1,0 +1,23 @@
+[
+	{
+		"entryName" : "ingotSteel",
+		"modIdPriorityList" :
+		[
+			"immersiveengineering",
+		]
+	},
+	{
+		"entryName" : "blockSteel",
+		"modIdPriorityList" :
+		[
+			"immersiveengineering",
+		]
+	},
+  {
+    "entryName" : "nuggetSteel",
+    "modIdPriorityList" :
+    [
+      "immersiveengineering",
+    ]
+  }
+]
