@@ -2,7 +2,7 @@ import crafttweaker.item.IIngredient;
 import crafttweaker.oredict.IOreDictEntry;
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IItemCondition;
-#import mods.ic2.BlockCutter;
+import mods.ic2.BlockCutter;
 
 #Add tiered machine cases
 recipes.addShaped("CoT_copper_case", <contenttweaker:case_copper>, [
@@ -43,8 +43,8 @@ sawtier += 1;
 }
 
 #block cutting machine recipe for machine parts
-#mods.ic2.BlockCutter.addRecipe(<contenttweaker:partcopper> * 16, <contenttweaker:case_copper>, 2);
-#mods.ic2.BlockCutter.addRecipe(<contenttweaker:partinvar> * 16, <contenttweaker:case_invar>, 2);
-#mods.ic2.BlockCutter.addRecipe(<contenttweaker:partelectrum> * 16, <contenttweaker:case_electrum>, 2);
-#mods.ic2.BlockCutter.addRecipe(<contenttweaker:partsignalum> * 16, <contenttweaker:case_signalum>, 2);
-#mods.ic2.BlockCutter.addRecipe(<contenttweaker:partenderium> * 16, <contenttweaker:case_enderium>, 2);
+mods.ic2.BlockCutter.addRecipe(<contenttweaker:partcopper> * 16, <contenttweaker:case_copper>, 2);
+mods.ic2.BlockCutter.addRecipe(<contenttweaker:partinvar> * 16, <contenttweaker:case_invar>, 2);
+mods.ic2.BlockCutter.addRecipe(<contenttweaker:partelectrum> * 16, <contenttweaker:case_electrum>, 2);
+mods.ic2.BlockCutter.addRecipe(<contenttweaker:partsignalum> * 16, <contenttweaker:case_signalum>, 2);
+mods.ic2.BlockCutter.addRecipe(<contenttweaker:partenderium> * 16, <contenttweaker:case_enderium>, 2);
