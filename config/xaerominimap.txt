@@ -20,7 +20,7 @@ showCoords:true
 lockNorth:true
 zoom:1
 minimapSize:200
-chunkGrid:-1
+chunkGrid:0
 slimeChunks:false
 mapSafeMode:false
 minimapOpacity:100.0
@@ -42,7 +42,7 @@ waypointsDistanceMin:0.0
 defaultWaypointTPCommandFormat:/tp @s {x} {y} {z}
 defaultWaypointTPCommandRotationFormat:/tp @s {x} {y} {z} {yaw} ~
 arrowScale:1.5
-arrowColour:0
+arrowColour:4
 smoothDots:true
 worldMap:true
 terrainDepth:true
