@@ -8,14 +8,14 @@ var oretodust = {<minecraft:gold_ore>: <ore:dustGold>.firstItem, //gold
           <immersiveengineering:ore:1>: <ore:dustAluminum>.firstItem, //aluminum
           <ic2:resource:4>: <immersiveengineering:metal:14>, //uranium
           <mekanism:oreblock>: <mekanism:dust:2>, //osmium
-          <railcraft:ore_metal:5>: <ore:dustZinc>.firstItem, //zinc
+          <railcraft:ore_metal:5>: <mekores:mekanismore:114>, //zinc
           <thermalfoundation:ore>: <ore:dustCopper>.firstItem, //copper
           <thermalfoundation:ore:1>: <ore:dustTin>.firstItem, //tin
           <thermalfoundation:ore:2>: <ore:dustSilver>.firstItem, //silver
           <thermalfoundation:ore:3>: <ore:dustLead>.firstItem, //lead
           <thermalfoundation:ore:5>: <ore:dustNickel>.firstItem, //nickel
-          <tconstruct:ore>: <ore:dustCobalt>.firstItem, //cobalt
-          <tconstruct:ore:1>: <ore:dustArdite>.firstItem //ardite
+          <tconstruct:ore>: <mekores:mekanismore:39>, //cobalt
+          <tconstruct:ore:1>: <mekores:mekanismore:44> //ardite
           }
           as IItemStack[IItemStack];
 for ore, dust in oretodust {

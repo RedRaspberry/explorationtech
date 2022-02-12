@@ -4,23 +4,23 @@ import crafttweaker.item.IItemStack;
 import crafttweaker.item.IItemCondition;
 
 #remove all existing cases from all mods
-val old_cases = [<enderio:item_material>,
-  <enderio:item_material:1>,
-  <enderio:item_material:53>,
-  <enderio:item_material:54>,
-  <enderio:item_material:55>,
-  <enderio:item_material:66>,
-  <teslacorelib:machine_case>,
-  <thermalexpansion:frame>,
-  <thermalexpansion:frame:64>,
-  <rftools:machine_frame>,
-  <ic2:resource:12>,
-  <ic2:resource:13>,
-  <mekanism:basicblock:8>
-];
-for oldcase in old_cases {
-  recipes.remove(oldcase);
-}
+#val old_cases = [<enderio:item_material>,
+#  <enderio:item_material:1>,
+#  <enderio:item_material:53>,
+#  <enderio:item_material:54>,
+#  <enderio:item_material:55>,
+#  <enderio:item_material:66>,
+#  <teslacorelib:machine_case>,
+#  <thermalexpansion:frame>,
+#  <thermalexpansion:frame:64>,
+#  <rftools:machine_frame>,
+#  <ic2:resource:12>,
+#  <ic2:resource:13>,
+#  <mekanism:basicblock:8>
+#];
+#for oldcase in old_cases {
+#  recipes.remove(oldcase);
+#}
 
 #Add tiered machine cases
 recipes.addShaped("CoT_copper_case", <contenttweaker:case_copper>, [
