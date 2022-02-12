@@ -2,25 +2,7 @@ import crafttweaker.item.IIngredient;
 import crafttweaker.oredict.IOreDictEntry;
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IItemCondition;
-
-#remove all existing cases from all mods
-#val old_cases = [<enderio:item_material>,
-#  <enderio:item_material:1>,
-#  <enderio:item_material:53>,
-#  <enderio:item_material:54>,
-#  <enderio:item_material:55>,
-#  <enderio:item_material:66>,
-#  <teslacorelib:machine_case>,
-#  <thermalexpansion:frame>,
-#  <thermalexpansion:frame:64>,
-#  <rftools:machine_frame>,
-#  <ic2:resource:12>,
-#  <ic2:resource:13>,
-#  <mekanism:basicblock:8>
-#];
-#for oldcase in old_cases {
-#  recipes.remove(oldcase);
-#}
+import mods.ic2.BlockCutter;
 
 #Add tiered machine cases
 recipes.addShaped("CoT_copper_case", <contenttweaker:case_copper>, [
@@ -50,11 +32,19 @@ recipes.addShaped("CoT_enderium_case", <contenttweaker:case_enderium>, [
 
 #machine parts
 val saws = [<microblockcbe:saw_stone>, <microblockcbe:saw_iron>, <microblockcbe:saw_diamond>] as IIngredient[];
-
+var sawtier = 0;
 for item in saws {
-recipes.addShapeless("cot_copper_part", <contenttweaker:partcopper> * 16, [item.transformDamage(), <contenttweaker:case_copper>]);
-recipes.addShapeless("cot_invar_part", <contenttweaker:partinvar> * 16, [item.transformDamage(), <contenttweaker:case_invar>]);
-recipes.addShapeless("cot_electrum_part", <contenttweaker:partelectrum> * 16, [item.transformDamage(), <contenttweaker:case_electrum>]);
-recipes.addShapeless("cot_signalum_part", <contenttweaker:partsignalum> * 16, [item.transformDamage(), <contenttweaker:case_signalum>]);
-recipes.addShapeless("CoT_enderium_part", <contenttweaker:partenderium> * 16, [item.transformDamage(), <contenttweaker:case_enderium>]);
+recipes.addShapeless("cot_copper_part"+sawtier, <contenttweaker:partcopper> * 16, [item.transformDamage(), <contenttweaker:case_copper>]);
+recipes.addShapeless("cot_invar_part"+sawtier, <contenttweaker:partinvar> * 16, [item.transformDamage(), <contenttweaker:case_invar>]);
+recipes.addShapeless("cot_electrum_part"+sawtier, <contenttweaker:partelectrum> * 16, [item.transformDamage(), <contenttweaker:case_electrum>]);
+recipes.addShapeless("cot_signalum_part"+sawtier, <contenttweaker:partsignalum> * 16, [item.transformDamage(), <contenttweaker:case_signalum>]);
+recipes.addShapeless("cot_enderium_part"+sawtier, <contenttweaker:partenderium> * 16, [item.transformDamage(), <contenttweaker:case_enderium>]);
+sawtier += 1;
 }
+
+#block cutting machine recipe for machine parts
+mods.ic2.BlockCutter.addRecipe(<contenttweaker:partcopper> * 16, <contenttweaker:case_copper>, 2);
+mods.ic2.BlockCutter.addRecipe(<contenttweaker:partinvar> * 16, <contenttweaker:case_invar>, 2);
+mods.ic2.BlockCutter.addRecipe(<contenttweaker:partelectrum> * 16, <contenttweaker:case_electrum>, 2);
+mods.ic2.BlockCutter.addRecipe(<contenttweaker:partsignalum> * 16, <contenttweaker:case_signalum>, 2);
+mods.ic2.BlockCutter.addRecipe(<contenttweaker:partenderium> * 16, <contenttweaker:case_enderium>, 2);
