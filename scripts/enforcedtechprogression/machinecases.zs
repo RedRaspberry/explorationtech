@@ -2,7 +2,7 @@ import crafttweaker.item.IIngredient;
 import crafttweaker.oredict.IOreDictEntry;
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IItemCondition;
-import mods.ic2.BlockCutter;
+#import mods.ic2.BlockCutter;
 
 #Add tiered machine cases
 recipes.addShaped("CoT_copper_case", <contenttweaker:case_copper>, [
@@ -38,13 +38,13 @@ recipes.addShapeless("cot_copper_part"+sawtier, <contenttweaker:partcopper> * 16
 recipes.addShapeless("cot_invar_part"+sawtier, <contenttweaker:partinvar> * 16, [item.transformDamage(), <contenttweaker:case_invar>]);
 recipes.addShapeless("cot_electrum_part"+sawtier, <contenttweaker:partelectrum> * 16, [item.transformDamage(), <contenttweaker:case_electrum>]);
 recipes.addShapeless("cot_signalum_part"+sawtier, <contenttweaker:partsignalum> * 16, [item.transformDamage(), <contenttweaker:case_signalum>]);
-recipes.addShapeless("cot_enderium_part"+sawtier, <contenttweaker:partenderium> * 16, [item.transformDamage(), <contenttweaker:case_enderium>]);
+recipes.addShapeless("CoT_enderium_part"+sawtier, <contenttweaker:partenderium> * 16, [item.transformDamage(), <contenttweaker:case_enderium>]);
 sawtier += 1;
 }
 
 #block cutting machine recipe for machine parts
-mods.ic2.BlockCutter.addRecipe(<contenttweaker:partcopper> * 16, <contenttweaker:case_copper>, 2);
-mods.ic2.BlockCutter.addRecipe(<contenttweaker:partinvar> * 16, <contenttweaker:case_invar>, 2);
-mods.ic2.BlockCutter.addRecipe(<contenttweaker:partelectrum> * 16, <contenttweaker:case_electrum>, 2);
-mods.ic2.BlockCutter.addRecipe(<contenttweaker:partsignalum> * 16, <contenttweaker:case_signalum>, 2);
-mods.ic2.BlockCutter.addRecipe(<contenttweaker:partenderium> * 16, <contenttweaker:case_enderium>, 2);
+#mods.ic2.BlockCutter.addRecipe(<contenttweaker:partcopper> * 16, <contenttweaker:case_copper>, 2);
+#mods.ic2.BlockCutter.addRecipe(<contenttweaker:partinvar> * 16, <contenttweaker:case_invar>, 2);
+#mods.ic2.BlockCutter.addRecipe(<contenttweaker:partelectrum> * 16, <contenttweaker:case_electrum>, 2);
+#mods.ic2.BlockCutter.addRecipe(<contenttweaker:partsignalum> * 16, <contenttweaker:case_signalum>, 2);
+#mods.ic2.BlockCutter.addRecipe(<contenttweaker:partenderium> * 16, <contenttweaker:case_enderium>, 2);
