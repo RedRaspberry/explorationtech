@@ -1,0 +1,22 @@
+<enderio:item_material>
+<enderio:item_material:1>
+<enderio:item_material:53>
+<enderio:item_material:54>
+<enderio:item_material:55>
+<enderio:item_material:66>
+<teslacorelib:machine_case>
+<thermalexpansion:frame>
+<thermalexpansion:frame:64>
+<rftools:machine_frame>
+<ic2:resource:12>
+<ic2:resource:13>
+<mekanism:basicblock:8>
+
+<immersiveengineering:mold:2>
+<immersiveengineering:mold:4>
+<immersiveengineering:blueprint>.withTag({blueprint: "molds"})
+
+
+<microblockcbe:saw_stone>
+<microblockcbe:saw_iron>
+<microblockcbe:saw_diamond>

@@ -3,6 +3,12 @@ import crafttweaker.oredict.IOreDictEntry;
 import crafttweaker.item.IItemStack;
 import mods.railcraft.RollingMachine;
 
+#remove rod and wire metal press molds
+<immersiveengineering:mold:2>
+<immersiveengineering:mold:4>
+<immersiveengineering:blueprint>.withTag({blueprint: "molds"})
+
+
 #remove all rod crafting table recipes and replace with one that provides 1/4 the output (2:1 ratio ingot->rod)
 val rods = {"iron": [<immersiveengineering:material:1>, <minecraft:iron_ingot>],
 "steel": [<immersiveengineering:material:2>, <immersiveengineering:metal:8>],

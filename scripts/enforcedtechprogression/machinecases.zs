@@ -1,8 +1,28 @@
 import crafttweaker.item.IIngredient;
 import crafttweaker.oredict.IOreDictEntry;
 import crafttweaker.item.IItemStack;
+import crafttweaker.item.IItemCondition;
 
-#Machine cases
+#remove all existing cases from all mods
+val old_cases = [<enderio:item_material>,
+  <enderio:item_material:1>,
+  <enderio:item_material:53>,
+  <enderio:item_material:54>,
+  <enderio:item_material:55>,
+  <enderio:item_material:66>,
+  <teslacorelib:machine_case>,
+  <thermalexpansion:frame>,
+  <thermalexpansion:frame:64>,
+  <rftools:machine_frame>,
+  <ic2:resource:12>,
+  <ic2:resource:13>,
+  <mekanism:basicblock:8>
+];
+for oldcase in old_cases {
+  recipes.remove(oldcase);
+}
+
+#Add tiered machine cases
 recipes.addShaped("CoT_copper_case", <contenttweaker:case_copper>, [
 [<ore:plateIron>, <minecraft:redstone>, <ore:plateIron>],
 [<ore:wireCopper>, <ore:gearCopper>, <ore:wireCopper>],
@@ -29,27 +49,12 @@ recipes.addShaped("CoT_enderium_case", <contenttweaker:case_enderium>, [
 [<simplyjetpacks:metaitemmods:6>, <contenttweaker:wireenderium>, <simplyjetpacks:metaitemmods:6>]]);
 
 #machine parts
-recipes.addShaped("cot_copper_part", <contenttweaker:partcopper> * 16, [
-[<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>],
-[<ore:ingotCopper>, <contenttweaker:case_copper>, <ore:ingotCopper>],
-[<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>]]);
+val saws = [<microblockcbe:saw_stone>, <microblockcbe:saw_iron>, <microblockcbe:saw_diamond>] as IIngredient[];
 
-recipes.addShaped("cot_invar_part", <contenttweaker:partinvar> * 16, [
-[<ore:ingotInvar>, <ore:ingotInvar>, <ore:ingotInvar>],
-[<ore:ingotInvar>, <contenttweaker:case_invar>, <ore:ingotInvar>],
-[<ore:ingotInvar>, <ore:ingotInvar>, <ore:ingotInvar>]]);
-
-recipes.addShaped("cot_electrum_part", <contenttweaker:partelectrum> * 16, [
-[<ore:ingotElectrum>, <ore:ingotElectrum>, <ore:ingotElectrum>],
-[<ore:ingotElectrum>, <contenttweaker:case_electrum>, <ore:ingotElectrum>],
-[<ore:ingotElectrum>, <ore:ingotElectrum>, <ore:ingotElectrum>]]);
-
-recipes.addShaped("cot_signalum_part", <contenttweaker:partsignalum> * 16, [
-[<ore:ingotSignalum>, <ore:ingotSignalum>, <ore:ingotSignalum>],
-[<ore:ingotSignalum>, <contenttweaker:case_signalum>, <ore:ingotSignalum>],
-[<ore:ingotSignalum>, <ore:ingotSignalum>, <ore:ingotSignalum>]]);
-
-recipes.addShaped("cot_enderium_part", <contenttweaker:partenderium> * 16, [
-[<ore:ingotEnderium>, <ore:ingotEnderium>, <ore:ingotEnderium>],
-[<ore:ingotEnderium>, <contenttweaker:case_enderium>, <ore:ingotEnderium>],
-[<ore:ingotEnderium>, <ore:ingotEnderium>, <ore:ingotEnderium>]]);
+for item in saws {
+recipes.addShapeless("cot_copper_part", <contenttweaker:partcopper> * 16, [item.transformDamage(), <contenttweaker:case_copper>]);
+recipes.addShapeless("cot_invar_part", <contenttweaker:partinvar> * 16, [item.transformDamage(), <contenttweaker:case_invar>]);
+recipes.addShapeless("cot_electrum_part", <contenttweaker:partelectrum> * 16, [item.transformDamage(), <contenttweaker:case_electrum>]);
+recipes.addShapeless("cot_signalum_part", <contenttweaker:partsignalum> * 16, [item.transformDamage(), <contenttweaker:case_signalum>]);
+recipes.addShapeless("CoT_enderium_part", <contenttweaker:partenderium> * 16, [item.transformDamage(), <contenttweaker:case_enderium>]);
+}

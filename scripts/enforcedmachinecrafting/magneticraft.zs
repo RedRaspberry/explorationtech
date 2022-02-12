@@ -3,19 +3,19 @@ import crafttweaker.oredict.IOreDictEntry;
 import crafttweaker.item.IItemStack;
 
 #ore -> 2 dust
-var oretodust = {<minecraft:gold_ore>: <thermalfoundation:material:1>, //gold
-          <minecraft:iron_ore>: <thermalfoundation:material>, //iron
-          <immersiveengineering:ore:1>: <immersiveengineering:metal:10>, //aluminum
+var oretodust = {<minecraft:gold_ore>: <ore:dustGold>.firstItem, //gold
+          <minecraft:iron_ore>: <ore:dustIron>.firstItem, //iron
+          <immersiveengineering:ore:1>: <ore:dustAluminum>.firstItem, //aluminum
           <ic2:resource:4>: <immersiveengineering:metal:14>, //uranium
           <mekanism:oreblock>: <mekanism:dust:2>, //osmium
-          <railcraft:ore_metal:5>: <mekores:mekanismore:114>, //zinc
-          <thermalfoundation:ore>: <thermalfoundation:material:64>, //copper
-          <thermalfoundation:ore:1>: <thermalfoundation:material:65>, //tin
-          <thermalfoundation:ore:2>: <thermalfoundation:material:66>, //silver
-          <thermalfoundation:ore:3>: <thermalfoundation:material:67>, //lead
-          <thermalfoundation:ore:5>: <thermalfoundation:material:69>, //nickel
-          <tconstruct:ore>: <mekores:mekanismore:39>, //cobalt
-          <tconstruct:ore:1>: <mekores:mekanismore:44> //ardite
+          <railcraft:ore_metal:5>: <ore:dustZinc>.firstItem, //zinc
+          <thermalfoundation:ore>: <ore:dustCopper>.firstItem, //copper
+          <thermalfoundation:ore:1>: <ore:dustTin>.firstItem, //tin
+          <thermalfoundation:ore:2>: <ore:dustSilver>.firstItem, //silver
+          <thermalfoundation:ore:3>: <ore:dustLead>.firstItem, //lead
+          <thermalfoundation:ore:5>: <ore:dustNickel>.firstItem, //nickel
+          <tconstruct:ore>: <ore:dustCobalt>.firstItem, //cobalt
+          <tconstruct:ore:1>: <ore:dustArdite>.firstItem //ardite
           }
           as IItemStack[IItemStack];
 for ore, dust in oretodust {
@@ -27,9 +27,9 @@ var ingottoplate = {<thermalfoundation:material:167>: <thermalfoundation:materia
                 <thermalfoundation:material:166>: <thermalfoundation:material:358>, //lumium
                 <thermalfoundation:material:165>: <thermalfoundation:material:357>, //signalium
                 <railcraft:ingot:9>: <railcraft:plate:11>, //brass
-                <thermalfoundation:material:163>: <thermalfoundation:material:355>, //bronze
-                <thermalfoundation:material:162>: <thermalfoundation:material:354>, //invar
-                <thermalfoundation:material:129>: <thermalfoundation:material:321>, //tin
+                <thermalfoundation:material:163>: <ore:plateBronze>.firstItem, //bronze
+                <thermalfoundation:material:162>: <ore:plateInvar>.firstItem, //invar
+                <thermalfoundation:material:129>: <ore:plateTin>.firstItem, //tin
                 <railcraft:ingot:8>: <railcraft:plate:10>, //zinc
                 <thaumcraft:ingot>: <thaumcraft:plate:2>, //thaumium
                 <thaumcraft:ingot:1>: <thaumcraft:plate:3>, //void metal
@@ -40,13 +40,13 @@ for ingot, plate in ingottoplate {
   mods.magneticraft.CrushingTable.addRecipe(ingot, plate, true);
 }
 #plate -> ic2 casing
-var platetocasing = {<thermalfoundation:material:355>: <ic2:casing>, //bronze
-                  <immersiveengineering:metal:30>: <ic2:casing:1>, //copper
-                  <immersiveengineering:metal:40>: <ic2:casing:2>, //gold
-                  <immersiveengineering:metal:39>: <ic2:casing:3>, //iron
-                  <immersiveengineering:metal:32>: <ic2:casing:4>, //lead
-                  <immersiveengineering:metal:38>: <ic2:casing:5>, //steel
-                  <thermalfoundation:material:321>: <ic2:casing:6> //tin
+var platetocasing = {<ore:plateBronze>.firstItem: <ic2:casing>, //bronze
+                  <ore:plateCopper>.firstItem: <ic2:casing:1>, //copper
+                  <ore:plateGold>.firstItem: <ic2:casing:2>, //gold
+                  <ore:plateIron>.firstItem: <ic2:casing:3>, //iron
+                  <ore:plateLead>.firstItem: <ic2:casing:4>, //lead
+                  <ore:plateSteel>.firstItem: <ic2:casing:5>, //steel
+                  <ore:plateTin>.firstItem: <ic2:casing:6> //tin
                   }
                   as IItemStack[IItemStack];
 for plate1, casing in platetocasing {
