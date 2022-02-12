@@ -10,10 +10,10 @@ FluidSievingMachine.add(<liquid:redstone> * 500, <redstonearsenal:material:32>, 
 FluidSievingMachine.add(<liquid:redstone> * 500, <redstonearsenal:material:32>, <thermalfoundation:material:161>);
 
 #conductive "iron"
-FluidSievingMachine.add(<liquid:redstone> * 144, <enderio:item_alloy_ingot:4>, <thermalfoundation:material:162>);
+FluidSievingMachine.add(<liquid:redstone> * 100, <enderio:item_alloy_ingot:4>, <thermalfoundation:material:162>);
 
 #redstone alloy
-FluidSievingMachine.add(<liquid:redstone> * 144, <enderio:item_alloy_ingot:3>, <appliedenergistics2:material:5>);
+FluidSievingMachine.add(<liquid:redstone> * 100, <enderio:item_alloy_ingot:3>, <appliedenergistics2:material:5>);
 
 #pulsating "iron"
-FluidSievingMachine.add(<liquid:ender> * 144, <enderio:item_alloy_ingot:5>, <enderio:item_alloy_ingot>);
+FluidSievingMachine.add(<liquid:ender> * 250, <enderio:item_alloy_ingot:5>, <enderio:item_alloy_ingot>);
