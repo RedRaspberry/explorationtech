@@ -6,5 +6,5 @@ import mods.contenttweaker.ItemList;
 
 var blockEnergizedSignalum = VanillaFactory.createBlock("blockEnergizedSignalum", <blockmaterial:iron>);
 blockEnergizedSignalum.register();
-var blockBlazingInvar = VanillaFactory.createBlock("blockBlazingInvar", <blockmaterial:lava>);
+var blockBlazingInvar = VanillaFactory.createBlock("blockBlazingInvar", <blockmaterial:iron>);
 blockBlazingInvar.register();
