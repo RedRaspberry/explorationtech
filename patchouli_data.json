@@ -1,6 +1,6 @@
 {
   "bookGuiScale": 0,
-  "clickedVisualize": false,
+  "clickedVisualize": true,
   "bookData": {
     "engineersdecor:engineersdecor_manual": {
       "viewedEntries": [
@@ -9,6 +9,51 @@
       "bookmarks": [],
       "history": [
         "engineersdecor:automation/small_milking_machine"
+      ],
+      "completedManualQuests": []
+    },
+    "cuisine:culinary_101": {
+      "viewedEntries": [
+        "cuisine:preface/credits",
+        "cuisine:preface/ingredient",
+        "cuisine:preface/rare_crop",
+        "cuisine:preface/social",
+        "cuisine:processing/basin",
+        "cuisine:processing/jar",
+        "cuisine:processing/chopping_board",
+        "cuisine:processing/mill",
+        "cuisine:processing/mortar",
+        "cuisine:preface/plant",
+        "cuisine:preface/tooltip",
+        "cuisine:ingredients/apple",
+        "cuisine:seasonings/salt",
+        "cuisine:misc/wooden_arm",
+        "cuisine:misc/fruit_trees",
+        "cuisine:misc/effect_resistance",
+        "cuisine:misc/tofu_block",
+        "cuisine:utensils/brewing",
+        "cuisine:utensils/drinkro",
+        "cuisine:utensils/plate",
+        "cuisine:utensils/wok",
+        "cuisine:utensils/bbq_rack",
+        "cuisine:utensils/fire_pit",
+        "cuisine:seasonings/sesame_oil"
+      ],
+      "bookmarks": [],
+      "history": [
+        "cuisine:seasonings/sesame_oil",
+        "cuisine:utensils/fire_pit",
+        "cuisine:utensils/bbq_rack",
+        "cuisine:utensils/wok",
+        "cuisine:utensils/plate",
+        "cuisine:utensils/drinkro",
+        "cuisine:utensils/brewing",
+        "cuisine:misc/tofu_block",
+        "cuisine:misc/effect_resistance",
+        "cuisine:misc/fruit_trees",
+        "cuisine:misc/wooden_arm",
+        "cuisine:seasonings/salt",
+        "cuisine:ingredients/apple"
       ],
       "completedManualQuests": []
     }
