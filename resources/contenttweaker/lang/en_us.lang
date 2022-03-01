@@ -11,7 +11,7 @@ tile.contenttweaker.case_invar.name=Invar Machine Casing (Tier 2)
 tile.contenttweaker.case_electrum.name=Electrum Machine Casing (Tier 3)
 tile.contenttweaker.case_signalum.name=Signalum Machine Casing (Tier 4)
 tile.contenttweaker.case_enderium.name=Enderium Machine Casing (Tier 5)
-
+tile.contenttweaker.case_stellar.name=§kStellar Machine Casing (Tier 6)
 
 item.contenttweaker.wireInvar.name=Invar Wire
 item.contenttweaker.wireSignalum.name=Signalum Wire
