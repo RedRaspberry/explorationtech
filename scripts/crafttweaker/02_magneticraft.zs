@@ -2,6 +2,29 @@ import crafttweaker.item.IIngredient;
 import crafttweaker.oredict.IOreDictEntry;
 import crafttweaker.item.IItemStack;
 
+import mods.jei.JEI.hide;
+
+#removes all crafting recipes that use the immersive hammer to make metal plates, use MGC crushing table instead
+var plateRemoval = [<ore:plateElectrum>,
+                  <ore:plateAluminum>,
+                  <ore:plateLead>,
+                  <ore:plateNickel>,
+                  <ore:plateUranium>,
+                  <ore:plateSilver>,
+                  <ore:plateCopper>,
+                  <ore:plateSteel>,
+                  <ore:plateGold>,
+                  <ore:plateBrass>,
+                  <ore:plateIron>,
+                  <ore:plateConstantan>,
+                  <ore:plateThaumium>,
+                  <ore:plateVoid>
+                  ] as IIngredient[];
+
+for item in plateRemoval {
+  recipes.removeShapeless(item, [<immersiveengineering:tool:0>]);
+  }
+
 #ore -> 2 dust
 var oretodust = {<minecraft:gold_ore>: <ore:dustGold>.firstItem, //gold
           <minecraft:iron_ore>: <ore:dustIron>.firstItem, //iron

@@ -39,3 +39,7 @@ case_enderium.setBlockResistance(1.0);
 case_enderium.setToolClass("pickaxe");
 case_enderium.setBlockSoundType(<soundtype:metal>);
 case_enderium.register();
+
+var case_stellar = VanillaFactory.createBlock("case_stellar", <blockmaterial:iron>);
+case_stellar.setBlockSoundType(<soundtype:metal>);
+case_stellar.register();

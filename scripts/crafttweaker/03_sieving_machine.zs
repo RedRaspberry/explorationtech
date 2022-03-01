@@ -6,11 +6,10 @@ import crafttweaker.item.IItemStack;
 // FluidSievingMachine.add(ILiquidStack fluidInput, IItemStack itemOutput, IItemStack sieveItemInput);
 
 #fluxed electrum
-FluidSievingMachine.add(<liquid:redstone> * 500, <redstonearsenal:material:32>, <immersiveengineering:metal:7>);
-FluidSievingMachine.add(<liquid:redstone> * 500, <redstonearsenal:material:32>, <thermalfoundation:material:161>);
+FluidSievingMachine.add(<liquid:redstone> * 500, <redstonearsenal:material:32>, <ore:ingotElectrum>.firstItem);
 
 #conductive "iron"
-FluidSievingMachine.add(<liquid:redstone> * 100, <enderio:item_alloy_ingot:4>, <thermalfoundation:material:162>);
+FluidSievingMachine.add(<liquid:redstone> * 100, <enderio:item_alloy_ingot:4>, <ore:ingotConstantan>.firstItem);
 
 #redstone alloy
 FluidSievingMachine.add(<liquid:redstone> * 100, <enderio:item_alloy_ingot:3>, <appliedenergistics2:material:5>);

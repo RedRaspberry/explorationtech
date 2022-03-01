@@ -18,7 +18,6 @@ var petalandrunecolor = { <quark:rune>: <botania:petal>,
               <quark:rune:13>: <botania:petal:13>,
               <quark:rune:14>: <botania:petal:14>,
               <quark:rune:15>: <botania:petal:15>,
-              <quark:rune:16>: <botania:petal:16>,
               }
               as IItemStack[IItemStack];
 for rune, petal in petalandrunecolor {
