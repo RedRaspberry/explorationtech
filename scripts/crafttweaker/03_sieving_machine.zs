@@ -16,3 +16,9 @@ FluidSievingMachine.add(<liquid:redstone> * 100, <enderio:item_alloy_ingot:3>, <
 
 #pulsating "iron"
 FluidSievingMachine.add(<liquid:ender> * 250, <enderio:item_alloy_ingot:5>, <enderio:item_alloy_ingot>);
+
+#blazing invar
+
+#energetic signalum
+
+#gelid enderium 
