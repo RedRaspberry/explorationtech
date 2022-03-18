@@ -95,6 +95,7 @@ key_Misc Caster Toggle:0
 key_Reload Menu | CTRL + ALT + :0
 key_Toggle Customization Overlay | CTRL + ALT + :0
 key_keybind.baublesinventory:0
+key_quark.keybind.lockBuilding:37
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -120,10 +121,8 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.lockBuilding:37
 key_quark.keybind.toggleAutojump:0
 key_keys.baubleshud.config:0
-key_key.betterquesting.quests:41
 key_keybind.openSelectionWheel:0
 key_keybind.openBaubleBag:0
 key_psimisc.keybind:25
@@ -155,10 +154,11 @@ key_key.ebwizardry.spell_6:0
 key_key.ebwizardry.spell_7:0
 key_key.ebwizardry.spell_8:0
 key_keybind.railcraft.cart.bed:0
+key_key.ftbquests.quests:0
 key_ingameinfoxml.key.toggle:24
-key_key.inventorysorter.itemin:-200
-key_key.inventorysorter.itemout:-201
 key_key.inventorysorter.sort:-98
+key_key.inventorysorter.itemout:-201
+key_key.inventorysorter.itemin:-200
 key_key.open_menu:19
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
@@ -201,7 +201,6 @@ key_key.astikorcarts.desc:0
 key_key.bookdisplay.display:23
 key_key.bookdisplay.left:205
 key_key.bookdisplay.right:203
-key_bqtweaker.key.pageback:14
 key_dsurround.cfg.keybind.AnimaniaBadges:0
 key_key.effortlessbuilding.hud.desc:78
 key_key.effortlessbuilding.replace.desc:74
@@ -224,6 +223,10 @@ key_key.inventoryhud.togglepot:0
 key_key.inventoryhud.togglearm:0
 key_key.inventoryhud.toggleall:0
 key_keywizard.keybind.openKeyboardWizard:0
+key_key.music_player_gui:82
+key_key.music_player_toggle:80
+key_key.music_player_next:81
+key_key.music_player_previous:79
 key_mxtune.key.openParty:0
 key_mxtune.key.openMusicOptions:0
 key_keybind.simplyjetpacks.gui:0
@@ -293,15 +296,15 @@ key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
-soundCategory_master:0.20198676
+soundCategory_master:0.38741723
 soundCategory_music:0.0
 soundCategory_record:1.0
-soundCategory_weather:1.0
-soundCategory_block:1.0
+soundCategory_weather:0.6126761
+soundCategory_block:0.57746476
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
-soundCategory_ambient:1.0
+soundCategory_ambient:0.5492958
 soundCategory_voice:1.0
 soundCategory_ds_footsteps:0.5140845
 soundCategory_ds_biome:1.0
