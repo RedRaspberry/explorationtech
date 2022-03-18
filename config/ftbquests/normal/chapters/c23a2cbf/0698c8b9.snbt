@@ -1,0 +1,12 @@
+{
+	x: 14.0d,
+	y: -2.5d,
+	hide: true,
+	tasks: [{
+		uid: "3918ef18",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 162"
+		}]
+	}]
+}

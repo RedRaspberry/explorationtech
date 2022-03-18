@@ -1,0 +1,25 @@
+{
+	title: "Two Methods Of Alloying",
+	icon: "enderio:block_simple_alloy_smelter",
+	x: -1.5d,
+	y: -2.0d,
+	text: [
+		"Two basic methods for alloying metals: ",
+		"1. Combine two or more dusts in a crafting grid to make a blend, then smelt",
+		"2. Directly alloy two or more metals, using an EnderIO Alloy smelter, a Tinker's Smeltery, an Immersive Engineering Alloy Kiln, or any other similar method",
+		"Choose one for now, and make yourself some Invar. It's a alloy of Iron and Nickel."
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "de6551ae",
+		type: "checkmark",
+		title: "Combine metal grits to make blends",
+		icon: "thermalfoundation:material 1 98"
+	},
+	{
+		uid: "9be59cfa",
+		type: "checkmark",
+		title: "Directly combine two ingots",
+		icon: "thermalfoundation:material 1 162"
+	}]
+}

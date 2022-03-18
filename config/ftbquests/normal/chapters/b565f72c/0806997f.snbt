@@ -1,0 +1,17 @@
+{
+	title: "Simple Gear Production",
+	x: 7.5d,
+	y: 0.0d,
+	text: [
+		"The fastest way to make a gear is to shove four ingots together in a crafting table."
+	],
+	dependencies: [
+		"5cfc8d11"
+	],
+	tasks: [{
+		uid: "1194b832",
+		type: "checkmark",
+		title: "Craft a copper gear",
+		icon: "thermalfoundation:material 1 256"
+	}]
+}

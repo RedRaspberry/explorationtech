@@ -1,0 +1,17 @@
+{
+	title: "Obtain Redstone",
+	x: 1.5d,
+	y: 4.5d,
+	text: [
+		"Look low in the world- around y=30 and below."
+	],
+	dependencies: [
+		"c0ead0d7"
+	],
+	tasks: [{
+		uid: "089eb042",
+		type: "checkmark",
+		title: "Redstone",
+		icon: "minecraft:redstone"
+	}]
+}

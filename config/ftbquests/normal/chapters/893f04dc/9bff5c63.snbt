@@ -1,0 +1,13 @@
+{
+	title: "Wax",
+	icon: "harvestcraft:waxcombitem",
+	x: -1.0d,
+	y: 4.5d,
+	dependencies: [
+		"f0d5a03a"
+	],
+	tasks: [{
+		uid: "90f0eb1e",
+		type: "checkmark"
+	}]
+}

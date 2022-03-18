@@ -1,0 +1,92 @@
+{
+	title: "Cuisine",
+	icon: "cuisine:fire_pit 1 1",
+	x: 11.0d,
+	y: -2.5d,
+	dependencies: [
+		"7aa0c8e8"
+	],
+	tasks: [{
+		uid: "9107e3f5",
+		type: "item",
+		items: [{
+			item: "minecraft:bread"
+		}],
+		count: 6L
+	},
+	{
+		uid: "fcc7628f",
+		type: "item",
+		items: [{
+			item: "minecraft:apple"
+		}],
+		count: 12L
+	},
+	{
+		uid: "c55cb7b4",
+		type: "item",
+		items: [{
+			item: "minecraft:cooked_chicken"
+		}]
+	},
+	{
+		uid: "44f207f0",
+		type: "item",
+		items: [{
+			item: "minecraft:cooked_fish 1 1"
+		}],
+		count: 3L
+	},
+	{
+		uid: "0d69d978",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal 1 39"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "6499defc",
+		type: "item",
+		item: "cuisine:crops 1 18",
+		count: 3
+	},
+	{
+		uid: "dee6367e",
+		type: "item",
+		item: "cuisine:sapling 1 4",
+		count: 5
+	},
+	{
+		uid: "35c52d04",
+		type: "item",
+		item: "cuisine:crops 1 4",
+		count: 6
+	},
+	{
+		uid: "2f57b520",
+		type: "item",
+		item: "cuisine:food 1 14",
+		count: 2
+	},
+	{
+		uid: "993e1692",
+		type: "item",
+		item: "cuisine:wok"
+	},
+	{
+		uid: "a3e338ff",
+		type: "item",
+		item: "cuisine:fire_pit"
+	},
+	{
+		uid: "8ba6350d",
+		type: "item",
+		item: "cuisine:iron_spatula"
+	},
+	{
+		uid: "6ab1db09",
+		type: "item",
+		item: "cuisine:crops"
+	}]
+}

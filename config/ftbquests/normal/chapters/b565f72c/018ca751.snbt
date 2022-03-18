@@ -1,0 +1,14 @@
+{
+	title: "Obtain Iron",
+	x: 3.5d,
+	y: 1.0d,
+	dependencies: [
+		"c0ead0d7"
+	],
+	tasks: [{
+		uid: "49ab463d",
+		type: "checkmark",
+		title: "Iron Ore",
+		icon: "minecraft:iron_ore"
+	}]
+}

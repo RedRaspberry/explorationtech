@@ -1,0 +1,84 @@
+{
+	title: "Musical II",
+	icon: "minecraft:noteblock",
+	x: 13.5d,
+	y: -0.5d,
+	dependencies: [
+		"afe8e53a"
+	],
+	tasks: [{
+		uid: "9a64a5ae",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond"
+		}],
+		count: 16L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "fc55edb1",
+		type: "item",
+		item: "minecraft:noteblock",
+		count: 8
+	},
+	{
+		uid: "8d086224",
+		type: "item",
+		item: {
+			id: "bard_mania:banjo",
+			tag: {
+				RepairCost: -1
+			}
+		}
+	},
+	{
+		uid: "e417e273",
+		type: "item",
+		item: {
+			id: "bard_mania:flute",
+			tag: {
+				RepairCost: -1
+			}
+		}
+	},
+	{
+		uid: "bda083e8",
+		type: "item",
+		item: {
+			id: "bard_mania:marching_drums",
+			tag: {
+				RepairCost: -1
+			}
+		}
+	},
+	{
+		uid: "1e46adad",
+		type: "item",
+		item: {
+			id: "bard_mania:lyre",
+			tag: {
+				RepairCost: -1
+			}
+		}
+	},
+	{
+		uid: "031411c1",
+		type: "item",
+		item: {
+			id: "bard_mania:recorder",
+			tag: {
+				RepairCost: -1
+			}
+		}
+	},
+	{
+		uid: "a908126d",
+		type: "item",
+		item: {
+			id: "bard_mania:xylophone",
+			tag: {
+				RepairCost: -1
+			}
+		}
+	}]
+}

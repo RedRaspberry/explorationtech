@@ -1,0 +1,103 @@
+{
+	title: "Books!",
+	icon: "akashictome:tome",
+	x: -3.0d,
+	y: -2.5d,
+	description: "Lose your Akashic Tome in lava? Grab a new one here",
+	text: [
+		"Thaumcraft not included."
+	],
+	can_repeat: true,
+	optional: true,
+	tasks: [{
+		uid: "0e7f8469",
+		type: "xp",
+		value: 10L,
+		points: false
+	}],
+	rewards: [{
+		uid: "4559c304",
+		type: "item",
+		item: "solcarrot:food_book"
+	},
+	{
+		uid: "6ea8d1b3",
+		type: "item",
+		item: "aether_legacy:lore_book"
+	},
+	{
+		uid: "9e909e42",
+		type: "item",
+		item: {
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "twilightforest:guide"
+			}
+		}
+	},
+	{
+		uid: "4d46c6ec",
+		type: "item",
+		item: "ftbquests:book"
+	},
+	{
+		uid: "4f80c6f0",
+		type: "item",
+		item: "animania:animania_manual"
+	},
+	{
+		uid: "117cf7ee",
+		type: "item",
+		item: "immersiveengineering:tool 1 3"
+	},
+	{
+		uid: "b98c66db",
+		type: "item",
+		item: "industrialforegoing:book_manual"
+	},
+	{
+		uid: "0f32bc35",
+		type: "item",
+		item: "cuisine:manual"
+	},
+	{
+		uid: "1ee44072",
+		type: "item",
+		item: "tconstruct:book"
+	},
+	{
+		uid: "790fbcbc",
+		type: "item",
+		item: "conarm:book"
+	},
+	{
+		uid: "140bb6de",
+		type: "item",
+		item: "opencomputers:tool 1 4"
+	},
+	{
+		uid: "a1b592c5",
+		type: "item",
+		item: "rftools:rftools_manual"
+	},
+	{
+		uid: "2b1ca905",
+		type: "item",
+		item: "rftools:rftools_shape_manual"
+	},
+	{
+		uid: "12718a4e",
+		type: "item",
+		item: "rftoolscontrol:rftoolscontrol_manual"
+	},
+	{
+		uid: "cfd6b85e",
+		type: "item",
+		item: "akashictome:tome"
+	},
+	{
+		uid: "ca554fae",
+		type: "item",
+		item: "ebwizardry:wizard_handbook"
+	}]
+}

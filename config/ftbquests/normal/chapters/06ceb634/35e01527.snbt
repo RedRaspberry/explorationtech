@@ -1,0 +1,9 @@
+{
+	title: "Rod Production",
+	icon: "immersiveengineering:material 1 2",
+	x: 1.5d,
+	y: 1.0d,
+	dependencies: [
+		"1ac4faca"
+	]
+}

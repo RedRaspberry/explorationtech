@@ -1,0 +1,10 @@
+{
+	title: "Melter",
+	icon: "tcomplement:melter",
+	x: 1.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "705e185e",
+		type: "checkmark"
+	}]
+}

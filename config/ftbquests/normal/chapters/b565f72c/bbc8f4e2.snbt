@@ -1,0 +1,24 @@
+{
+	title: "Yummy Copper Wires",
+	x: 6.0d,
+	y: 1.5d,
+	text: [
+		"Copper is one of very few metals soft enough for you to simply cut it into wires. Although, be on the lookout for better methods of making them later on"
+	],
+	dependencies: [
+		"ced4a6b4",
+		"5cfc8d11"
+	],
+	tasks: [{
+		uid: "87f947bb",
+		type: "checkmark",
+		title: "Cut a copper plate into wires using wirecutters",
+		icon: {
+			id: "industrialwires:ic2_wire_coil",
+			Damage: 1s,
+			tag: {
+				wireLength: 1024
+			}
+		}
+	}]
+}

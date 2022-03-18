@@ -1,0 +1,19 @@
+{
+	title: "Naphtha",
+	icon: {
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "refined_oil",
+			Amount: 1000
+		}
+	},
+	x: -1.0d,
+	y: -0.5d,
+	dependencies: [
+		"f0d5a03a"
+	],
+	tasks: [{
+		uid: "f0bffb95",
+		type: "checkmark"
+	}]
+}

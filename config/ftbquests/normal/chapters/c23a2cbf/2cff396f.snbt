@@ -1,0 +1,12 @@
+{
+	x: 14.5d,
+	y: -3.0d,
+	hide: true,
+	tasks: [{
+		uid: "e83cf645",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal 1 8"
+		}]
+	}]
+}

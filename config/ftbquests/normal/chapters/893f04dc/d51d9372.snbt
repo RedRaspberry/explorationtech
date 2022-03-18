@@ -1,0 +1,17 @@
+{
+	title: "Collecting Crude Oil",
+	x: -4.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "f78f3dfb",
+		type: "checkmark",
+		title: "Collect Crude Oil",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "oil",
+				Amount: 1000
+			}
+		}
+	}]
+}

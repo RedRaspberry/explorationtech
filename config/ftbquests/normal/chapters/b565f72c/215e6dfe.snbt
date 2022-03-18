@@ -1,0 +1,11 @@
+{
+	title: "Hammer Time!",
+	x: 2.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "db264d28",
+		type: "checkmark",
+		title: "Craft a Crushing Table",
+		icon: "magneticraft:crushing_table"
+	}]
+}

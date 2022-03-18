@@ -1,0 +1,13 @@
+{
+	title: "Sulfur",
+	icon: "immersiveengineering:material 1 25",
+	x: -1.0d,
+	y: -2.5d,
+	dependencies: [
+		"f0d5a03a"
+	],
+	tasks: [{
+		uid: "947050ec",
+		type: "checkmark"
+	}]
+}

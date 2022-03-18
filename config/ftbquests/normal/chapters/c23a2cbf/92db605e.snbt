@@ -1,0 +1,11 @@
+{
+	title: "Aether Materials",
+	icon: "aether_legacy:aercloud 1 1",
+	x: 3.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "124f2706",
+		type: "dimension",
+		dim: 4
+	}]
+}

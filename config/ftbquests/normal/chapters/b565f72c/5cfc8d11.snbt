@@ -1,0 +1,14 @@
+{
+	title: "Obtain Copper",
+	x: 4.5d,
+	y: 0.0d,
+	dependencies: [
+		"c0ead0d7"
+	],
+	tasks: [{
+		uid: "0bffc592",
+		type: "checkmark",
+		title: "Copper Ore",
+		icon: "thermalfoundation:ore"
+	}]
+}

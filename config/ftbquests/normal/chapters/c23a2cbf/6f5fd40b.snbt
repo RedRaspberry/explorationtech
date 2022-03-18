@@ -1,0 +1,67 @@
+{
+	title: "Metals I",
+	icon: "minecraft:iron_ingot",
+	x: 13.0d,
+	y: -2.5d,
+	description: "This one is basically cheating.",
+	dependencies: [
+		"7aa0c8e8",
+		"f670c985"
+	],
+	tasks: [{
+		uid: "1c9f4139",
+		type: "item",
+		items: [{
+			item: "minecraft:emerald"
+		}],
+		count: 20L
+	}],
+	rewards: [{
+		uid: "ede62c9a",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 10
+	},
+	{
+		uid: "629a735e",
+		type: "item",
+		item: "immersiveengineering:metal",
+		count: 16
+	},
+	{
+		uid: "9f76c208",
+		type: "item",
+		item: "minecraft:gold_ingot",
+		count: 6
+	},
+	{
+		uid: "988bec36",
+		type: "item",
+		item: "immersiveengineering:metal 1 3",
+		count: 4
+	},
+	{
+		uid: "132dfb93",
+		type: "item",
+		item: "immersiveengineering:metal 1 1",
+		count: 6
+	},
+	{
+		uid: "38e3d3eb",
+		type: "item",
+		item: "thermalfoundation:material 1 129",
+		count: 4
+	},
+	{
+		uid: "bbb1519c",
+		type: "item",
+		item: "immersiveengineering:metal 1 2",
+		count: 3
+	},
+	{
+		uid: "3b5389a1",
+		type: "item",
+		item: "immersiveengineering:metal 1 4",
+		count: 2
+	}]
+}

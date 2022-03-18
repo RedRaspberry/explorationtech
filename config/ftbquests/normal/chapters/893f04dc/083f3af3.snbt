@@ -1,0 +1,13 @@
+{
+	title: "Lubricant",
+	icon: "immersivepetroleum:oil_can",
+	x: -1.0d,
+	y: 0.5d,
+	dependencies: [
+		"f0d5a03a"
+	],
+	tasks: [{
+		uid: "6d7b7ad6",
+		type: "checkmark"
+	}]
+}

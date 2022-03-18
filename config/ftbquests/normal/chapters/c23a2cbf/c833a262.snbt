@@ -1,0 +1,11 @@
+{
+	title: "Ender Materials",
+	icon: "minecraft:end_portal_frame",
+	x: 9.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "974376de",
+		type: "dimension",
+		dim: 1
+	}]
+}

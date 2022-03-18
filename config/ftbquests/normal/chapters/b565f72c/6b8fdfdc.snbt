@@ -1,0 +1,40 @@
+{
+	title: "Multistep Quest",
+	x: 0.0d,
+	y: 3.0d,
+	text: [
+		"Kill a zombie, collect 6 wood slabs, and click a box, all in one quest"
+	],
+	dependencies: [
+		"0e12d08e"
+	],
+	optional: true,
+	tasks: [{
+		uid: "ac11a952",
+		type: "kill",
+		title: "Kill 1 Zombie",
+		icon: "minecraft:skull 1 2",
+		entity: "minecraft:zombie",
+		value: 1L
+	},
+	{
+		uid: "544ceb9f",
+		type: "item",
+		items: [{
+			item: "minecraft:wooden_slab"
+		}],
+		count: 6L,
+		consume_items: false,
+		only_from_crafting: false
+	},
+	{
+		uid: "34f3581a",
+		type: "checkmark",
+		title: "Click Me!"
+	}],
+	rewards: [{
+		uid: "a46e4f22",
+		type: "item",
+		item: "inspirations:edibles"
+	}]
+}

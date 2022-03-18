@@ -1,0 +1,41 @@
+{
+	title: "Copper Machine Casing",
+	x: 7.5d,
+	y: 3.0d,
+	dependencies: [
+		"ced4a6b4",
+		"0806997f",
+		"bbc8f4e2",
+		"d01ff43d"
+	],
+	tasks: [{
+		uid: "b0a4adfb",
+		type: "item",
+		items: [{
+			item: "contenttweaker:case_copper"
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "b3b05b3a",
+		type: "item",
+		item: "minecraft:iron_ore",
+		count: 4
+	},
+	{
+		uid: "b4edf84d",
+		type: "item",
+		item: "thermalfoundation:ore",
+		count: 4
+	},
+	{
+		uid: "381ec259",
+		type: "item",
+		item: "minecraft:redstone_ore"
+	},
+	{
+		uid: "939a97ab",
+		type: "item",
+		item: "harvestcraft:hamburgeritem"
+	}]
+}

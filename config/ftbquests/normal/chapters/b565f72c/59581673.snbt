@@ -1,0 +1,20 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"You can access FTB quests at any time through the Quest Book item, or from the top left of your inventory. Quests are sorted into chapters on the sidebar, and some tasks may require other tasks to complete. Try marking this checkbox as completed."
+	],
+	optional: true,
+	tasks: [{
+		uid: "1ca166f0",
+		type: "checkmark",
+		title: "Getting Started With FTB Quests"
+	}],
+	rewards: [{
+		uid: "9dc95ca7",
+		type: "item",
+		auto: "enabled",
+		item: "minecraft:bread",
+		count: 6
+	}]
+}

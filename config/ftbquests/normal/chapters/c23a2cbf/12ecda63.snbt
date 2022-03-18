@@ -1,0 +1,104 @@
+{
+	title: "Tools and Armor I",
+	icon: "minecraft:stone_sword",
+	x: 12.5d,
+	y: -3.5d,
+	dependencies: [
+		"7aa0c8e8"
+	],
+	tasks: [{
+		uid: "a86c4430",
+		type: "item",
+		items: [{
+			item: "minecraft:leather"
+		}],
+		count: 6L,
+		consume_items: true
+	},
+	{
+		uid: "bd1e9aef",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal 1 38"
+		}],
+		count: 16L,
+		consume_items: true
+	},
+	{
+		uid: "caa54553",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal 1 39"
+		}],
+		count: 10L,
+		consume_items: true
+	},
+	{
+		uid: "3f82d3b6",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:tool"
+		}],
+		consume_items: false,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "41014f5c",
+		type: "item",
+		item: "immersiveengineering:sword_steel"
+	},
+	{
+		uid: "c8577a68",
+		type: "item",
+		item: "immersiveengineering:pickaxe_steel"
+	},
+	{
+		uid: "8d299635",
+		type: "item",
+		item: "minecraft:iron_horse_armor"
+	},
+	{
+		uid: "aff4303f",
+		type: "item",
+		item: "minecraft:iron_chestplate"
+	},
+	{
+		uid: "975d8da7",
+		type: "item",
+		item: "minecraft:iron_leggings"
+	},
+	{
+		uid: "5189df9a",
+		type: "item",
+		item: "minecraft:iron_boots"
+	},
+	{
+		uid: "b2f008e5",
+		type: "item",
+		item: "minecraft:iron_helmet"
+	},
+	{
+		uid: "7d7487ad",
+		type: "item",
+		item: "immersiveengineering:axe_steel"
+	},
+	{
+		uid: "bf87d967",
+		type: "item",
+		item: {
+			id: "immersiveengineering:shield",
+			ForgeCaps: {
+				Parent: {
+					Items: [],
+					Size: 2
+				}
+			}
+		}
+	},
+	{
+		uid: "8e45626b",
+		type: "item",
+		item: "immersiveengineering:shovel_steel"
+	}]
+}

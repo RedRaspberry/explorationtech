@@ -1,0 +1,11 @@
+{
+	title: "Atum Materials",
+	icon: "atum:radiant_beacon_framed",
+	x: 7.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "861a9ce6",
+		type: "dimension",
+		dim: 17
+	}]
+}

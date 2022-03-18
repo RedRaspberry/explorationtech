@@ -1,0 +1,34 @@
+{
+	title: "8 Emerald for 1 Sheep (Spawn Egg)",
+	icon: {
+		id: "openblocks:trophy",
+		tag: {
+			entity_id: "minecraft:sheep"
+		}
+	},
+	x: -1.5d,
+	y: -1.5d,
+	dependencies: [
+		"1c943799"
+	],
+	tasks: [{
+		uid: "2a54da02",
+		type: "item",
+		items: [{
+			item: "minecraft:emerald"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "018329ed",
+		type: "item",
+		item: {
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:sheep"
+				}
+			}
+		}
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	title: "Overworld Materials",
+	icon: "minecraft:grass",
+	x: -1.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "ef0c1802",
+		type: "dimension",
+		dim: 0
+	}]
+}

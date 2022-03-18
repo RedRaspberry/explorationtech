@@ -1,0 +1,13 @@
+{
+	title: "Bitumen",
+	icon: "immersivepetroleum:material",
+	x: -1.0d,
+	y: 3.5d,
+	dependencies: [
+		"f0d5a03a"
+	],
+	tasks: [{
+		uid: "6c487164",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "3 Nether Amethyst for 1 Wither Skeleton Skull",
+	x: 1.5d,
+	y: -1.5d,
+	can_repeat: true,
+	dependencies: [
+		"3bbbed95"
+	],
+	tasks: [{
+		uid: "116c00e8",
+		type: "item",
+		items: [{
+			item: "minecraft:skull 1 1"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "f6e3676a",
+		type: "item",
+		auto: "enabled",
+		item: "netherex:amethyst_crystal",
+		count: 3
+	}]
+}

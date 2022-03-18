@@ -1,0 +1,17 @@
+{
+	title: "Better Wire Production",
+	icon: {
+		id: "industrialwires:ic2_wire_coil",
+		Damage: 6s,
+		tag: {
+			wireLength: 1024
+		}
+	},
+	x: 1.5d,
+	y: -2.0d,
+	description: "Even more tasty!",
+	dependencies: [
+		"1ac4faca",
+		"35e01527"
+	]
+}

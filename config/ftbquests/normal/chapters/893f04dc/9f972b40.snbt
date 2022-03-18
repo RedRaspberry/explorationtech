@@ -1,0 +1,12 @@
+{
+	title: "Ethylene",
+	x: -1.0d,
+	y: -3.5d,
+	dependencies: [
+		"f0d5a03a"
+	],
+	tasks: [{
+		uid: "3749a21b",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	title: "Nether Materials",
+	icon: "minecraft:netherrack",
+	x: 1.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "c7fa1ba1",
+		type: "dimension",
+		dim: -1
+	}]
+}

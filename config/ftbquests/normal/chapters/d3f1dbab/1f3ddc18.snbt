@@ -1,0 +1,10 @@
+{
+	title: "Alloyer",
+	icon: "tcomplement:alloy_tank",
+	x: -1.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "4e7aca80",
+		type: "checkmark"
+	}]
+}

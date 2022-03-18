@@ -1,0 +1,57 @@
+{
+	title: "Basic Tools",
+	x: 1.5d,
+	y: 0.0d,
+	text: [
+		"Most mainline quests intensionally only require you to complete a checkbox task. Feel free to skip ahead, the quests are only a guide.",
+		"Although, this IS still minecraft after all. You'll need some tools to get started."
+	],
+	tasks: [{
+		uid: "c663161f",
+		type: "checkmark",
+		title: "Pickaxe",
+		icon: "minecraft:stone_pickaxe"
+	},
+	{
+		uid: "49975cb8",
+		type: "checkmark",
+		title: "Axe",
+		icon: "minecraft:stone_axe"
+	},
+	{
+		uid: "4a92e0f0",
+		type: "checkmark",
+		title: "Sword",
+		icon: "minecraft:stone_sword"
+	},
+	{
+		uid: "fa50c004",
+		type: "checkmark",
+		title: "Shovel",
+		icon: "minecraft:stone_shovel"
+	},
+	{
+		uid: "df05108f",
+		type: "checkmark",
+		title: "Hoe",
+		icon: "minecraft:stone_hoe"
+	},
+	{
+		uid: "bfca5a29",
+		type: "checkmark",
+		title: "Engineer's Hammer",
+		icon: "immersiveengineering:tool"
+	},
+	{
+		uid: "25089a1c",
+		type: "checkmark",
+		title: "Engineer's Wirecutters",
+		icon: "immersiveengineering:tool 1 1"
+	}],
+	rewards: [{
+		uid: "4178b0a7",
+		type: "item",
+		title: "Let's face it. You lied about crafting a hoe",
+		item: "minecraft:stone_hoe"
+	}]
+}

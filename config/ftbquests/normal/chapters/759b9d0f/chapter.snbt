@@ -1,0 +1,7 @@
+{
+	title: "Steel Forging",
+	icon: "immersiveengineering:storage 1 8",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

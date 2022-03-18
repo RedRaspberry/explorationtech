@@ -1,0 +1,25 @@
+{
+	title: "32x Nether Quartz for 8 Nether Amethyst",
+	icon: "minecraft:quartz",
+	x: 0.5d,
+	y: -1.5d,
+	can_repeat: true,
+	dependencies: [
+		"3bbbed95"
+	],
+	tasks: [{
+		uid: "a7668201",
+		type: "item",
+		items: [{
+			item: "netherex:amethyst_crystal"
+		}],
+		count: 8L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "6fa45988",
+		type: "item",
+		item: "minecraft:quartz",
+		count: 32
+	}]
+}

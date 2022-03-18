@@ -1,0 +1,10 @@
+{
+	title: "Fluid Sieving",
+	icon: "industrialforegoing:ore_sieve",
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "e8d5dbb0",
+		type: "checkmark"
+	}]
+}

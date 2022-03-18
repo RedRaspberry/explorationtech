@@ -1,0 +1,61 @@
+{
+	title: "Blocks I (Nether)",
+	icon: "minecraft:nether_brick",
+	x: 11.5d,
+	y: -3.5d,
+	dependencies: [
+		"7aa0c8e8"
+	],
+	tasks: [{
+		uid: "e7810732",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "netherex:amethyst_crystal"
+		}],
+		count: 40L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "b6496846",
+		type: "item",
+		item: "minecraft:nether_brick",
+		count: 32
+	},
+	{
+		uid: "e3240d16",
+		type: "item",
+		item: "minecraft:magma",
+		count: 16
+	},
+	{
+		uid: "73dd94a8",
+		type: "item",
+		item: "minecraft:soul_sand",
+		count: 6
+	},
+	{
+		uid: "26ea98de",
+		type: "item",
+		item: "minecraft:glowstone",
+		count: 10
+	},
+	{
+		uid: "5dd70413",
+		type: "item",
+		item: "netherex:basalt",
+		count: 24
+	},
+	{
+		uid: "b95d4c17",
+		type: "item",
+		item: "contenttweaker:blackstone",
+		count: 16
+	},
+	{
+		uid: "8452e101",
+		type: "item",
+		item: "contenttweaker:shroomlight",
+		count: 2
+	}]
+}

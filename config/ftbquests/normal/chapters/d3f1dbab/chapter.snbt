@@ -1,0 +1,7 @@
+{
+	title: "Tinker's Construct & Construct's Armory",
+	icon: "tconstruct:smeltery_controller",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

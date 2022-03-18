@@ -1,0 +1,27 @@
+{
+	title: "Example Quest",
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"This quest will CONSUME 16 dirt, and once completed will allow you to collect 4 Oak Planks. Try it out!"
+	],
+	dependencies: [
+		"59581673"
+	],
+	optional: true,
+	tasks: [{
+		uid: "44accd82",
+		type: "item",
+		items: [{
+			item: "minecraft:dirt"
+		}],
+		count: 16L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "77266daa",
+		type: "item",
+		item: "minecraft:planks",
+		count: 4
+	}]
+}

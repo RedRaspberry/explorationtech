@@ -1,0 +1,12 @@
+{
+	x: 14.5d,
+	y: -2.0d,
+	hide: true,
+	tasks: [{
+		uid: "66d389f7",
+		type: "item",
+		items: [{
+			item: "immersiveintelligence:material_ingot 1 1"
+		}]
+	}]
+}

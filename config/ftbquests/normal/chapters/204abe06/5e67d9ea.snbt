@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: 0.0d,
+	shape: "circle",
+	tasks: [{
+		uid: "2ab41354",
+		type: "custom",
+		title: "Iron",
+		icon: "minecraft:iron_ingot"
+	}]
+}

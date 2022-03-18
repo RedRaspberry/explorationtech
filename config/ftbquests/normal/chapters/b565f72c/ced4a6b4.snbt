@@ -1,0 +1,26 @@
+{
+	title: "Simple Plate Production",
+	x: 4.5d,
+	y: 3.0d,
+	text: [
+		"Using the crushing table, an Engineer's Hammer, and a metal ingot, you can create metal plates without the need for fancy machines.",
+		"Simply place the ingot on the table, then right click repeatedly with the hammer in your main hand. Be careful not to hit it too much- you'll make IC2 machine casings!"
+	],
+	dependencies: [
+		"215e6dfe",
+		"5cfc8d11",
+		"018ca751"
+	],
+	tasks: [{
+		uid: "5fca79dc",
+		type: "checkmark",
+		title: "Smash some iron into plates",
+		icon: "immersiveengineering:metal 1 39"
+	},
+	{
+		uid: "ce614f45",
+		type: "checkmark",
+		title: "Smash some copper into plates",
+		icon: "immersiveengineering:metal 1 30"
+	}]
+}

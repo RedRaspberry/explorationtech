@@ -1,0 +1,13 @@
+{
+	title: "Gasoline",
+	icon: "immersiveengineering:jerrycan",
+	x: -1.0d,
+	y: -1.5d,
+	dependencies: [
+		"f0d5a03a"
+	],
+	tasks: [{
+		uid: "9883a912",
+		type: "checkmark"
+	}]
+}

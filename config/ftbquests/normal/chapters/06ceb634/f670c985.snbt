@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: -3.5d,
+	dependencies: [
+		"21ff0af7",
+		"a0c137c0",
+		"94f38450"
+	],
+	tasks: [{
+		uid: "be7626f8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:case_invar"
+		}],
+		consume_items: false
+	}]
+}

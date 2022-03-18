@@ -1,0 +1,15 @@
+{
+	title: "Metal Press",
+	icon: "immersiveengineering:mold",
+	x: 0.0d,
+	y: -0.5d,
+	dependencies: [
+		"759b9d0f",
+		"35e01527"
+	],
+	optional: true,
+	tasks: [{
+		uid: "ecc2adeb",
+		type: "checkmark"
+	}]
+}

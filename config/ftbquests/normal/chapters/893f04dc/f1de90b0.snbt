@@ -1,0 +1,19 @@
+{
+	title: "Petrotheum",
+	icon: {
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "petrotheum",
+			Amount: 1000
+		}
+	},
+	x: -1.0d,
+	y: 2.5d,
+	dependencies: [
+		"f0d5a03a"
+	],
+	tasks: [{
+		uid: "fcf26866",
+		type: "checkmark"
+	}]
+}

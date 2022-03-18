@@ -1,0 +1,10 @@
+{
+	title: "Better Plate Production",
+	icon: "immersiveengineering:metal 1 38",
+	x: 0.0d,
+	y: -2.0d,
+	dependencies: [
+		"a925a7d2"
+	],
+	optional: true
+}

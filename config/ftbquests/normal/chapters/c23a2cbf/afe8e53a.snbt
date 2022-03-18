@@ -1,0 +1,57 @@
+{
+	title: "Musical I",
+	icon: "trumpetskeleton:trumpet",
+	x: 12.5d,
+	y: -1.5d,
+	dependencies: [
+		"7aa0c8e8"
+	],
+	tasks: [{
+		uid: "d472e992",
+		type: "item",
+		items: [{
+			item: "minecraft:gold_ingot"
+		}],
+		count: 32L,
+		consume_items: true
+	},
+	{
+		uid: "c96d91f7",
+		type: "item",
+		items: [{
+			item: "minecraft:glass"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "29d16d85",
+		type: "item",
+		item: "mxtune:ingredient 1 1",
+		count: 16
+	},
+	{
+		uid: "b795150d",
+		type: "item",
+		item: "mxtune:ingredient",
+		count: 16
+	},
+	{
+		uid: "1adf89ef",
+		type: "item",
+		item: "trumpetskeleton:trumpet"
+	},
+	{
+		uid: "3086356b",
+		type: "item",
+		item: {
+			id: "botania:cacophonium",
+			tag: {}
+		}
+	},
+	{
+		uid: "580dac3c",
+		type: "item",
+		item: "minecraft:noteblock",
+		count: 8
+	}]
+}

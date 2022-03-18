@@ -1,0 +1,10 @@
+{
+	title: "Metal Rolling",
+	icon: "railcraft:equipment",
+	x: 3.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "3e327524",
+		type: "checkmark"
+	}]
+}

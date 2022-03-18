@@ -1,0 +1,7 @@
+{
+	title: "Enderium",
+	icon: "thermalfoundation:storage_alloy 1 7",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

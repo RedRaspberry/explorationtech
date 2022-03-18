@@ -1,0 +1,10 @@
+{
+	title: "Smeltery",
+	icon: "tconstruct:smeltery_controller",
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "339ed4ea",
+		type: "checkmark"
+	}]
+}

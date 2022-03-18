@@ -1,0 +1,19 @@
+{
+	title: "Crude Oil Distillation",
+	icon: {
+		id: "immersivepetroleum:schematic",
+		tag: {
+			multiblock: "IP:DistillationTower"
+		}
+	},
+	x: -2.5d,
+	y: 0.5d,
+	dependencies: [
+		"d51d9372"
+	],
+	tasks: [{
+		uid: "0c124dd8",
+		type: "checkmark",
+		title: "Construct a distillation tower"
+	}]
+}

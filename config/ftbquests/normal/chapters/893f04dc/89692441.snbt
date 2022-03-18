@@ -1,0 +1,13 @@
+{
+	title: "Diesel",
+	icon: "engineersdecor:sign_firehazard",
+	x: -1.0d,
+	y: 1.5d,
+	dependencies: [
+		"f0d5a03a"
+	],
+	tasks: [{
+		uid: "9f4ecbf0",
+		type: "checkmark"
+	}]
+}

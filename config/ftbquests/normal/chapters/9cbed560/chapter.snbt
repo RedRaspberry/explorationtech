@@ -1,0 +1,7 @@
+{
+	title: "Ore Processing Methods",
+	icon: "minecraft:diamond_ore",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}
