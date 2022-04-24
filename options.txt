@@ -1,21 +1,21 @@
 version:1343
 invertYMouse:false
 mouseSensitivity:0.5
-fov:0.25
+fov:0.0
 gamma:1.0
 saturation:0.0
-renderDistance:14
+renderDistance:11
 guiScale:0
-particles:0
+particles:1
 bobView:true
 anaglyph3d:false
 maxFps:80
 fboEnable:true
 difficulty:2
 fancyGraphics:true
-ao:2
-renderClouds:false
-resourcePacks:["NTOV v1.zip","Modernity-format3-v3.5.2.zip","explorationtech_modern_resources"]
+ao:1
+renderClouds:fast
+resourcePacks:["NTOV v1.zip","Modernity-format3-v3.5.2.zip","explorationtech_modern_resources","Tinker\u0027s Tables.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -24,7 +24,7 @@ chatColors:true
 chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
-snooperEnabled:true
+snooperEnabled:false
 fullscreen:false
 enableVsync:true
 useVbo:true
@@ -47,7 +47,7 @@ entityShadows:true
 mainHand:right
 attackIndicator:1
 showSubtitles:true
-realmsNotifications:true
+realmsNotifications:false
 enableWeakAttacks:false
 autoJump:false
 narrator:0
@@ -92,6 +92,7 @@ key_Side Inventory Key:0
 key_Hub Expand Key:0
 key_Change Caster Focus:0
 key_Misc Caster Toggle:0
+key_key.craftpresence.config_keycode.name:41
 key_Reload Menu | CTRL + ALT + :0
 key_Toggle Customization Overlay | CTRL + ALT + :0
 key_keybind.baublesinventory:0
@@ -156,10 +157,9 @@ key_key.ebwizardry.spell_8:0
 key_keybind.railcraft.cart.bed:0
 key_key.ftbquests.quests:0
 key_ingameinfoxml.key.toggle:24
-key_key.inventorysorter.sort:-98
-key_key.inventorysorter.itemout:-201
 key_key.inventorysorter.itemin:-200
-key_key.open_menu:19
+key_key.inventorysorter.itemout:-201
+key_key.inventorysorter.sort:-98
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_neat.keybind.toggle:0
@@ -223,10 +223,6 @@ key_key.inventoryhud.togglepot:0
 key_key.inventoryhud.togglearm:0
 key_key.inventoryhud.toggleall:0
 key_keywizard.keybind.openKeyboardWizard:0
-key_key.music_player_gui:82
-key_key.music_player_toggle:80
-key_key.music_player_next:81
-key_key.music_player_previous:79
 key_mxtune.key.openParty:0
 key_mxtune.key.openMusicOptions:0
 key_keybind.simplyjetpacks.gui:0
@@ -242,6 +238,8 @@ key_key.plustic_toggle_tool.desc:0
 key_key.plustic_fruit_salad.desc:0
 key_key.plustic_mots.desc:0
 key_xreliquary.keybind.fortune_coin:0
+key_key.carpet_forward:17
+key_key.carpet_backward:31
 key_gui.xaero_switch_waypoint_set:0
 key_gui.xaero_instant_waypoint:0
 key_gui.xaero_toggle_slime:0
@@ -258,6 +256,7 @@ key_gui.xaero_display_all_sets:0
 key_gui.xaero_toggle_light_overlay:0
 key_gui.xaero_toggle_entity_radar:0
 key_gui.xaero_reverse_entity_radar:0
+key_gui.xaero_toggle_manual_cave_mode:0
 key_gui.xaero_minimap_settings:50:CONTROL
 key_gui.xaero_open_map:50
 key_gui.xaero_open_settings:50:SHIFT
@@ -296,15 +295,15 @@ key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
-soundCategory_master:0.38741723
-soundCategory_music:0.0
+soundCategory_master:0.10927153
+soundCategory_music:0.049295776
 soundCategory_record:1.0
 soundCategory_weather:0.6126761
 soundCategory_block:0.57746476
 soundCategory_hostile:1.0
-soundCategory_neutral:1.0
+soundCategory_neutral:0.44366196
 soundCategory_player:1.0
-soundCategory_ambient:0.5492958
+soundCategory_ambient:0.4084507
 soundCategory_voice:1.0
 soundCategory_ds_footsteps:0.5140845
 soundCategory_ds_biome:1.0
