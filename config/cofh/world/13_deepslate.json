@@ -1,0 +1,45 @@
+{
+  "priority": 100000000000,
+	"populate": {
+		"deepslate": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "backportedblocks:deepslate",
+				"material": "minecraft:stone",
+				"cluster-size": 1
+			},
+			"cluster-count": 15000,
+			"min-height": 0,
+			"max-height": 19,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"tuff": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "backportedblocks:tuff",
+				"material": "backportedblocks:deepslate",
+				"cluster-size": 12
+			},
+			"cluster-count": 5,
+			"min-height": 0,
+			"max-height": 19,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+  }
+}
