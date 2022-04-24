@@ -1,6 +1,5 @@
 {
   "populate": {
-
     "iron_andersite": {
       "enabled": "true",
       "distribution": "uniform",
@@ -38,7 +37,6 @@
       ]
     }
   },
-
     "copper_granite": {
       "enabled": "true",
       "distribution": "uniform",
@@ -79,7 +77,6 @@
       ]
     }
   },
-
     "copper_granite_bauxite": {
       "enabled": "true",
       "distribution": "uniform",
@@ -102,7 +99,8 @@
           },
           {
             "name": "immersiveengineering:ore",
-            "metadata": 1
+            "metadata": 1,
+            "weight": 13
           }
       ],
       "material": "minecraft:stone",
@@ -124,7 +122,6 @@
         ]
       }
     },
-
     "slate_tin_lead_silver": {
       "enabled": "true",
       "distribution": "uniform",
@@ -176,7 +173,6 @@
         ]
       }
     },
-
     "coal_coalblock": {
       "enabled": "true",
       "distribution": "uniform",
@@ -217,7 +213,6 @@
         ]
       }
     },
-
     "limestone_gold": {
       "enabled": "true",
       "distribution": "uniform",
@@ -252,7 +247,6 @@
           1
         ]
       }
-    }
-
+    },
   }
 }

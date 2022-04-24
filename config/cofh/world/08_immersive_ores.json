@@ -23,6 +23,30 @@
           1
         ]
       }
+    },
+    "tungsten": {
+      "enabled": "true",
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "immersiveintelligence:ore",
+          "metadata": 2
+        },
+        "material": "minecraft:stone",
+        "cluster-size": 4
+      },
+      "cluster-count": 2,
+      "min-height": 7,
+      "max-height": 21,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          -1,
+          1
+        ]
+      }
     }
   }
 }
