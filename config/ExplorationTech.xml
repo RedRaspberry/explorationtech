@@ -1,1 +1,85 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?> <config> <lines at="topleft"> <line> <icon> <str>sereneseasons:textures/items/ss_icon.png</str> <op> <!-- iconx --> <str>eq</str> <var>sereneseasonscurrentseasonord</var> <num>0</num> <num>1</num> <num>2</num> <num>3</num> <num>0</num> <num>16</num> <num>16</num> <num>0</num> <num>0</num> </op> <op> <!-- icony --> <str>eq</str> <var>sereneseasonscurrentseasonord</var> <num>0</num> <num>1</num> <num>2</num> <num>3</num> <num>0</num> <num>0</num> <num>16</num> <num>16</num> <num>0</num> </op> <num>16</num> <!-- iconwidth --> <num>16</num> <!-- iconheight --> <num>32</num> <!-- texwidth --> <num>32</num> <!-- texheight --> </icon> <op> <str>eq</str> <var>sereneseasonscurrentseasonord</var> <num>0</num> <num>1</num> <num>2</num> <num>3</num> <str> Spring</str> <str> Summer</str> <str> Autumn</str> <str> Winter</str> <str> Error</str> </op> <str>, Day </str> <add> <var>sereneseasonsdayofseason</var> <num>1</num> </add> <str>, {mctime} </str> <if> <var>daytime</var> <str>($eD$f)</str> <str>($8N$f)</str> </if> </line> </lines> </config>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+  <lines at="topleft">
+    <line>
+      <icon>
+        <str>sereneseasons:textures/items/ss_icon.png</str>
+        <op> <!-- iconx -->
+          <str>eq</str>
+          <var>sereneseasonscurrentseasonord</var>
+          <num>0</num>
+          <num>1</num>
+          <num>2</num>
+          <num>3</num>
+          <num>0</num>
+          <num>16</num>
+          <num>16</num>
+          <num>0</num>
+          <num>0</num>
+        </op>
+        <op> <!-- icony -->
+          <str>eq</str>
+          <var>sereneseasonscurrentseasonord</var>
+          <num>0</num>
+          <num>1</num>
+          <num>2</num>
+          <num>3</num>
+          <num>0</num>
+          <num>0</num>
+          <num>16</num>
+          <num>16</num>
+          <num>0</num>
+        </op>
+          <num>16</num> <!-- iconwidth -->
+          <num>16</num> <!-- iconheight -->
+          <num>32</num> <!-- texwidth -->
+          <num>32</num> <!-- texheight -->
+      </icon>
+        <op>
+          <str>eq</str>
+          <var>sereneseasonscurrentseasonord</var>
+          <num>0</num>
+          <num>1</num>
+          <num>2</num>
+          <num>3</num>
+          <str> Spring</str>
+          <str> Summer</str>
+          <str> Autumn</str>
+          <str> Winter</str>
+          <str> Error</str>
+        </op>
+        <str>, Day </str>
+        <add>
+          <var>sereneseasonsdayofseason</var>
+          <num>1</num>
+        </add>
+        <str>, {mctime} </str>
+        <if>
+          <var>daytime</var>
+          <str>($eD$f)</str>
+          <str>($8N$f)</str>
+        </if>
+      </line>
+
+      <line>
+        <str>$f{biome}, </str>
+        <operation>
+           <str>gt</str>
+           <var>fps</var>
+           <num>55</num>
+           <num>45</num>
+           <num>30</num>
+           <num>15</num>
+           <num>0</num>
+           <str>$a</str>
+           <str>$e</str>
+           <str>$6</str>
+           <str>$c</str>
+           <str>$4</str>
+           <str/>
+         </operation>
+         <var>fps</var>
+         <str> fps</str>
+      </line>
+  </lines>
+</config>
