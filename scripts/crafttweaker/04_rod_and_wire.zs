@@ -77,10 +77,24 @@ enderium.addItemOutput(<contenttweaker:rodenderium> * 2);
 enderium.build();
 
 #wires
-#<immersiveengineering:material:20>
-#<immersiveengineering:material:21>
-#<immersiveengineering:material:22>
-#<immersiveengineering:material:23>
-#<contenttweaker:wireinvar>
-#<contenttweaker:wiresignalum>
-#<contenttweaker:wireenderium>
+var wires = {"copper": [<immersiveengineering:material:20>, <ore:stickCopper>.firstItem],
+"electrum": [<immersiveengineering:material:21>, <ore:stickElectrum>.firstItem],
+"aluminium": [<immersiveengineering:material:22>, <ore:stickAluminium>.firstItem],
+"steel": [<immersiveengineering:material:23>, <ore:stickSteel>.firstItem],
+"invar": [<contenttweaker:wireinvar>, <contenttweaker:rodinvar>],
+"signalum": [<contenttweaker:wiresignalum>, <contenttweaker:rodsignalum>],
+"enderium": [<contenttweaker:wireenderium>, <contenttweaker:rodenderium>]} as IItemStack[][string];
+
+for key, item in wires {
+
+  RollingMachine.addShaped("ct_"+key+"_wire_rm", item[0] * 2,
+  [ [null, null, null] , [null, item[1], null] , [null, null, null] ]);
+
+#multiblock rolling machine 2 ingots -> 4 rods
+#  var wirembrm = mods.modularmachinery.RecipeBuilder.newBuilder("ct_"+key+"wire_mbrm", "rolling_machine", 1000, 0);
+
+#  wirembrm.addEnergyPerTickInput(40);
+#  wirembrm.addItemInput(item[1]);
+#  wirembrm.addItemOutput(item[0] * 3);
+#  wirembrm.build();
+  }
