@@ -1,3 +1,4 @@
+sheetmetal
 dustTiny
 gem
 crushedPurified
@@ -19,15 +20,19 @@ wire
 slabSheetmetal
 dye
 scaffolding
+artisansTool
 ingot
 stick
 shard
+motorBelt
+boule
 slab
 nugget
 itemGrindingBall
 ore
 clump
 fence
+spring
 crystal
 crushed
 coin

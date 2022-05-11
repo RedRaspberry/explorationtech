@@ -3,55 +3,55 @@ Salt
 
 Platinum
 	dustPlatinum
-	gearPlatinum
 	orePlatinum
 	nuggetPlatinum
 	platePlatinum
+	gearPlatinum
 	blockPlatinum
 	ingotPlatinum
 
 Tin
 	dustTinyTin
 	dustTin
-	gearTin
 	oreTin
 	nuggetTin
 	plateTin
+	gearTin
 	blockTin
 	ingotTin
 
 Nickel
 	dustNickel
-	gearNickel
 	oreNickel
 	nuggetNickel
 	plateNickel
+	gearNickel
 	blockNickel
 	ingotNickel
 
 Invar
 	dustInvar
-	gearInvar
 	nuggetInvar
 	plateInvar
+	gearInvar
 	blockInvar
 	ingotInvar
 
 Silver
 	dustTinySilver
 	dustSilver
-	gearSilver
 	oreSilver
 	nuggetSilver
 	plateSilver
+	gearSilver
 	blockSilver
 	ingotSilver
 
 Steel
 	dustSteel
-	gearSteel
 	nuggetSteel
 	plateSteel
+	gearSteel
 	blockSteel
 	ingotSteel
 
@@ -75,19 +75,19 @@ Stone
 
 Electrum
 	dustElectrum
-	gearElectrum
 	nuggetElectrum
 	plateElectrum
+	gearElectrum
 	blockElectrum
 	ingotElectrum
 
 Iron
 	dustTinyIron
 	dustIron
-	gearIron
 	oreIron
 	nuggetIron
 	plateIron
+	gearIron
 	blockIron
 	ingotIron
 
@@ -96,43 +96,44 @@ Obsidian
 
 Aluminum
 	dustAluminum
-	gearAluminum
 	oreAluminum
 	nuggetAluminum
 	plateAluminum
+	gearAluminum
 	blockAluminum
 	ingotAluminum
 
 Bronze
 	dustTinyBronze
 	dustBronze
-	gearBronze
 	nuggetBronze
 	plateBronze
+	gearBronze
 	blockBronze
 	ingotBronze
 
 Constantan
 	dustConstantan
-	gearConstantan
 	nuggetConstantan
 	plateConstantan
+	gearConstantan
 	blockConstantan
 	ingotConstantan
 
 Iridium
 	dustIridium
-	gearIridium
 	oreIridium
 	nuggetIridium
 	plateIridium
+	gearIridium
 	blockIridium
 	ingotIridium
 
 Brass
-	gearBrass
+	dustBrass
 	nuggetBrass
 	plateBrass
+	gearBrass
 	blockBrass
 	ingotBrass
 
@@ -153,30 +154,30 @@ Sulfur
 Lead
 	dustTinyLead
 	dustLead
-	gearLead
 	oreLead
 	nuggetLead
 	plateLead
+	gearLead
 	blockLead
 	ingotLead
 
 Gold
 	dustTinyGold
 	dustGold
-	gearGold
 	oreGold
 	nuggetGold
 	plateGold
+	gearGold
 	blockGold
 	ingotGold
 
 Copper
 	dustTinyCopper
 	dustCopper
-	gearCopper
 	oreCopper
 	nuggetCopper
 	plateCopper
+	gearCopper
 	blockCopper
 	ingotCopper
 

@@ -1,9 +1,9 @@
 Lumium
 	dustLumium
-	gearLumium
 	itemGrindingBallLumium
 	nuggetLumium
 	plateLumium
+	gearLumium
 	blockLumium
 	ingotLumium
 	coinLumium
@@ -23,19 +23,34 @@ Manyullyn
 	blockManyullyn
 	ingotManyullyn
 
-Iridium
-	clumpIridium
-	crystalIridium
-	shardIridium
-	dustIridium
-	gearIridium
-	oreIridium
-	dustDirtyIridium
-	nuggetIridium
-	plateIridium
-	blockIridium
-	ingotIridium
-	coinIridium
+Lead
+	crushedLead
+	clusterLead
+	orePoorLead
+	artisansToolLead
+	slabSheetmetalLead
+	clumpLead
+	crushedPurifiedLead
+	dustTinyLead
+	crystalLead
+	stickLead
+	shardLead
+	blockSheetmetalLead
+	dustLead
+	oreLead
+	dustDirtyLead
+	fenceLead
+	nuggetLead
+	plateLead
+	gearLead
+	slabLead
+	plateDenseLead
+	blockLead
+	ingotLead
+	coinLead
+
+Boron
+	artisansToolBoron
 
 ConductiveIron
 	ballConductiveIron
@@ -43,35 +58,21 @@ ConductiveIron
 	blockConductiveIron
 	ingotConductiveIron
 
-Iron
-	barsIron
-	crushedIron
-	clusterIron
-	orePoorIron
-	slabSheetmetalIron
-	clumpIron
-	crushedPurifiedIron
-	dustTinyIron
-	crystalIron
-	stickIron
-	shardIron
-	blockSheetmetalIron
-	dustIron
-	gearIron
-	oreIron
-	dustDirtyIron
-	fenceIron
-	nuggetIron
-	plateIron
-	plateDenseIron
-	blockIron
-	ingotIron
-	coinIron
+GelidEnderium
+	dustGelidEnderium
+	nuggetGelidEnderium
+	plateGelidEnderium
+	gearGelidEnderium
+	blockGelidEnderium
+	ingotGelidEnderium
+	coinGelidEnderium
 
 Psi
 	gemPsi
 	dustPsi
 	ingotPsi
+
+Tough
 
 StellarAlloy
 	ballStellarAlloy
@@ -99,6 +100,7 @@ Gold
 	crushedGold
 	clusterGold
 	orePoorGold
+	artisansToolGold
 	slabSheetmetalGold
 	clumpGold
 	crushedPurifiedGold
@@ -108,12 +110,12 @@ Gold
 	shardGold
 	blockSheetmetalGold
 	dustGold
-	gearGold
 	oreGold
 	dustDirtyGold
 	fenceGold
 	nuggetGold
 	plateGold
+	gearGold
 	plateDenseGold
 	blockGold
 	ingotGold
@@ -131,6 +133,20 @@ DarkSteel
 	blockDarkSteel
 	ingotDarkSteel
 
+Iridium
+	clumpIridium
+	crystalIridium
+	shardIridium
+	dustIridium
+	oreIridium
+	dustDirtyIridium
+	nuggetIridium
+	plateIridium
+	gearIridium
+	blockIridium
+	ingotIridium
+	coinIridium
+
 RefinedIron
 	ingotRefinedIron
 
@@ -144,22 +160,8 @@ CrudeSteel
 	blockCrudeSteel
 	ingotCrudeSteel
 
-Steel
-	scaffoldingSteel
-	wireSteel
-	slabSheetmetalSteel
-	slabSteel
-	stickSteel
-	blockSheetmetalSteel
-	dustSteel
-	gearSteel
-	fenceSteel
-	nuggetSteel
-	plateSteel
-	plateDenseSteel
-	blockSteel
-	ingotSteel
-	coinSteel
+Magnet
+	ingotMagnet
 
 Void
 	dustVoid
@@ -179,15 +181,16 @@ RefinedGlowstone
 	ingotRefinedGlowstone
 
 Constantan
+	artisansToolConstantan
 	slabSheetmetalConstantan
-	slabConstantan
 	stickConstantan
 	blockSheetmetalConstantan
 	dustConstantan
-	gearConstantan
 	fenceConstantan
 	nuggetConstantan
 	plateConstantan
+	gearConstantan
+	slabConstantan
 	blockConstantan
 	ingotConstantan
 	coinConstantan
@@ -203,13 +206,14 @@ Mirion
 Bronze
 	dustTinyBronze
 	dustBronze
-	gearBronze
 	nuggetBronze
 	plateBronze
+	gearBronze
 	plateDenseBronze
 	blockBronze
 	ingotBronze
 	coinBronze
+	artisansToolBronze
 
 Titanium
 
@@ -220,32 +224,47 @@ Tin
 	crushedTin
 	clusterTin
 	orePoorTin
+	artisansToolTin
 	clumpTin
 	crushedPurifiedTin
 	dustTinyTin
 	crystalTin
 	shardTin
 	dustTin
-	gearTin
 	oreTin
 	dustDirtyTin
 	nuggetTin
 	plateTin
+	gearTin
 	plateDenseTin
 	blockTin
 	ingotTin
 	coinTin
 
+ElectrumFlux
+	dustElectrumFlux
+	nuggetElectrumFlux
+	plateElectrumFlux
+	gearElectrumFlux
+	blockElectrumFlux
+	ingotElectrumFlux
+
 Platinum
+	sheetmetalPlatinum
+	artisansToolPlatinum
+	slabSheetmetalPlatinum
 	clumpPlatinum
 	crystalPlatinum
+	stickPlatinum
 	shardPlatinum
 	dustPlatinum
-	gearPlatinum
 	orePlatinum
 	dustDirtyPlatinum
+	fencePlatinum
 	nuggetPlatinum
 	platePlatinum
+	gearPlatinum
+	slabPlatinum
 	blockPlatinum
 	ingotPlatinum
 	coinPlatinum
@@ -262,7 +281,6 @@ Uranium
 	slabSheetmetalUranium
 	clumpUranium
 	crushedPurifiedUranium
-	slabUranium
 	crystalUranium
 	stickUranium
 	shardUranium
@@ -273,23 +291,28 @@ Uranium
 	fenceUranium
 	nuggetUranium
 	plateUranium
+	slabUranium
 	blockUranium
 	ingotUranium
 
 Electrum
 	wireElectrum
+	artisansToolElectrum
 	slabSheetmetalElectrum
-	slabElectrum
 	stickElectrum
 	blockSheetmetalElectrum
 	dustElectrum
-	gearElectrum
 	fenceElectrum
 	nuggetElectrum
 	plateElectrum
+	gearElectrum
+	slabElectrum
 	blockElectrum
 	ingotElectrum
 	coinElectrum
+
+FluixSteel
+	ingotFluixSteel
 
 Pigiron
 	nuggetPigiron
@@ -300,42 +323,45 @@ EnergeticSteel
 
 Invar
 	dustInvar
-	gearInvar
 	nuggetInvar
 	plateInvar
+	gearInvar
 	blockInvar
 	ingotInvar
 	coinInvar
+	artisansToolInvar
 
 Alumite
 	nuggetAlumite
 	blockAlumite
 	ingotAlumite
 
-Lead
-	crushedLead
-	clusterLead
-	orePoorLead
-	slabSheetmetalLead
-	clumpLead
-	crushedPurifiedLead
-	slabLead
-	dustTinyLead
-	crystalLead
-	stickLead
-	shardLead
-	blockSheetmetalLead
-	dustLead
-	gearLead
-	oreLead
-	dustDirtyLead
-	fenceLead
-	nuggetLead
-	plateLead
-	plateDenseLead
-	blockLead
-	ingotLead
-	coinLead
+Iron
+	springIron
+	barsIron
+	crushedIron
+	clusterIron
+	orePoorIron
+	artisansToolIron
+	slabSheetmetalIron
+	clumpIron
+	crushedPurifiedIron
+	dustTinyIron
+	crystalIron
+	stickIron
+	shardIron
+	blockSheetmetalIron
+	dustIron
+	oreIron
+	dustDirtyIron
+	fenceIron
+	nuggetIron
+	plateIron
+	gearIron
+	plateDenseIron
+	blockIron
+	ingotIron
+	coinIron
 
 CrystallineAlloy
 	ballCrystallineAlloy
@@ -349,18 +375,37 @@ EnergeticSilver
 	blockEnergeticSilver
 	ingotEnergeticSilver
 
+HardCarbon
+
 Tungsten
+	sheetmetalTungsten
+	wireTungsten
+	slabSheetmetalTungsten
+	clumpTungsten
+	crystalTungsten
+	stickTungsten
+	shardTungsten
+	dustTungsten
+	oreTungsten
+	dustDirtyTungsten
+	fenceTungsten
+	nuggetTungsten
+	plateTungsten
+	gearTungsten
+	slabTungsten
+	blockTungsten
+	ingotTungsten
 
 Mithril
 	clumpMithril
 	crystalMithril
 	shardMithril
 	dustMithril
-	gearMithril
 	oreMithril
 	dustDirtyMithril
 	nuggetMithril
 	plateMithril
+	gearMithril
 	blockMithril
 	ingotMithril
 	coinMithril
@@ -382,77 +427,92 @@ Plastic
 Nickel
 	clusterNickel
 	orePoorNickel
+	artisansToolNickel
 	slabSheetmetalNickel
 	clumpNickel
-	slabNickel
 	crystalNickel
 	stickNickel
 	shardNickel
 	blockSheetmetalNickel
 	dustNickel
-	gearNickel
 	oreNickel
 	dustDirtyNickel
 	fenceNickel
 	nuggetNickel
 	plateNickel
+	gearNickel
+	slabNickel
 	blockNickel
 	ingotNickel
 	coinNickel
 
 Signalum
 	dustSignalum
-	gearSignalum
 	itemGrindingBallSignalum
 	nuggetSignalum
 	plateSignalum
+	gearSignalum
 	blockSignalum
 	ingotSignalum
 	coinSignalum
 
 Brass
-	gearBrass
+	springBrass
+	sheetmetalBrass
+	wireBrass
+	slabSheetmetalBrass
+	stickBrass
+	dustBrass
+	fenceBrass
 	nuggetBrass
 	plateBrass
+	gearBrass
+	slabBrass
 	blockBrass
 	ingotBrass
 
 IvoryPsi
 	ingotIvoryPsi
 
-ElectrumFlux
-	dustElectrumFlux
-	gearElectrumFlux
-	nuggetElectrumFlux
-	plateElectrumFlux
-	blockElectrumFlux
-	ingotElectrumFlux
+AdvancedElectronicAlloy
+	dustAdvancedElectronicAlloy
+	nuggetAdvancedElectronicAlloy
+	plateAdvancedElectronicAlloy
+	ingotAdvancedElectronicAlloy
 
 Copper
 	crushedCopper
 	clusterCopper
 	wireCopper
 	orePoorCopper
+	artisansToolCopper
 	slabSheetmetalCopper
 	clumpCopper
 	crushedPurifiedCopper
-	slabCopper
 	dustTinyCopper
 	crystalCopper
 	stickCopper
 	shardCopper
 	blockSheetmetalCopper
 	dustCopper
-	gearCopper
 	oreCopper
 	dustDirtyCopper
 	fenceCopper
 	nuggetCopper
 	plateCopper
+	gearCopper
+	slabCopper
 	plateDenseCopper
 	blockCopper
 	ingotCopper
 	coinCopper
+
+Silicon
+	bouleSilicon
+	dustSilicon
+	nuggetSilicon
+	plateSilicon
+	ingotSilicon
 
 Ardite
 	clumpArdite
@@ -470,6 +530,9 @@ Alubrass
 	blockAlubrass
 	ingotAlubrass
 
+_dark_soularium
+	ingot_dark_soularium
+
 VibrantAlloy
 	ballVibrantAlloy
 	nuggetVibrantAlloy
@@ -485,6 +548,7 @@ VividAlloy
 Manasteel
 	nuggetManasteel
 	ingotManasteel
+	artisansToolManasteel
 
 ElectricalSteel
 	ballElectricalSteel
@@ -499,17 +563,42 @@ Thaumium
 	ingotThaumium
 
 Zinc
+	sheetmetalZinc
+	orePoorZinc
+	slabSheetmetalZinc
 	clumpZinc
 	crystalZinc
+	stickZinc
 	shardZinc
 	dustZinc
 	oreZinc
 	dustDirtyZinc
+	fenceZinc
 	nuggetZinc
 	plateZinc
+	slabZinc
 	blockZinc
 	ingotZinc
-	orePoorZinc
+
+Steel
+	motorBeltSteel
+	springSteel
+	scaffoldingSteel
+	wireSteel
+	artisansToolSteel
+	slabSheetmetalSteel
+	stickSteel
+	blockSheetmetalSteel
+	dustSteel
+	fenceSteel
+	nuggetSteel
+	plateSteel
+	gearSteel
+	slabSteel
+	plateDenseSteel
+	blockSteel
+	ingotSteel
+	coinSteel
 
 Tungstensteel
 
@@ -519,22 +608,23 @@ Silver
 	crushedSilver
 	clusterSilver
 	orePoorSilver
+	artisansToolSilver
 	slabSheetmetalSilver
 	clumpSilver
 	crushedPurifiedSilver
-	slabSilver
 	dustTinySilver
 	crystalSilver
 	stickSilver
 	shardSilver
 	blockSheetmetalSilver
 	dustSilver
-	gearSilver
 	oreSilver
 	dustDirtySilver
 	fenceSilver
 	nuggetSilver
 	plateSilver
+	gearSilver
+	slabSilver
 	blockSilver
 	ingotSilver
 	coinSilver
@@ -545,6 +635,7 @@ Khnumite
 Terrasteel
 	nuggetTerrasteel
 	ingotTerrasteel
+	artisansToolTerrasteel
 
 Osmium
 	clumpOsmium
@@ -556,9 +647,19 @@ Osmium
 	nuggetOsmium
 	blockOsmium
 	ingotOsmium
+	artisansToolOsmium
 
-_dark_soularium
-	ingot_dark_soularium
+Duraluminium
+	slabSheetmetalDuraluminium
+	stickDuraluminium
+	dustDuraluminium
+	slabDuraluminium
+	fenceDuraluminium
+	nuggetDuraluminium
+	plateDuraluminium
+	sheetmetalDuraluminium
+	blockDuraluminium
+	ingotDuraluminium
 
 Cobalt
 	clumpCobalt
@@ -579,30 +680,31 @@ Aluminum
 	scaffoldingAluminum
 	clusterAluminum
 	wireAluminum
+	artisansToolAluminum
 	slabSheetmetalAluminum
 	clumpAluminum
-	slabAluminum
 	crystalAluminum
 	stickAluminum
 	shardAluminum
 	blockSheetmetalAluminum
 	dustAluminum
-	gearAluminum
 	oreAluminum
 	dustDirtyAluminum
 	fenceAluminum
 	nuggetAluminum
 	plateAluminum
+	gearAluminum
+	slabAluminum
 	blockAluminum
 	ingotAluminum
 	coinAluminum
 
 Enderium
 	dustEnderium
-	gearEnderium
 	itemGrindingBallEnderium
 	nuggetEnderium
 	plateEnderium
+	gearEnderium
 	blockEnderium
 	ingotEnderium
 	coinEnderium

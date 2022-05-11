@@ -1,0 +1,11 @@
+[
+	{
+		"kindName" : "plate",
+		"modIdPriorityList" :
+		[
+			"immersiveengineering",
+      "immersiveintelligence",
+      "thermalfoundation"
+		]
+	},
+]
