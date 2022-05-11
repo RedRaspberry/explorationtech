@@ -86,15 +86,7 @@
 	{
 		uid: "bf87d967",
 		type: "item",
-		item: {
-			id: "immersiveengineering:shield",
-			ForgeCaps: {
-				Parent: {
-					Items: [],
-					Size: 2
-				}
-			}
-		}
+		item: "immersiveengineering:shield"
 	},
 	{
 		uid: "8e45626b",

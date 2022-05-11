@@ -41,11 +41,6 @@
 		item: "ftbquests:book"
 	},
 	{
-		uid: "4f80c6f0",
-		type: "item",
-		item: "animania:animania_manual"
-	},
-	{
 		uid: "117cf7ee",
 		type: "item",
 		item: "immersiveengineering:tool 1 3"
@@ -74,21 +69,6 @@
 		uid: "140bb6de",
 		type: "item",
 		item: "opencomputers:tool 1 4"
-	},
-	{
-		uid: "a1b592c5",
-		type: "item",
-		item: "rftools:rftools_manual"
-	},
-	{
-		uid: "2b1ca905",
-		type: "item",
-		item: "rftools:rftools_shape_manual"
-	},
-	{
-		uid: "12718a4e",
-		type: "item",
-		item: "rftoolscontrol:rftoolscontrol_manual"
 	},
 	{
 		uid: "cfd6b85e",

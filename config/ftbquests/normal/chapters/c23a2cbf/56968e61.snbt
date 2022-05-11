@@ -12,7 +12,8 @@
 		items: [{
 			item: "minecraft:diamond"
 		}],
-		count: 32L
+		count: 32L,
+		consume_items: true
 	}],
 	rewards: [{
 		uid: "15d75203",
@@ -113,11 +114,6 @@
 	{
 		uid: "a70c4670",
 		type: "item",
-		item: {
-			id: "botania:flowerbag",
-			ForgeCaps: {
-				Parent: []
-			}
-		}
+		item: "botania:flowerbag"
 	}]
 }
