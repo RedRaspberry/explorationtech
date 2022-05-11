@@ -46,7 +46,7 @@
 				]
 			}
 		},
-		"quartz": {
+		"thaumquartz": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {

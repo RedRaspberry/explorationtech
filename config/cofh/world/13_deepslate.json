@@ -1,5 +1,5 @@
 {
-  "priority": 100000000000,
+  "priority": -10000,
 	"populate": {
 		"deepslate": {
 			"distribution": "uniform",

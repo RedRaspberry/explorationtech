@@ -1,0 +1,38 @@
+{
+  "populate": {
+    "coal_coalblock": {
+      "enabled": "true",
+      "distribution": "uniform",
+      "type": "large-vein"
+      "generator": {
+        "block": [
+          {
+            "name": "minecraft:coal_block",
+            "weight": 20
+          },
+          {
+            "name": "minecraft:coal_ore",
+            "weight": 80
+          }
+        ],
+      "material": "minecraft:stone",
+      "cluster-size": 30,
+      },
+
+      "cluster-count": 1,
+      "spindly": "false",
+      "chunk-chance": 0.03,
+      "min-height": 5,
+      "max-height": 70,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          -1,
+          1
+        ]
+      }
+    }
+  }
+}

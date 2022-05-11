@@ -1,6 +1,7 @@
 {
 	"populate": {
 		"nether_lake": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"type": "lake",
@@ -27,6 +28,7 @@
 			}
 		},
     "crystal_spikes": {
+			"enabled": "true",
 			"distribution": "surface",
 			"follow-terrain": "true",
 			"generator": [
@@ -71,47 +73,6 @@
           7
         ]
       }
-		},
-		"quark_geode": {
-			"distribution": "uniform",
-			"generator": [
-						{
-							"type": "geode",
-							"crust": "minecraft:obsidian",
-							"material": "minecraft:stone",
-							"hollow": true,
-							"filler": [
-								{
-									"name": "minecraft:air",
-									"weight": 80
-								},
-								{
-									"name": "quark:cave_crystal",
-									"metadata": 3,
-									"weight": 10
-								},
-								{
-									"name": "minecraft:diamond_ore",
-									"weight": 10
-								}
-							],
-							"material": [
-								"minecraft:stone",
-							],
-						},
-					],
-			"cluster-count": 1,
-			"chunk-chance": 20,
-			"min-height": 6,
-			"max-height": 40,
-			"biome": "all",
-			"retrogen": false,
-			"dimension": {
-							"restriction": "whitelist",
-							"value": [
-								0
-							]
-						}
 		}
 	}
 }

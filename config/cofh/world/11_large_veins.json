@@ -1,6 +1,7 @@
 {
+  "priority": 1000000,
   "populate": {
-    "iron_andersite": {
+    "iron_andesite": {
       "enabled": "true",
       "distribution": "uniform",
       "type": "large-vein"
@@ -8,30 +9,30 @@
         "block": [
         {
           "name": "minecraft:iron_ore",
-          "weight": 60
+          "weight": 65
         },
         {
           "name": "stone",
 					"properties": {
 						"variant": "andesite"
-          "weight": 40
           }
+          "weight": 35
         }
       ],
       "material": "minecraft:stone",
       "cluster-size": 27,
     },
 
-    "cluster-count": 1,
-    "spindly": "true",
-    "chunk-chance": 0.005,
-    "min-height": 25,
-    "max-height": 175,
-    "retrogen": "true",
-    "biome": "all",
-    "dimension": {
-      "restriction": "blacklist",
-      "value": [
+      "cluster-count": 1,
+      "spindly": "true",
+      "chunk-chance": 0.017,
+      "min-height": 25,
+      "max-height": 175,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
         -1,
         1
       ]
@@ -64,7 +65,7 @@
 
     "cluster-count": 1,
     "spindly": "true",
-    "chunk-chance": 0.003,
+    "chunk-chance": 0.009,
     "min-height": 25,
     "max-height": 175,
     "retrogen": "true",
@@ -77,176 +78,136 @@
       ]
     }
   },
-    "copper_granite_bauxite": {
-      "enabled": "true",
-      "distribution": "uniform",
-      "type": "large-vein"
-      "generator": {
-        "block": [
-          {
-            "name": "thermalfoundation:ore",
-            "properties": {
-              "type": "copper"
-            }
-            "weight": 7
-          },
-          {
-            "name": "stone",
-            "properties": {
-              "variant": "granite"
-            }
-            "weight": 80
-          },
-          {
-            "name": "immersiveengineering:ore",
-            "metadata": 1,
-            "weight": 13
-          }
-      ],
-      "material": "minecraft:stone",
-      "cluster-size": 20,
-      },
-
-      "cluster-count": 1,
-      "spindly": "false",
-      "chunk-chance": 0.002,
-      "min-height": 25,
-      "max-height": 175,
-      "retrogen": "true",
-      "biome": "all",
-      "dimension": {
-        "restriction": "blacklist",
-        "value": [
-          -1,
-          1
-        ]
-      }
-    },
-    "slate_tin_lead_silver": {
-      "enabled": "true",
-      "distribution": "uniform",
-      "type": "large-vein"
-      "generator": {
-        "block": [
-          {
-            "name": "thermalfoundation:ore",
-            "properties": {
-              "type": "tin"
-            }
-            "weight": 20
-          },
-          {
-            "name": "quark:slate",
-            "weight": 60
-          },
-          {
-            "name": "thermalfoundation",
-            "properties": {
-              "type": "silver"
-            }
-            "weight": 4
-          },
-          {
-            "name": "thermalfoundation",
-            "properties": {
-              "type": "lead"
-            }
-            "weight": 16
-          }
-        ],
-      "material": "minecraft:stone",
-      "cluster-size": 10,
-      },
-
-      "cluster-count": 1,
-      "spindly": "false",
-      "chunk-chance": 0.02,
-      "min-height": 16,
-      "max-height": 44,
-      "retrogen": "true",
-      "biome": "all",
-      "dimension": {
-        "restriction": "blacklist",
-        "value": [
-          -1,
-          1
-        ]
-      }
-    },
-    "coal_coalblock": {
-      "enabled": "true",
-      "distribution": "uniform",
-      "type": "large-vein"
-      "generator": {
-        "block": [
-          {
-            "name": "minecraft:coal_block",
-            "weight": 20
-          },
-          {
-            "name": "minecraft:coal_ore",
-            "weight": 80
-          },
-        ],
-      "material": "minecraft:stone",
-      "cluster-size": 40,
-      },
-
-      "cluster-count": 1,
-      "spindly": "false",
-      "chunk-chance": 0.03,
-      "min-height": 5,
-      "max-height": 70,
-      "retrogen": "true",
-      "biome": {
-        "restriction": "whitelist",
-        "value": [
-          "type": "dictionary",
-          "entry": "MOUNTAIN"
-        ],
-      },
-      "dimension": {
-        "restriction": "blacklist",
-        "value": [
-          -1,
-          1
-        ]
-      }
-    },
     "limestone_gold": {
-      "enabled": "true",
-      "distribution": "uniform",
-      "type": "large-vein"
-      "generator": {
-        "block": [
-          {
-            "name": "chisel:limestone2",
-            "metadata": 7
-            "weight": 60
-          },
-          {
-            "name": "minecraft:gold_ore",
-            "weight": 40
-          }
-          ],
-      "material": "minecraft:stone",
-      "cluster-size": 40,
-      },
-
-      "cluster-count": 1,
-      "spindly": "false",
-      "chunk-chance": 0.001,
-      "min-height": 35,
-      "max-height": 50,
-      "retrogen": "true",
-      "biome": "all",
-      "dimension": {
-        "restriction": "blacklist",
-        "value": [
-          -1,
-          1
-        ]
-      }
+    "enabled": "true",
+    "distribution": "uniform",
+    "type": "large-vein"
+    "generator": {
+      "block": [
+        {
+          "name": "chisel:limestone2",
+          "metadata": 7
+          "weight": 60
+        },
+        {
+          "name": "minecraft:gold_ore",
+          "weight": 40
+        }
+        ],
+    "material": "minecraft:stone",
+    "cluster-size": 40,
     },
+
+    "cluster-count": 1,
+    "spindly": "false",
+    "chunk-chance": 0.003,
+    "min-height": 35,
+    "max-height": 50,
+    "retrogen": "true",
+    "biome": "all",
+    "dimension": {
+      "restriction": "blacklist",
+      "value": [
+        -1,
+        1
+      ]
+    }
+  },
+    "slate_tin_lead_silver": {
+    "enabled": "true",
+    "distribution": "uniform",
+    "type": "large-vein"
+    "generator": {
+      "block": [
+        {
+          "name": "thermalfoundation:ore",
+          "properties": {
+            "type": "tin"
+          }
+          "weight": 20
+        },
+        {
+          "name": "quark:slate",
+          "weight": 60
+        },
+        {
+          "name": "thermalfoundation:ore",
+          "properties": {
+            "type": "silver"
+          }
+          "weight": 4
+        },
+        {
+          "name": "thermalfoundation:ore",
+          "properties": {
+            "type": "lead"
+          }
+          "weight": 16
+        }
+      ],
+    "material": "minecraft:stone",
+    "cluster-size": 10,
+    },
+
+    "cluster-count": 1,
+    "spindly": "false",
+    "chunk-chance": 0.02,
+    "min-height": 16,
+    "max-height": 44,
+    "retrogen": "true",
+    "biome": "all",
+    "dimension": {
+      "restriction": "blacklist",
+      "value": [
+        -1,
+        1
+      ]
+    }
+  },
+    "copper_granite_bauxite": {
+    "enabled": "true",
+    "distribution": "uniform",
+    "type": "large-vein"
+    "generator": {
+      "block": [
+        {
+          "name": "thermalfoundation:ore",
+          "properties": {
+            "type": "copper"
+          }
+          "weight": 7
+        },
+        {
+          "name": "stone",
+          "properties": {
+            "variant": "granite"
+          }
+          "weight": 80
+        },
+        {
+          "name": "immersiveengineering:ore",
+          "metadata": 1,
+          "weight": 13
+        }
+    ],
+    "material": "minecraft:stone",
+    "cluster-size": 20,
+    },
+
+    "cluster-count": 1,
+    "spindly": "false",
+    "chunk-chance": 0.002,
+    "min-height": 25,
+    "max-height": 175,
+    "retrogen": "true",
+    "biome": "all",
+    "dimension": {
+      "restriction": "blacklist",
+      "value": [
+        -1,
+        1
+      ]
+    }
+  }
   }
 }
