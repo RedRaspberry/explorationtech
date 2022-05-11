@@ -2,11 +2,9 @@
 /cache
 /crash-reports
 /downloads
-/dumps
 /llibrary
 /local
 /logs
-/mods
 /saves
 /screenshots
 /XaeroWaypoints
@@ -38,3 +36,9 @@ usernamecache.json
 /resourcepacks/Modernity-format3-v3.5.2.zip
 /resourcepacks/Vanilla_Future_Texture_optifine.zip
 /resourcepacks/Tinker's Tables.zip
+
+
+/mods/*.jar
+/mods/*.jar.disabled
+/mods/memory_repo
+/mods/1.12.2
