@@ -1,0 +1,17 @@
+{
+  "pools": [
+    {
+      "name": "reward",
+      "entries": [
+        {
+          "entryName": "enderio:item_ender_food",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "enderio:item_ender_food"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

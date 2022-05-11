@@ -1,0 +1,17 @@
+{
+  "pools": [
+    {
+      "name": "railcraft_general",
+      "entries": [
+        {
+          "entryName": "railcraft:chests/simple_dungeon",
+          "weight": 1,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "railcraft:chests/simple_dungeon"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

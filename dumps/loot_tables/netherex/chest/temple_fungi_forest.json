@@ -1,0 +1,30 @@
+{
+  "pools": [
+    {
+      "name": "fungi_forest_temple_pool1",
+      "entries": [
+        {
+          "entryName": "netherex:chest/base_fungi_forest",
+          "weight": 1,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "netherex:chest/base_fungi_forest"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "name": "fungi_forest_temple_pool2",
+      "entries": [
+        {
+          "entryName": "netherex:chest/base_temple",
+          "weight": 1,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "netherex:chest/base_temple"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

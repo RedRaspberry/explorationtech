@@ -1,0 +1,89 @@
+{
+  "pools": [
+    {
+      "name": "torrid_wasteland_base_pool",
+      "entries": [
+        {
+          "entryName": "minecraft:magma_cream",
+          "weight": 5,
+          "quality": 0,
+          "type": "item",
+          "name": "minecraft:magma_cream"
+        },
+        {
+          "entryName": "minecraft:blaze_rod",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:blaze_rod"
+        },
+        {
+          "entryName": "netherex:congealed_magma_cream",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "netherex:congealed_magma_cream"
+        },
+        {
+          "entryName": "netherex:orange_salamander_hide",
+          "weight": 2,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 3.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "netherex:orange_salamander_hide"
+        },
+        {
+          "entryName": "netherex:basalt",
+          "weight": 10,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 12.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "netherex:basalt"
+        },
+        {
+          "entryName": "minecraft:blaze_powder",
+          "weight": 5,
+          "quality": 0,
+          "type": "item",
+          "name": "minecraft:blaze_powder"
+        },
+        {
+          "entryName": "minecraft:fire_charge",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "minecraft:fire_charge"
+        }
+      ],
+      "rolls": {
+        "min": 1.0,
+        "max": 6.0
+      }
+    }
+  ]
+}

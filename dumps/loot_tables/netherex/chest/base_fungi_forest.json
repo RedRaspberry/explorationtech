@@ -1,0 +1,83 @@
+{
+  "pools": [
+    {
+      "name": "fungi_forest_base_pool",
+      "entries": [
+        {
+          "entryName": "netherex:enoki_mushroom",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "netherex:enoki_mushroom"
+        },
+        {
+          "entryName": "netherex:brown_elder_mushroom",
+          "weight": 2,
+          "quality": 0,
+          "type": "item",
+          "name": "netherex:brown_elder_mushroom"
+        },
+        {
+          "entryName": "netherex:red_elder_mushroom",
+          "weight": 2,
+          "quality": 0,
+          "type": "item",
+          "name": "netherex:red_elder_mushroom"
+        },
+        {
+          "entryName": "netherex:hyphae",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "netherex:hyphae"
+        },
+        {
+          "entryName": "netherex:brown_elder_mushroom_cap",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "netherex:brown_elder_mushroom_cap"
+        },
+        {
+          "entryName": "netherex:red_elder_mushroom_cap",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "netherex:red_elder_mushroom_cap"
+        },
+        {
+          "entryName": "netherex:elder_mushroom_stem",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "netherex:elder_mushroom_stem"
+        },
+        {
+          "entryName": "netherex:spore",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "netherex:spore"
+        },
+        {
+          "entryName": "minecraft:gunpowder",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "minecraft:gunpowder"
+        },
+        {
+          "entryName": "minecraft:mushroom_stew",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "minecraft:mushroom_stew"
+        }
+      ],
+      "rolls": {
+        "min": 1.0,
+        "max": 6.0
+      }
+    }
+  ]
+}

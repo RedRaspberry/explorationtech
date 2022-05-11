@@ -1,0 +1,33 @@
+{
+  "pools": [
+    {
+      "name": "main",
+      "entries": [
+        {
+          "entryName": "extradiscs:record_sweden",
+          "weight": 15,
+          "quality": 0,
+          "type": "item",
+          "name": "extradiscs:record_sweden"
+        },
+        {
+          "entryName": "extradiscs:record_aria_math",
+          "weight": 15,
+          "quality": 0,
+          "type": "item",
+          "name": "extradiscs:record_aria_math"
+        },
+        {
+          "entryName": "empty",
+          "weight": 70,
+          "quality": 0,
+          "type": "empty"
+        }
+      ],
+      "rolls": {
+        "min": 1.0,
+        "max": 3.0
+      }
+    }
+  ]
+}

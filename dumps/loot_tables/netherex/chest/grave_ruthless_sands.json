@@ -1,0 +1,30 @@
+{
+  "pools": [
+    {
+      "name": "ruthless_sands_grave_pool1",
+      "entries": [
+        {
+          "entryName": "netherex:chest/base_ruthless_sands",
+          "weight": 1,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "netherex:chest/base_ruthless_sands"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "name": "ruthless_sands_grave_pool2",
+      "entries": [
+        {
+          "entryName": "netherex:chest/base_grave",
+          "weight": 1,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "netherex:chest/base_grave"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

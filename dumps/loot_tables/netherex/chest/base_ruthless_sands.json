@@ -1,0 +1,121 @@
+{
+  "pools": [
+    {
+      "name": "ruthless_sands_base_pool",
+      "entries": [
+        {
+          "entryName": "netherex:thornstalk",
+          "weight": 10,
+          "quality": 0,
+          "type": "item",
+          "name": "netherex:thornstalk"
+        },
+        {
+          "entryName": "netherex:wither_bone",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "netherex:wither_bone"
+        },
+        {
+          "entryName": "minecraft:quartz",
+          "weight": 10,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 12.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:quartz"
+        },
+        {
+          "entryName": "minecraft:quartz_ore",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 6.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:quartz_ore"
+        },
+        {
+          "entryName": "minecraft:glowstone",
+          "weight": 10,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 8.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:glowstone"
+        },
+        {
+          "entryName": "minecraft:golden_sword",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "damage": {
+                "min": 0.0,
+                "max": 50.0
+              },
+              "function": "minecraft:set_damage"
+            }
+          ],
+          "name": "minecraft:golden_sword"
+        },
+        {
+          "entryName": "minecraft:soul_sand",
+          "weight": 15,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 7.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:soul_sand"
+        },
+        {
+          "entryName": "minecraft:golden_axe",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "minecraft:golden_axe"
+        },
+        {
+          "entryName": "minecraft:golden_shovel",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "minecraft:golden_shovel"
+        }
+      ],
+      "rolls": {
+        "min": 1.0,
+        "max": 6.0
+      }
+    }
+  ]
+}

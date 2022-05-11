@@ -1,0 +1,73 @@
+{
+  "pools": [
+    {
+      "name": "arctic_abyss_base_pool",
+      "entries": [
+        {
+          "entryName": "netherex:frostburn_ice",
+          "weight": 10,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 5.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "netherex:frostburn_ice"
+        },
+        {
+          "entryName": "minecraft:ghast_tear",
+          "weight": 5,
+          "quality": 0,
+          "type": "item",
+          "name": "minecraft:ghast_tear"
+        },
+        {
+          "entryName": "netherex:rime_crystal",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "netherex:rime_crystal"
+        },
+        {
+          "entryName": "minecraft:bone_block",
+          "weight": 10,
+          "quality": 0,
+          "type": "item",
+          "name": "minecraft:bone_block"
+        },
+        {
+          "entryName": "minecraft:nether_wart",
+          "weight": 3,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 3.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:nether_wart"
+        },
+        {
+          "entryName": "minecraft:quartz",
+          "weight": 5,
+          "quality": 0,
+          "type": "item",
+          "name": "minecraft:quartz"
+        }
+      ],
+      "rolls": {
+        "min": 1.0,
+        "max": 6.0
+      }
+    }
+  ]
+}

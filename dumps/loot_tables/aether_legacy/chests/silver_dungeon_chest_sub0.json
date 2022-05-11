@@ -1,0 +1,23 @@
+{
+  "pools": [
+    {
+      "name": "main",
+      "entries": [
+        {
+          "entryName": "aether_legacy:moa_egg",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "moa_type": "aether_legacy:white",
+              "function": "aether_legacy:set_moa_type"
+            }
+          ],
+          "name": "aether_legacy:moa_egg"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pools": [
+    {
+      "name": "rare_temple_pool1",
+      "entries": [
+        {
+          "entryName": "minecraft:chests/nether_bridge",
+          "weight": 1,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "minecraft:chests/nether_bridge"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "name": "rare_temple_pool2",
+      "entries": [
+        {
+          "entryName": "netherex:chest/base_temple",
+          "weight": 1,
+          "quality": 0,
+          "type": "loot_table",
+          "name": "netherex:chest/base_temple"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

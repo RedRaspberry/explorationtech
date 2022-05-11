@@ -1,0 +1,172 @@
+{
+  "pools": [
+    {
+      "name": "village_base_pool",
+      "entries": [
+        {
+          "entryName": "minecraft:nether_wart",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:nether_wart"
+        },
+        {
+          "entryName": "minecraft:gold_ingot",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 2.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:gold_ingot"
+        },
+        {
+          "entryName": "minecraft:rotten_flesh",
+          "weight": 10,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 5.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:rotten_flesh"
+        },
+        {
+          "entryName": "minecraft:gold_nugget",
+          "weight": 5,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:gold_nugget"
+        },
+        {
+          "entryName": "minecraft:nether_brick",
+          "weight": 10,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 4.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:nether_brick"
+        },
+        {
+          "entryName": "minecraft:nether_wart_block",
+          "weight": 5,
+          "quality": 0,
+          "type": "item",
+          "name": "minecraft:nether_wart_block"
+        },
+        {
+          "entryName": "minecraft:magma_cream",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "minecraft:magma_cream"
+        },
+        {
+          "entryName": "minecraft:blaze_powder",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "minecraft:blaze_powder"
+        },
+        {
+          "entryName": "minecraft:diamond",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "minecraft:diamond"
+        },
+        {
+          "entryName": "minecraft:emerald",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "minecraft:emerald"
+        },
+        {
+          "entryName": "minecraft:golden_shovel",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "minecraft:golden_shovel"
+        },
+        {
+          "entryName": "netherex:basalt",
+          "weight": 5,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 6.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "netherex:basalt"
+        },
+        {
+          "entryName": "minecraft:flint",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "minecraft:flint"
+        },
+        {
+          "entryName": "minecraft:glowstone",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "minecraft:glowstone"
+        },
+        {
+          "entryName": "minecraft:quartz",
+          "weight": 1,
+          "quality": 0,
+          "type": "item",
+          "name": "minecraft:quartz"
+        }
+      ],
+      "rolls": {
+        "min": 3.0,
+        "max": 7.0
+      }
+    }
+  ]
+}
