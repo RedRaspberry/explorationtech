@@ -1,0 +1,11 @@
+Filenames are arranged by [type][mod][extra]
+000 - 099 : Globals
+100 - 199 : Unified Machine Recipes
+200 - 299 : Magic
+300 - 399 : Tech
+400 - 499 : Reserved
+500 - 599 : Tinkers
+600 - 699 : Recipe Unity & Fixes
+700 - 799 : Reserved
+800 - 899 : Backport
+900 - 999 : Special
