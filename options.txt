@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:1
 renderClouds:fast
-resourcePacks:["NTOV v1.zip","Modernity-format3-v3.5.2.zip","explorationtech_modern_resources","Tinker\u0027s Tables.zip"]
+resourcePacks:["NTOV v1.zip","Vanilla_Future_Texture_optifine.zip","Tinker\u0027s Tables.zip","Modernity-format3-v3.5.2.zip","explorationtech_modern_resources"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -114,6 +114,7 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.lockBuilding:37
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:44
 key_quark.keybind.chestSort:0
@@ -122,7 +123,6 @@ key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.toggleAutojump:0
-key_quark.keybind.lockBuilding:37
 key_keys.baubleshud.config:35
 key_keybind.openSelectionWheel:0
 key_keybind.openBaubleBag:0
@@ -157,9 +157,9 @@ key_key.ebwizardry.spell_8:0
 key_keybind.railcraft.cart.bed:0
 key_key.ftbquests.quests:0
 key_ingameinfoxml.key.toggle:24
-key_key.inventorysorter.itemin:-200
-key_key.inventorysorter.itemout:-201
 key_key.inventorysorter.sort:-98
+key_key.inventorysorter.itemout:-201
+key_key.inventorysorter.itemin:-200
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_neat.keybind.toggle:0
@@ -201,7 +201,8 @@ key_key.astikorcarts.desc:0
 key_key.bookdisplay.display:23
 key_key.bookdisplay.left:205
 key_key.bookdisplay.right:203
-key_dsurround.cfg.keybind.AnimaniaBadges:0
+key_key.clienttweaks.disable_step_assist:0
+key_key.clienttweaks.hide_offhand_item:0
 key_key.effortlessbuilding.hud.desc:78
 key_key.effortlessbuilding.replace.desc:74
 key_key.effortlessbuilding.creative.desc:0
@@ -213,10 +214,6 @@ key_key.clipboardPaste:0
 key_key.immersiveengineering.magnetEquip:0
 key_key.immersiveengineering.chemthrowerSwitch:0
 key_Activate Hexxit Gear Armor:0
-key_key.porterNextDestination:0
-key_key.porterPrevDestination:0
-key_key.debugDumpNBTItem:0
-key_key.debugDumpNBTBlock:0
 key_key.inventoryhud.toggle:0
 key_key.inventoryhud.openconfig:21
 key_key.inventoryhud.togglepot:0
@@ -240,6 +237,10 @@ key_key.plustic_mots.desc:0
 key_xreliquary.keybind.fortune_coin:0
 key_key.carpet_forward:17
 key_key.carpet_backward:31
+key_key.toolbelt.open:19
+key_key.toolbelt.cycle.left:0
+key_key.toolbelt.cycle.right:0
+key_key.toolbelt.slot:47
 key_gui.xaero_switch_waypoint_set:0
 key_gui.xaero_instant_waypoint:0
 key_gui.xaero_toggle_slime:0
@@ -295,18 +296,18 @@ key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
-soundCategory_master:0.10927153
-soundCategory_music:0.049295776
-soundCategory_record:1.0
-soundCategory_weather:0.6126761
-soundCategory_block:0.57746476
-soundCategory_hostile:1.0
-soundCategory_neutral:0.44366196
-soundCategory_player:1.0
-soundCategory_ambient:0.4084507
-soundCategory_voice:1.0
-soundCategory_ds_footsteps:0.5140845
-soundCategory_ds_biome:1.0
+soundCategory_master:0.31456953
+soundCategory_music:0.0
+soundCategory_record:0.57746476
+soundCategory_weather:0.6056338
+soundCategory_block:0.6197183
+soundCategory_hostile:0.58450705
+soundCategory_neutral:0.6126761
+soundCategory_player:0.5915493
+soundCategory_ambient:0.6760563
+soundCategory_voice:0.556338
+soundCategory_ds_footsteps:0.6690141
+soundCategory_ds_biome:0.58450705
 modelPart_cape:true
 modelPart_jacket:true
 modelPart_left_sleeve:true
