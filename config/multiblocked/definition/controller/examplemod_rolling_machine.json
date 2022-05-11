@@ -1,36 +1,8 @@
 {
+  "catalyst": "{id:\"immersiveengineering:tool\",Count:1b,Damage:0s}",
   "consumeCatalyst": false,
-  "location": "mod_id:component_id",
-  "traits": {
-    "item": [
-      {
-        "cIO": 2,
-        "gIO": 2,
-        "x": 5,
-        "y": 5,
-        "autoIO": false
-      },
-      {
-        "cIO": 2,
-        "gIO": 2,
-        "x": 117,
-        "y": 27,
-        "autoIO": false
-      }
-    ],
-    "forge_energy": {
-      "cIO": 2,
-      "gIO": 2,
-      "x": 16,
-      "y": 113,
-      "width": 60,
-      "height": 18,
-      "texture": "multiblocked:textures/gui/energy_bar.png",
-      "capacity": 10000,
-      "maxReceive": 500,
-      "maxExtract": 500
-    }
-  },
+  "location": "examplemod:rolling_machine",
+  "traits": {},
   "allowRotate": true,
   "showInJei": true,
   "baseRenderer": {
@@ -41,18 +13,15 @@
     "type": "blockstate"
   },
   "formedRenderer": {
-    "state": {
-      "id": "computercraft:computer",
-      "meta": 2
-    },
-    "type": "blockstate"
+    "modelLocation": "multiblocked:obj/metal_press.obj",
+    "type": "obj"
   },
   "isOpaqueCube": true,
   "basePattern": {
     "structureDir": [
-      "BACK",
+      "FRONT",
       "UP",
-      "RIGHT"
+      "LEFT"
     ],
     "pattern": [
       [
@@ -93,10 +62,11 @@
             "meta": 1
           }
         ],
-        "type": "states"
+        "type": "states",
+        "disableRenderFormed": true
       },
       "controller": {
-        "location": "mod_id:component_id",
+        "location": "examplemod:rolling_machine",
         "type": "component"
       },
       "B": {
@@ -106,7 +76,8 @@
             "meta": 0
           }
         ],
-        "type": "states"
+        "type": "states",
+        "disableRenderFormed": true
       },
       "C": {
         "states": [
@@ -115,19 +86,18 @@
             "meta": 0
           }
         ],
-        "type": "states"
+        "type": "states",
+        "disableRenderFormed": true
       },
       "D": {
         "states": [
           {
             "id": "immersiveengineering:metal_decoration0",
-            "meta": 4
+            "meta": 5
           }
         ],
-        "type": "states"
-      },
-      "air": {
-        "type": "air"
+        "type": "states",
+        "disableRenderFormed": true
       },
       "any": {
         "type": "any"
@@ -151,11 +121,8 @@
       ],
       "D": [
         "D"
-      ],
-      "-": [
-        "air"
       ]
     }
   },
-  "recipeMap": "d2eeb948-3c21-4b53-bb2e-7d64b8e051bb"
+  "recipeMap": "rods"
 }

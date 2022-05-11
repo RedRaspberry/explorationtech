@@ -1,23 +1,19 @@
 {
-  "name": "d2eeb948-3c21-4b53-bb2e-7d64b8e051bb",
+  "name": "rods",
   "progressTexture": "multiblocked:textures/gui/progress_bar_arrow.png",
   "recipes": [
     {
-      "uid": "2297025c-14ed-46be-ab5b-931c52788e4d",
-      "duration": 200,
+      "uid": "75798c59-f40a-415f-88ce-9478d2831d98",
+      "duration": 40,
       "inputs": {
         "item": [
           {
             "content": {
               "amount": 1,
-              "ore": "ingotCopper"
+              "matches": [
+                "{id:\"minecraft:iron_ingot\",Count:1b,Damage:0s}"
+              ]
             },
-            "chance": 1.0
-          }
-        ],
-        "forge_energy": [
-          {
-            "content": 2400,
             "chance": 1.0
           }
         ]
@@ -26,8 +22,8 @@
         "item": [
           {
             "content": {
-              "amount": 2,
-              "ore": "stickCopper"
+              "amount": 1,
+              "ore": "stickIron"
             },
             "chance": 1.0
           }
