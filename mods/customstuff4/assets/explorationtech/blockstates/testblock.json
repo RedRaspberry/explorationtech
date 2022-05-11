@@ -1,0 +1,6 @@
+{
+  "variants": {
+	"normal": {"model": "explorationtech:testblock"},
+	"inventory": {"model": "explorationtech:testblock"}
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom": { "model": "explorationtech:testslab_bottom"},
+    "half=top": { "model": "explorationtech:testslab_top"}
+  }
+}

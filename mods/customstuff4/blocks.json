@@ -1,0 +1,13 @@
+{
+"blocks": [
+  {
+  "type": "block:simple",
+    "entries": [
+      {
+        "id": "testblock",
+        "creativeTab": "buildingBlocks"
+      }
+    ]
+  }
+  ]
+}
