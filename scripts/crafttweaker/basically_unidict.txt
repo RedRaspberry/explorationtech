@@ -1,0 +1,150 @@
+
+
+###iron###
+#block
+
+#ingot
+<minecraft:iron_ingot>
+
+#nugget
+<minecraft:iron_nugget>
+<immersiveengineering:metal:29>
+<thaumcraft:nugget>
+
+#gear
+<immersiveintelligence:motor_gear:2>
+<railcraft:gear:1>
+<thermalfoundation:material:24>
+
+#dust
+<appliedenergistics2:material:49>
+<enderio:item_material:24>
+<immersiveengineering:metal:18>
+<thermalfoundation:material>
+<ic2:dust:8>
+<mekanism:dust>
+
+#dusttiny
+<rustic:dust_tiny_iron>
+<ic2:dust:21>
+
+#ore...clumps?
+<ic2:purified:2>
+
+#plate
+<ic2:plate:3>
+<immersiveengineering:metal:39>
+<thaumcraft:plate:1>
+<thermalfoundation:material:32>
+<railcraft:plate>
+
+#ic2 dense plate
+<ic2:plate:12>
+
+#rod/stick
+<immersiveengineering:material:1>
+
+
+### GOLD ###
+
+#block
+<minecraft:gold_block>
+
+#ingot
+<minecraft:gold_ingot>
+
+#nugget
+<minecraft:gold_nugget>
+
+#dust
+<appliedenergistics2:material:51>
+<enderio:item_material:25>
+<immersiveengineering:metal:19>
+<ic2:dust:7>
+<mekanism:dust:1>
+<thermalfoundation:material:1>
+
+#dusttiny
+<ic2:dust:20>
+
+#plate
+<immersiveengineering:metal:40>
+<ic2:plate:2>
+<railcraft:plate:7>
+<thermalfoundation:material:33>
+
+#denseplate
+<ic2:plate:11>
+
+#gear
+<thermalfoundation:material:25>
+
+#rod/stick
+<immersiveposts:metal_rods>
+
+### DIAMOND ###
+<minecraft:diamond_block>
+<minecraft:diamond>
+<ic2:crafting:19>
+<thermalfoundation:material:16>
+<thermalfoundation:material:26>
+<ic2:dust:5>
+
+### EMERALD ###
+<minecraft:emerald_block>
+<minecraft:emerald>
+<thermalfoundation:material:17>
+<thermalfoundation:material:27>
+
+### REDSTONE ###
+<minecraft:redstone_block>
+<enderio:item_alloy_ingot:3>
+<enderio:item_alloy_nugget:3>
+<minecraft:redstone>
+<thermalfoundation:material:893>
+
+### OBSIDIAN ###
+<minecraft:obsidian>
+<enderio:item_material:29>
+<ic2:dust:12>
+<thermalfoundation:material:770>
+<mekanism:otherdust:6>
+<railcraft:dust>
+<ic2:dust:25>
+<ic2:plate:6>
+<ic2:plate:15>
+<wrcbe:material>
+<mekanism:basicblock:2>
+<mekanism:ingot>
+<mekanism:nugget>
+<mekanism:otherdust:5>
+
+### SILVER ###
+
+### TIN ###
+
+### LEAD ###
+
+### NICKEL ###
+
+### COPPER ###
+
+### PLATINUM ###
+
+### ALUMINUM ###
+
+### STEEL ###
+
+### TUNGSTEN ###
+
+### IRIDIUM ###
+
+### ELECTRUM ###
+
+### CONSTANTAN ###
+
+### INVAR ###
+
+### BRONZE ###
+
+### BRASS ###

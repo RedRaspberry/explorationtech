@@ -1,6 +1,5 @@
 #loader contenttweaker
 import mods.contenttweaker.VanillaFactory;
-import mods.contenttweaker.DropHandler;
 import mods.contenttweaker.ItemList;
 import mods.contenttweaker.Item;
 
