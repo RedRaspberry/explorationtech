@@ -29,20 +29,18 @@ for item in plateRemoval {
 var oretodust = {<minecraft:gold_ore>: <ore:dustGold>.firstItem, //gold
           <minecraft:iron_ore>: <ore:dustIron>.firstItem, //iron
           <immersiveengineering:ore:1>: <ore:dustAluminum>.firstItem, //aluminum
-          <ic2:resource:4>: <immersiveengineering:metal:14>, //uranium
+          //<ic2:resource:4>: <immersiveengineering:metal:14>, //uranium
           <mekanism:oreblock>: <mekanism:dust:2>, //osmium
-          <railcraft:ore_metal:5>: <mekores:mekanismore:114>, //zinc
+          //<railcraft:ore_metal:5>: <mekores:mekanismore:114>, //zinc
           <thermalfoundation:ore>: <ore:dustCopper>.firstItem, //copper
           <thermalfoundation:ore:1>: <ore:dustTin>.firstItem, //tin
           <thermalfoundation:ore:2>: <ore:dustSilver>.firstItem, //silver
           <thermalfoundation:ore:3>: <ore:dustLead>.firstItem, //lead
           <thermalfoundation:ore:5>: <ore:dustNickel>.firstItem, //nickel
-          <tconstruct:ore>: <mekores:mekanismore:39>, //cobalt
-          <tconstruct:ore:1>: <mekores:mekanismore:44> //ardite
           }
           as IItemStack[IItemStack];
 for ore, dust in oretodust {
-  mods.magneticraft.CrushingTable.addRecipe(ore, dust * 2, true);
+  mods.immersive-magneticraft.CrushingTable.addRecipe(ore, dust * 2, true);
 }
 
 #ingot -> plate
@@ -60,10 +58,10 @@ var ingottoplate = {<thermalfoundation:material:167>: <thermalfoundation:materia
                 }
                 as IItemStack[IItemStack];
 for ingot, plate in ingottoplate {
-  mods.magneticraft.CrushingTable.addRecipe(ingot, plate, true);
+  mods.immersive-magneticraft.CrushingTable.addRecipe(ingot, plate, true);
 }
 #plate -> ic2 casing
-var platetocasing = {<ore:plateBronze>.firstItem: <ic2:casing>, //bronze
+/* var platetocasing = {<ore:plateBronze>.firstItem: <ic2:casing>, //bronze
                   <ore:plateCopper>.firstItem: <ic2:casing:1>, //copper
                   <ore:plateGold>.firstItem: <ic2:casing:2>, //gold
                   <ore:plateIron>.firstItem: <ic2:casing:3>, //iron
@@ -73,5 +71,5 @@ var platetocasing = {<ore:plateBronze>.firstItem: <ic2:casing>, //bronze
                   }
                   as IItemStack[IItemStack];
 for plate1, casing in platetocasing {
-  mods.magneticraft.CrushingTable.addRecipe(plate1, casing, true);
-}
+  mods.immersive-magneticraft.CrushingTable.addRecipe(plate1, casing, true);
+} */
