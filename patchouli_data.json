@@ -41,19 +41,19 @@
       ],
       "bookmarks": [],
       "history": [
-        "cuisine:utensils/drinkro",
-        "cuisine:misc/tofu_block",
-        "cuisine:misc/wooden_arm",
+        "cuisine:processing/mill",
         "cuisine:seasonings/sesame_oil",
-        "cuisine:utensils/fire_pit",
-        "cuisine:utensils/bbq_rack",
         "cuisine:utensils/wok",
         "cuisine:utensils/plate",
         "cuisine:utensils/brewing",
-        "cuisine:misc/effect_resistance",
-        "cuisine:misc/fruit_trees",
-        "cuisine:seasonings/salt",
-        "cuisine:ingredients/apple"
+        "cuisine:utensils/drinkro",
+        "cuisine:processing/mortar",
+        "cuisine:misc/wooden_arm",
+        "cuisine:processing/jar",
+        "cuisine:processing/chopping_board",
+        "cuisine:processing/basin",
+        "cuisine:misc/tofu_block",
+        "cuisine:utensils/fire_pit"
       ],
       "completedManualQuests": []
     }

@@ -1,21 +1,21 @@
 version:1343
 invertYMouse:false
 mouseSensitivity:0.5
-fov:0.0
+fov:0.25
 gamma:1.0
 saturation:0.0
-renderDistance:11
+renderDistance:8
 guiScale:0
 particles:1
 bobView:true
 anaglyph3d:false
-maxFps:80
+maxFps:61
 fboEnable:true
 difficulty:2
-fancyGraphics:true
-ao:1
-renderClouds:fast
-resourcePacks:["NTOV v1.zip","Vanilla_Future_Texture_optifine.zip","Tinker\u0027s Tables.zip","Modernity-format3-v3.5.2.zip","explorationtech_modern_resources"]
+fancyGraphics:false
+ao:2
+renderClouds:false
+resourcePacks:["NTOV v1.zip","Modernity-format3-v3.6.0.zip","Vanilla_Future_Texture_optifine.zip","Tinker\u0027s Tables.zip","explorationtech_modern_resources"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -85,11 +85,6 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
-key_ALT Key:0
-key_Boost Key:0
-key_Mode Switch Key:0
-key_Side Inventory Key:0
-key_Hub Expand Key:0
 key_Change Caster Focus:0
 key_Misc Caster Toggle:0
 key_key.craftpresence.config_keycode.name:41
@@ -115,6 +110,7 @@ key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
 key_quark.keybind.lockBuilding:37
+key_quark.keybind.toggleAutojump:0
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:44
 key_quark.keybind.chestSort:0
@@ -122,7 +118,6 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.toggleAutojump:0
 key_keys.baubleshud.config:35
 key_keybind.openSelectionWheel:0
 key_keybind.openBaubleBag:0
@@ -158,8 +153,8 @@ key_keybind.railcraft.cart.bed:0
 key_key.ftbquests.quests:0
 key_ingameinfoxml.key.toggle:24
 key_key.inventorysorter.sort:-98
-key_key.inventorysorter.itemout:-201
 key_key.inventorysorter.itemin:-200
+key_key.inventorysorter.itemout:-201
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_neat.keybind.toggle:0
@@ -190,17 +185,13 @@ key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
-key_key.cofh.multimode:47
-key_mekanism.key.mode:0
-key_mekanism.key.armorMode:0
-key_mekanism.key.feetMode:0
-key_mekanism.key.voice:0
 key_key.aether.accessory_menu:0
 key_nei.options.keys.gui.botania_corporea_request:0
 key_key.astikorcarts.desc:0
 key_key.bookdisplay.display:23
 key_key.bookdisplay.left:205
 key_key.bookdisplay.right:203
+key_key.cofh.multimode:47
 key_key.clienttweaks.disable_step_assist:0
 key_key.clienttweaks.hide_offhand_item:0
 key_key.effortlessbuilding.hud.desc:78
@@ -220,6 +211,10 @@ key_key.inventoryhud.togglepot:0
 key_key.inventoryhud.togglearm:0
 key_key.inventoryhud.toggleall:0
 key_keywizard.keybind.openKeyboardWizard:0
+key_key.music_player_gui:82
+key_key.music_player_toggle:80
+key_key.music_player_next:81
+key_key.music_player_previous:79
 key_mxtune.key.openParty:0
 key_mxtune.key.openMusicOptions:0
 key_keybind.simplyjetpacks.gui:0
@@ -235,8 +230,6 @@ key_key.plustic_toggle_tool.desc:0
 key_key.plustic_fruit_salad.desc:0
 key_key.plustic_mots.desc:0
 key_xreliquary.keybind.fortune_coin:0
-key_key.carpet_forward:17
-key_key.carpet_backward:31
 key_key.toolbelt.open:19
 key_key.toolbelt.cycle.left:0
 key_key.toolbelt.cycle.right:0
@@ -264,6 +257,7 @@ key_gui.xaero_open_settings:50:SHIFT
 key_gui.xaero_map_zoom_in:0
 key_gui.xaero_map_zoom_out:0
 key_gui.xaero_quick_confirm:0
+key_gui.xaero_wm_toggle_minimap_radar:0
 key_key.immersiveintelligence.manualReload:0
 key_key.immersiveintelligence.mgScope:44
 key_key.immersiveintelligence.motorbikeEngine:0
@@ -296,8 +290,8 @@ key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
-soundCategory_master:0.31456953
-soundCategory_music:0.0
+soundCategory_master:0.0
+soundCategory_music:0.5070422
 soundCategory_record:0.57746476
 soundCategory_weather:0.6056338
 soundCategory_block:0.6197183
