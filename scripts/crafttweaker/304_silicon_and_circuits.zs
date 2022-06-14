@@ -29,6 +29,6 @@ mods.enderio.SagMill.addRecipe([<minecraft:clay_ball> * 2, <minecraft:clay_ball>
 
 ##### CIRCUITS #####
 
-mods.appliedenergistics2.Inscriber.addRecipe(<contenttweaker:redstonewafer>, <ore:ingotRedstoneAlloy>, true, <appliedenergistics2:material:15>);
+mods.appliedenergistics2.Inscriber.addRecipe(<item:contenttweaker:redstonewafer>, <ore:ingotRedstoneAlloy>, true, <appliedenergistics2:material:15>);
 #mods.appliedenergistics2.Inscriber.addRecipe()
 #Inscriber.addRecipe(IItemStack output, IItemStack input, boolean inscribe, @Optional IItemStack topInput, @Optional IItemStack bottomInput);
