@@ -1,0 +1,44 @@
+{
+  "canShared": true,
+  "location": "minecraft:m",
+  "traits": {
+    "item": [
+      {
+        "cIO": 0,
+        "gIO": 1,
+        "x": 5,
+        "y": 5,
+        "autoIO": true
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "x": 24,
+        "y": 5,
+        "autoIO": true
+      }
+    ],
+    "forge_energy": {
+      "cIO": 0,
+      "gIO": 2,
+      "x": 13,
+      "y": 143,
+      "width": 60,
+      "height": 18,
+      "texture": "multiblocked:textures/gui/energy_bar.png",
+      "capacity": 100,
+      "maxReceive": 500,
+      "maxExtract": 500
+    }
+  },
+  "allowRotate": true,
+  "showInJei": true,
+  "baseRenderer": {
+    "state": {
+      "id": "contenttweaker:mech_engineering_block",
+      "meta": 0
+    },
+    "type": "blockstate"
+  },
+  "isOpaqueCube": true
+}

@@ -1,19 +1,14 @@
 {
-  "name": "rods",
+  "name": "test",
   "progressTexture": "multiblocked:textures/gui/progress_bar_arrow.png",
   "recipes": [
     {
-      "uid": "75798c59-f40a-415f-88ce-9478d2831d98",
-      "duration": 40,
+      "uid": "8de8ad95-3a1d-4fbc-9b64-a77ed9288f31",
+      "duration": 10,
       "inputs": {
-        "item": [
+        "fluid": [
           {
-            "content": {
-              "amount": 1,
-              "matches": [
-                "{id:\"minecraft:iron_ingot\",Count:1b,Damage:0s}"
-              ]
-            },
+            "content": "{FluidName:\"water\",Amount:1000}",
             "chance": 1.0
           }
         ]
@@ -22,8 +17,10 @@
         "item": [
           {
             "content": {
-              "amount": 2,
-              "ore": "stickIron"
+              "amount": 1,
+              "matches": [
+                "{id:\"minecraft:iron_ingot\",Count:1b,Damage:0s}"
+              ]
             },
             "chance": 1.0
           }

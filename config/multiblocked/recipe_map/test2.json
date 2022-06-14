@@ -1,0 +1,28 @@
+{
+  "name": "test2",
+  "progressTexture": "multiblocked:textures/gui/progress_bar_arrow.png",
+  "recipes": [
+    {
+      "uid": "62e9e677-1fa7-4c3c-82ab-01deae53f585",
+      "duration": 10,
+      "inputs": {
+        "fluid": [
+          {
+            "content": "{FluidName:\"water\",Amount:1000}",
+            "chance": 1.0
+          }
+        ]
+      },
+      "outputs": {
+        "fluid": [
+          {
+            "content": "{FluidName:\"water\",Amount:1000}",
+            "chance": 1.0
+          }
+        ]
+      },
+      "tickInputs": {},
+      "tickOutputs": {}
+    }
+  ]
+}

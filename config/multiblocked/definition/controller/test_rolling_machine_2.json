@@ -1,0 +1,161 @@
+{
+  "consumeCatalyst": false,
+  "location": "test:rolling_machine_2",
+  "traits": {
+    "item": [
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "x": 5,
+        "y": 5,
+        "autoIO": true
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "x": 64,
+        "y": 38,
+        "autoIO": true
+      }
+    ],
+    "forge_energy": {
+      "cIO": 2,
+      "gIO": 2,
+      "x": 10,
+      "y": 101,
+      "width": 60,
+      "height": 18,
+      "texture": "multiblocked:textures/gui/energy_bar.png",
+      "capacity": 10000,
+      "maxReceive": 500,
+      "maxExtract": 500
+    }
+  },
+  "allowRotate": true,
+  "showInJei": true,
+  "baseRenderer": {
+    "state": {
+      "id": "immersiveengineering:metal_decoration0",
+      "meta": 3
+    },
+    "type": "blockstate"
+  },
+  "isOpaqueCube": true,
+  "basePattern": {
+    "structureDir": [
+      "FRONT",
+      "UP",
+      "LEFT"
+    ],
+    "pattern": [
+      [
+        "A",
+        "B",
+        " "
+      ],
+      [
+        "@",
+        "C",
+        "D"
+      ],
+      [
+        "A",
+        "E",
+        " "
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "A": {
+        "states": [
+          {
+            "id": "immersiveengineering:metal_decoration1",
+            "meta": 1
+          }
+        ],
+        "type": "states"
+      },
+      "controller": {
+        "location": "test:rolling_machine_2",
+        "type": "component"
+      },
+      "B": {
+        "states": [
+          {
+            "id": "minecraft:chest",
+            "meta": 3
+          }
+        ],
+        "type": "states"
+      },
+      "C": {
+        "states": [
+          {
+            "id": "contenttweaker:mech_engineering_block",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "D": {
+        "states": [
+          {
+            "id": "immersiveengineering:metal_decoration0",
+            "meta": 5
+          }
+        ],
+        "type": "states"
+      },
+      "E": {
+        "states": [
+          {
+            "id": "engineersdecor:factory_hopper",
+            "meta": 5
+          }
+        ],
+        "type": "states",
+        "disableRenderFormed": true
+      },
+      "any": {
+        "type": "any"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ],
+      " ": [
+        "any"
+      ],
+      "A": [
+        "A"
+      ],
+      "B": [
+        "B"
+      ],
+      "C": [
+        "C"
+      ],
+      "D": [
+        "D"
+      ],
+      "E": [
+        "E"
+      ]
+    }
+  },
+  "recipeMap": "rods"
+}

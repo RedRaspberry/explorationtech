@@ -1,0 +1,254 @@
+{
+  "consumeCatalyst": false,
+  "location": "test:steamcrackingplant",
+  "traits": {},
+  "allowRotate": true,
+  "showInJei": true,
+  "baseRenderer": {
+    "state": {
+      "id": "immersiveengineering:metal_decoration0",
+      "meta": 5
+    },
+    "type": "blockstate"
+  },
+  "isOpaqueCube": true,
+  "basePattern": {
+    "structureDir": [
+      "LEFT",
+      "UP",
+      "BACK"
+    ],
+    "pattern": [
+      [
+        "AAAAAAAA      ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              "
+      ],
+      [
+        "AAAAAAAAAAABA ",
+        "C  DDD  EEE@E ",
+        "   DDD  EEEBE ",
+        "   DDD        ",
+        "   DDD        ",
+        "              "
+      ],
+      [
+        "AAFFFAAFFFFFFG",
+        "GFHDDD FIIIII ",
+        "  HD D FEEEEE ",
+        "   D D        ",
+        "   DJD        ",
+        "    F         "
+      ],
+      [
+        "AAAAAAAAAAAAA ",
+        "KKKDDD FEEEEE ",
+        "KKKDDDFFEEEEE ",
+        "KKKDDDF       ",
+        "   DDDF       ",
+        "    FFF       "
+      ],
+      [
+        "AAAAAAAA      ",
+        "LLL           ",
+        "              ",
+        "              ",
+        "              ",
+        "              "
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "A": {
+        "states": [
+          {
+            "id": "immersiveengineering:metal_decoration1",
+            "meta": 1
+          }
+        ],
+        "type": "states"
+      },
+      "controller": {
+        "location": "test:steamcrackingplant",
+        "type": "component"
+      },
+      "B": {
+        "states": [
+          {
+            "id": "immersiveengineering:metal_decoration0",
+            "meta": 5
+          }
+        ],
+        "type": "states"
+      },
+      "C": {
+        "states": [
+          {
+            "id": "immersiveengineering:metal_decoration0",
+            "meta": 2
+          }
+        ],
+        "type": "states"
+      },
+      "D": {
+        "states": [
+          {
+            "id": "immersiveengineering:stone_decoration",
+            "meta": 1
+          }
+        ],
+        "type": "states"
+      },
+      "E": {
+        "states": [
+          {
+            "id": "immersiveengineering:sheetmetal",
+            "meta": 9
+          }
+        ],
+        "type": "states"
+      },
+      "F": {
+        "states": [
+          {
+            "id": "immersiveengineering:metal_device1",
+            "meta": 6
+          }
+        ],
+        "type": "states"
+      },
+      "G": {
+        "states": [
+          {
+            "id": "mekanism:machineblock2",
+            "meta": 11
+          }
+        ],
+        "type": "states"
+      },
+      "H": {
+        "states": [
+          {
+            "id": "immersiveengineering:metal_device0",
+            "meta": 5
+          }
+        ],
+        "type": "states"
+      },
+      "I": {
+        "states": [
+          {
+            "id": "immersiveengineering:metal_decoration0",
+            "meta": 7
+          }
+        ],
+        "type": "states"
+      },
+      "J": {
+        "states": [
+          {
+            "id": "immersiveengineering:metal_device0",
+            "meta": 6
+          }
+        ],
+        "type": "states"
+      },
+      "air": {
+        "type": "air"
+      },
+      "K": {
+        "states": [
+          {
+            "id": "immersiveengineering:metal_device1",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "L": {
+        "states": [
+          {
+            "id": "immersiveengineering:metal_decoration0",
+            "meta": 4
+          }
+        ],
+        "type": "states"
+      },
+      "any": {
+        "type": "any"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ],
+      " ": [
+        "any"
+      ],
+      "A": [
+        "A"
+      ],
+      "B": [
+        "B"
+      ],
+      "C": [
+        "C"
+      ],
+      "D": [
+        "D"
+      ],
+      "E": [
+        "E"
+      ],
+      "F": [
+        "F"
+      ],
+      "G": [
+        "G"
+      ],
+      "H": [
+        "H"
+      ],
+      "I": [
+        "I"
+      ],
+      "J": [
+        "J"
+      ],
+      "K": [
+        "K"
+      ],
+      "L": [
+        "L"
+      ],
+      "-": [
+        "air"
+      ]
+    }
+  },
+  "recipeMap": "test2"
+}

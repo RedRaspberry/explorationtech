@@ -1,0 +1,115 @@
+{
+  "catalyst": "{id:\"immersiveengineering:tool\",Count:1b,Damage:0s}",
+  "consumeCatalyst": false,
+  "location": "test:rolling_machine",
+  "traits": {},
+  "allowRotate": true,
+  "showInJei": true,
+  "baseRenderer": {
+    "state": {
+      "id": "immersiveengineering:metal_decoration0",
+      "meta": 3
+    },
+    "type": "blockstate"
+  },
+  "formedRenderer": {
+    "modelLocation": "multiblocked:obj/metal_press.obj",
+    "type": "obj"
+  },
+  "isOpaqueCube": true,
+  "basePattern": {
+    "structureDir": [
+      "BACK",
+      "UP",
+      "RIGHT"
+    ],
+    "pattern": [
+      [
+        "A",
+        " ",
+        " "
+      ],
+      [
+        "@",
+        "B",
+        "C"
+      ],
+      [
+        "A",
+        " ",
+        " "
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "A": {
+        "states": [
+          {
+            "id": "immersiveengineering:metal_decoration1",
+            "meta": 1
+          }
+        ],
+        "type": "states",
+        "disableRenderFormed": true
+      },
+      "controller": {
+        "location": "test:rolling_machine",
+        "type": "component"
+      },
+      "B": {
+        "states": [
+          {
+            "id": "contenttweaker:mech_engineering_block",
+            "meta": 0
+          }
+        ],
+        "type": "states",
+        "disableRenderFormed": true
+      },
+      "C": {
+        "states": [
+          {
+            "id": "immersiveengineering:metal_decoration0",
+            "meta": 5
+          }
+        ],
+        "type": "states",
+        "disableRenderFormed": true
+      },
+      "any": {
+        "type": "any"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ],
+      " ": [
+        "any"
+      ],
+      "A": [
+        "A"
+      ],
+      "B": [
+        "B"
+      ],
+      "C": [
+        "C"
+      ]
+    }
+  },
+  "recipeMap": "rods"
+}
