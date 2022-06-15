@@ -40,13 +40,13 @@ mods.futuremc.Stonecutter.addOutputs(<backportedblocks:blackstone>, <backportedb
 <backportedblocks:blackstone:4>,
 <backportedblocks:blackstone_stairs>,
 <backportedblocks:blackstone_wall>,
-<backportedblocks:blackstone_slabs>,
+<backportedblocks:blackstone_slabs> * 2,
 <backportedblocks:polished_blackstone_stairs>,
 <backportedblocks:polished_blackstone_wall>,
-<backportedblocks:polished_blackstone_slabs>,
+<backportedblocks:polished_blackstone_slabs> * 2,
 <backportedblocks:blackstone_brick_stairs>,
 <backportedblocks:blackstone_brick_wall>,
-<backportedblocks:blackstone_brick_slabs>);
+<backportedblocks:blackstone_brick_slabs> * 2);
 
 mods.futuremc.Stonecutter.addOutputs(<backportedblocks:blackstone:1>, <backportedblocks:polished_blackstone_stairs>, <backportedblocks:polished_blackstone_wall>, <backportedblocks:polished_blackstone_slabs> * 2);
 mods.futuremc.Stonecutter.addOutputs(<backportedblocks:blackstone:3>, <backportedblocks:blackstone_brick_stairs>, <backportedblocks:blackstone_brick_wall>, <backportedblocks:blackstone_brick_slabs> * 2);
