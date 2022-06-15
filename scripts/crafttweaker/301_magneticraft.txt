@@ -30,7 +30,7 @@ var oretodust = {<minecraft:gold_ore>: <ore:dustGold>.firstItem, //gold
           <minecraft:iron_ore>: <ore:dustIron>.firstItem, //iron
           <immersiveengineering:ore:1>: <ore:dustAluminum>.firstItem, //aluminum
           //<ic2:resource:4>: <immersiveengineering:metal:14>, //uranium
-          <mekanism:oreblock>: <mekanism:dust:2>, //osmium
+          //<mekanism:oreblock>: <mekanism:dust:2>, //osmium
           //<railcraft:ore_metal:5>: <mekores:mekanismore:114>, //zinc
           <thermalfoundation:ore>: <ore:dustCopper>.firstItem, //copper
           <thermalfoundation:ore:1>: <ore:dustTin>.firstItem, //tin
