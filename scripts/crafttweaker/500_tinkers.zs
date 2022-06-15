@@ -1,4 +1,4 @@
-
+import mods.tconstruct.Alloy;
 
 recipes.remove(<tconstruct:smeltery_controller>);
 recipes.addShaped("ct_costly_ticon_smeltery", <tconstruct:smeltery_controller>, [
@@ -6,6 +6,7 @@ recipes.addShaped("ct_costly_ticon_smeltery", <tconstruct:smeltery_controller>, 
 [<tconstruct:materials>, <thermalfoundation:glass:3>, <tconstruct:materials>],
 [<tconstruct:materials>, <immersiveengineering:metal:36>, <tconstruct:materials>]]);
 
+mods.tconstruct.Alloy.addRecipe(<liquid:netherite> * 144, [<liquid:gold> * 576, <liquid:ancient_debris> * 576]);
 
 #import mods.tconstruct.Melting;
 #mods.tconstruct.Melting.addRecipe(<liquid:liquidCrystalMagic> * 144, <item:ebwizardry:crystal_magic>);
