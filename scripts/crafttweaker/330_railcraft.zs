@@ -11,9 +11,9 @@ recipes.remove(<railcraft:cart_trade_station>);
 RollingMachine.remove(<railcraft:rail:0>);
 
 recipes.addShaped("ct_railcraft_motor", <railcraft:charge:5>, [
-[null, <immersiveengineering:material:2>, null],
-[<ic2:crafting:5>, <thermalfoundation:material:321>, <ic2:crafting:5>],
-[null, <railcraft:charge:1>, null]]);
+[null, <ore:stickMagnet> | <ore:rodMagnet>, null],
+[<ore:plateTin>, <immersiveengineering:metal_decoration0>, <ore:plateTin>],
+[null, <thermalfoundation:material:513>, null]]);
 
 #why didn't these recipes already exist??
 var post = <railcraft:post_metal>.definition;

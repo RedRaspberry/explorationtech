@@ -2,7 +2,7 @@ import crafttweaker.item.IIngredient;
 import crafttweaker.oredict.IOreDictEntry;
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IItemCondition;
-import mods.ic2.BlockCutter;
+//import mods.ic2.BlockCutter;
 #they. spelled it wrong in the code. and then put the correct spelling in the docs??
 import mods.immersiveintelligence.PrecissionAssembler;
 
@@ -45,11 +45,11 @@ sawtier += 1;
 }
 
 #block cutting machine recipe for machine parts
-mods.ic2.BlockCutter.addRecipe(<contenttweaker:partcopper> * 16, <contenttweaker:case_copper>, 2);
-mods.ic2.BlockCutter.addRecipe(<contenttweaker:partinvar> * 16, <contenttweaker:case_invar>, 2);
-mods.ic2.BlockCutter.addRecipe(<contenttweaker:partelectrum> * 16, <contenttweaker:case_electrum>, 2);
-mods.ic2.BlockCutter.addRecipe(<contenttweaker:partsignalum> * 16, <contenttweaker:case_signalum>, 2);
-mods.ic2.BlockCutter.addRecipe(<contenttweaker:partenderium> * 16, <contenttweaker:case_enderium>, 2);
+//mods.ic2.BlockCutter.addRecipe(<contenttweaker:partcopper> * 16, <contenttweaker:case_copper>, 2);
+//mods.ic2.BlockCutter.addRecipe(<contenttweaker:partinvar> * 16, <contenttweaker:case_invar>, 2);
+//mods.ic2.BlockCutter.addRecipe(<contenttweaker:partelectrum> * 16, <contenttweaker:case_electrum>, 2);
+//mods.ic2.BlockCutter.addRecipe(<contenttweaker:partsignalum> * 16, <contenttweaker:case_signalum>, 2);
+//mods.ic2.BlockCutter.addRecipe(<contenttweaker:partenderium> * 16, <contenttweaker:case_enderium>, 2);
 
 # II precision assembler recipes to put them back together lol
 mods.immersiveintelligence.PrecissionAssembler.addRecipe(<contenttweaker:case_copper>,<immersiveengineering:metal:20>, [<contenttweaker:partcopper> * 16, <immersiveengineering:material:20>], ["inserter", "solderer", "welder"], ["inserter pick first", "inserter drop main", "welder work main", "inserter pick first", "inserter drop main", "solderer work main"], 4000, 1.2);

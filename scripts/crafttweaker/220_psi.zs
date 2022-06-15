@@ -13,15 +13,15 @@ recipes.addShaped("ct_gold_cad", <psi:cad_assembly:1>, [
 [<ore:blockGold>, null, null]]);
 
 recipes.addShaped("ct_psimetal_cad", <psi:cad_assembly:2>, [
-[<ore:circuitElite>, <railcraft:charge:5> | <ic2:crafting:6>, <ore:ingotPsi>],
+[<ore:circuitElite>, <railcraft:charge:5>, <ore:ingotPsi>],
 [<ore:blockPsiMetal>, null, null]]);
 
 recipes.addShaped("ct_ebony_cad", <psi:cad_assembly:3>, [
-[<ore:circuitElite>, <railcraft:charge:5> | <ic2:crafting:6>, <ore:ingotEbonyPsi>],
+[<ore:circuitElite>, <railcraft:charge:5>, <ore:ingotEbonyPsi>],
 [<psi:psi_decorative:7>, null, null]]);
 
 recipes.addShaped("ct_ivory_cad", <psi:cad_assembly:4>, [
-[<ore:circuitElite>, <railcraft:charge:5> | <ic2:crafting:6>, <ore:ingotIvoryPsi>],
+[<ore:circuitElite>, <railcraft:charge:5>, <ore:ingotIvoryPsi>],
 [<psi:psi_decorative:8>, null, null]]);
 
 recipes.remove(<rpsideas:undervolted_cad_assembly>);

@@ -68,6 +68,6 @@ recipes.addShapedMirrored("ctEvilWings", <wings:evil_wings>,
 [fabric, fairy_dust, fabric]]);
 
 recipes.addShaped("ctDragonWings", <wings:dragon_wings>,
-[[<rats:dragon_wing>, rune_air, <rats:dragon_wing>],
+[[<minecraft:dragon_breath>, rune_air, <minecraft:skull:5>],
 [fabric, elytra, fabric],
 [fabric, fairy_dust, fabric]]);
