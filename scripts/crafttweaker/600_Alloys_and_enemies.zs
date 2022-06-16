@@ -9,7 +9,7 @@ import mods.thermalexpansion.InductionSmelter;
 import mods.tcomplement.highoven.HighOven;
 import mods.industrialforegoing.FluidSievingMachine;
 
-val copper = <ore:ingotCopper> |<ore:dustCopper>;
+val copper = <ore:ingotCopper> * 3 |<ore:dustCopper> * 3;
 val tin = <ore:ingotTin> | <ore:dustTin>;
 mods.enderio.AlloySmelter.removeRecipe(<thermalfoundation:material:163>);
-mods.enderio.AlloySmelter.addRecipe(<ore:ingotBronze>.firstItem, [copper * 3, tin]);
+mods.enderio.AlloySmelter.addRecipe(<ore:ingotBronze>.firstItem, [copper, tin]);
