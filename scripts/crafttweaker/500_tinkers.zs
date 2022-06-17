@@ -1,5 +1,6 @@
 import mods.tconstruct.Alloy;
 import crafttweaker.item.IItemStack;
+import mods.tconstruct.Casting;
 
 recipes.remove(<tconstruct:smeltery_controller>);
 recipes.addShaped("ct_costly_ticon_smeltery", <tconstruct:smeltery_controller>, [
@@ -15,25 +16,16 @@ recipes.addShaped("ct_costly_ticon_smeltery", <tconstruct:smeltery_controller>, 
 #mods.tconstruct.Melting.addEntityMelting(<entity:ebwizardry:wizard>, <liquid:liquidCrystalMagic>);
 #mods.tconstruct.Melting.addEntityMelting(<entity:ebwizardry:evil_wizard>, <liquid:liquidCrystalMagic>);
 
-val tinkertoolcasts = {
-"advanced" : [<tinkertoolcasts:upgrade_advanced>, <thermalfoundation:upgrade>],
-"reinforced" : [<tinkertoolcasts:upgrade_reinforced>, <thermalfoundation:upgrade:1>],
-"iridium" : [<tinkertoolcasts:upgrade_iridium>, <thermalfoundation:upgrade:2>],
-"ultimate" : [<tinkertoolcasts:upgrade_ultimate>, <thermalfoundation:upgrade:3>]
-} as IItemStack[][string];
+//mods.tconstruct.Casting.addTableRecipe(IItemStack output, IIngredient cast, ILiquidStack fluid, int amount, @Optional boolean consumeCast, @Optional int time);
+recipes.remove(<tinkertoolcasts:upgrade_advanced>);
+recipes.remove(<tinkertoolcasts:upgrade_reinforced>);
+recipes.remove(<tinkertoolcasts:upgrade_iridium>);
+recipes.remove(<tinkertoolcasts:upgrade_ultimate>);
 
-var prevTier = null;
-
-for tier, cast in tinkertoolcasts {
-  recipes.remove(cast[0]);
-  if tier == "advanced" {
-    recipes.addShapeless("ct_tinkertoolcasts_"+tier, cast[0], [cast[1], <tconstruct:cast_custom>]);
-  }
-  else {
-    recipes.addShapeless("ct_tinkertoolcasts_"+tier, cast[0], [cast[1], prevTier]);
-  }
-  prevTier = cast[0];
-}
+mods.tconstruct.Casting.addTableRecipe(<tinkertoolcasts:upgrade_advanced>, <thermalfoundation:upgrade>, <liquid:pyrotheum>, 500, true, 200);
+mods.tconstruct.Casting.addTableRecipe(<tinkertoolcasts:upgrade_reinforced>, <thermalfoundation:upgrade:1>, <liquid:redstone>, 500, true, 400);
+mods.tconstruct.Casting.addTableRecipe(<tinkertoolcasts:upgrade_iridium>, <thermalfoundation:upgrade:2>, <liquid:glowstone>, 500, true, 800);
+mods.tconstruct.Casting.addTableRecipe(<tinkertoolcasts:upgrade_ultimate>, <thermalfoundation:upgrade:3>, <liquid:cryotheum>, 500, true, 1600);
 
 //<ore:ingotMelodicAlloy>
 //<ore:ingotStellarAlloy>
