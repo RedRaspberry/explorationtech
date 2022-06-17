@@ -1,7 +1,7 @@
 import crafttweaker.item.IIngredient;
 import crafttweaker.oredict.IOreDictEntry;
 import crafttweaker.item.IItemStack;
-
+import mods.immersivemagneticraft.CrushingTable;
 import mods.jei.JEI.hide;
 
 #removes all crafting recipes that use the immersive hammer to make metal plates, use MGC crushing table instead
@@ -40,7 +40,7 @@ var oretodust = {<minecraft:gold_ore>: <ore:dustGold>.firstItem, //gold
           }
           as IItemStack[IItemStack];
 for ore, dust in oretodust {
-  mods.immersive-magneticraft.CrushingTable.addRecipe(ore, dust * 2, true);
+  mods.immersivemagneticraft.CrushingTable.addRecipe(ore, dust * 2, true);
 }
 
 #ingot -> plate
@@ -58,7 +58,7 @@ var ingottoplate = {<thermalfoundation:material:167>: <thermalfoundation:materia
                 }
                 as IItemStack[IItemStack];
 for ingot, plate in ingottoplate {
-  mods.immersive-magneticraft.CrushingTable.addRecipe(ingot, plate, true);
+  mods.immersivemagneticraft.CrushingTable.addRecipe(ingot, plate, true);
 }
 #plate -> ic2 casing
 /* var platetocasing = {<ore:plateBronze>.firstItem: <ic2:casing>, //bronze
@@ -71,5 +71,5 @@ for ingot, plate in ingottoplate {
                   }
                   as IItemStack[IItemStack];
 for plate1, casing in platetocasing {
-  mods.immersive-magneticraft.CrushingTable.addRecipe(plate1, casing, true);
+  mods.immersivemagneticraft.CrushingTable.addRecipe(plate1, casing, true);
 } */
