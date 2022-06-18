@@ -27,5 +27,10 @@ mods.tconstruct.Casting.addTableRecipe(<tinkertoolcasts:upgrade_reinforced>, <th
 mods.tconstruct.Casting.addTableRecipe(<tinkertoolcasts:upgrade_iridium>, <thermalfoundation:upgrade:2>, <liquid:glowstone>, 500, true, 800);
 mods.tconstruct.Casting.addTableRecipe(<tinkertoolcasts:upgrade_ultimate>, <thermalfoundation:upgrade:3>, <liquid:cryotheum>, 500, true, 1600);
 
+<tinkertoolcasts:upgrade_advanced>.displayName = "Blazing Cast Upgrade";
+<tinkertoolcasts:upgrade_reinforced>.displayName = "Fluxed Cast Upgrade";
+<tinkertoolcasts:upgrade_iridium>.displayName = "Energized Cast Upgrade";
+<tinkertoolcasts:upgrade_ultimate>.displayName = "Gelid Cast Upgrade";
+
 //<ore:ingotMelodicAlloy>
 //<ore:ingotStellarAlloy>
